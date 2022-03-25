@@ -1,0 +1,2415 @@
+year,moth,day,phenomenon,weather_condition,min_temp,med_temp,max_temp,city
+2020,1,2,Nessuno ,sereno ,0 °C ,3 °C ,8 °C ,Bergamo
+2020,1,3,Nessuno ,poco nuvoloso ,0 °C ,4 °C ,9 °C ,Bergamo
+2020,1,4,Nessuno ,sereno ,1 °C ,5 °C ,11 °C ,Bergamo
+2020,1,5,Nessuno ,sereno ,2 °C ,6 °C ,15 °C ,Bergamo
+2020,1,6,Nessuno ,sereno ,1 °C ,4 °C ,8 °C ,Bergamo
+2020,1,7,Nebbia  ,nebbia al mattino ,-3 °C ,1 °C ,5 °C ,Bergamo
+2020,1,8,Nebbia  ,nebbia al mattino ,-5 °C ,1 °C ,9 °C ,Bergamo
+2020,1,9,Nessuno ,sereno ,-2 °C ,4 °C ,11 °C ,Bergamo
+2020,1,10,Nessuno ,poco nuvoloso ,1 °C ,6 °C ,10 °C ,Bergamo
+2020,1,11,Nessuno ,sereno ,0 °C ,5 °C ,12 °C ,Bergamo
+2020,1,12,Nessuno ,sereno ,1 °C ,4 °C ,9 °C ,Bergamo
+2020,1,13,Nessuno ,sereno ,0 °C ,3 °C ,8 °C ,Bergamo
+2020,1,14,Nebbia  ,poco nuvoloso ,0 °C ,3 °C ,6 °C ,Bergamo
+2020,1,15,Pioggia  ,pioggia e schiarite ,3 °C ,5 °C ,7 °C ,Bergamo
+2020,1,16,Nebbia  ,poco nuvoloso ,2 °C ,5 °C ,8 °C ,Bergamo
+2020,1,17,Pioggia  ,poco nuvoloso ,1 °C ,5 °C ,11 °C ,Bergamo
+2020,1,18,Pioggia - Nebbia  ,pioggia e schiarite ,2 °C ,5 °C ,8 °C ,Bergamo
+2020,1,19,Nessuno ,poco nuvoloso ,0 °C ,4 °C ,9 °C ,Bergamo
+2020,1,20,Nessuno ,poco nuvoloso ,0 °C ,4 °C ,8 °C ,Bergamo
+2020,1,21,Nessuno ,sereno ,-1 °C ,2 °C ,8 °C ,Bergamo
+2020,1,22,Nessuno ,sereno ,-1 °C ,3 °C ,9 °C ,Bergamo
+2020,1,23,Nessuno ,sereno ,-1 °C ,3 °C ,10 °C ,Bergamo
+2020,1,24,Nessuno ,poco nuvoloso ,-1 °C ,3 °C ,8 °C ,Bergamo
+2020,1,25,Pioggia  ,pioggia e schiarite ,2 °C ,5 °C ,8 °C ,Bergamo
+2020,1,26,Pioggia  ,poco nuvoloso ,3 °C ,6 °C ,10 °C ,Bergamo
+2020,1,27,Pioggia  ,pioggia e schiarite ,1 °C ,6 °C ,10 °C ,Bergamo
+2020,1,28,Pioggia - Nebbia  ,pioggia e schiarite ,3 °C ,6 °C ,8 °C ,Bergamo
+2020,1,29,Nebbia  ,nebbia al mattino ,1 °C ,7 °C ,14 °C ,Bergamo
+2020,1,30,Nessuno ,sereno ,1 °C ,6 °C ,10 °C ,Bergamo
+2020,1,31,Nessuno ,sereno ,1 °C ,7 °C ,13 °C ,Bergamo
+2020,2,1,Nessuno ,poco nuvoloso ,4 °C ,8 °C ,10 °C ,Bergamo
+2020,2,2,Nebbia  ,nebbia al mattino ,1 °C ,5 °C ,7 °C ,Bergamo
+2020,2,3,Nebbia  ,nebbia al mattino ,2 °C ,6 °C ,9 °C ,Bergamo
+2020,2,4,Nebbia  ,nebbia al mattino ,3 °C ,8 °C ,15 °C ,Bergamo
+2020,2,5,Nessuno ,sereno ,2 °C ,8 °C ,13 °C ,Bergamo
+2020,2,6,Nessuno ,sereno ,0 °C ,5 °C ,11 °C ,Bergamo
+2020,2,7,Nessuno ,sereno ,0 °C ,5 °C ,12 °C ,Bergamo
+2020,2,8,Nessuno ,sereno ,1 °C ,5 °C ,10 °C ,Bergamo
+2020,2,9,Pioggia  ,poco nuvoloso ,1 °C ,6 °C ,10 °C ,Bergamo
+2020,2,10,Pioggia  ,pioggia e schiarite ,5 °C ,7 °C ,12 °C ,Bergamo
+2020,2,11,Nebbia  ,sereno ,1 °C ,10 °C ,18 °C ,Bergamo
+2020,2,12,Nessuno ,sereno ,3 °C ,10 °C ,15 °C ,Bergamo
+2020,2,13,Pioggia  ,pioggia e schiarite ,2 °C ,7 °C ,11 °C ,Bergamo
+2020,2,14,Nessuno ,poco nuvoloso ,2 °C ,7 °C ,15 °C ,Bergamo
+2020,2,15,Nessuno ,sereno ,3 °C ,8 °C ,13 °C ,Bergamo
+2020,2,16,Nessuno ,poco nuvoloso ,2 °C ,7 °C ,12 °C ,Bergamo
+2020,2,17,Pioggia  ,pioggia e schiarite ,6 °C ,9 °C ,11 °C ,Bergamo
+2020,2,18,Nebbia  ,nebbia al mattino ,6 °C ,9 °C ,13 °C ,Bergamo
+2020,2,19,Nessuno ,poco nuvoloso ,4 °C ,9 °C ,14 °C ,Bergamo
+2020,2,20,Nessuno ,poco nuvoloso ,2 °C ,7 °C ,13 °C ,Bergamo
+2020,2,21,Nessuno ,sereno ,2 °C ,7 °C ,13 °C ,Bergamo
+2020,2,22,Nessuno ,sereno ,3 °C ,8 °C ,13 °C ,Bergamo
+2020,2,23,Nessuno ,sereno ,3 °C ,9 °C ,16 °C ,Bergamo
+2020,2,24,Nessuno ,poco nuvoloso ,3 °C ,10 °C ,16 °C ,Bergamo
+2020,2,25,Nessuno ,nubi sparse ,8 °C ,11 °C ,14 °C ,Bergamo
+2020,2,26,Nessuno ,poco nuvoloso ,4 °C ,9 °C ,13 °C ,Bergamo
+2020,2,27,Nessuno ,poco nuvoloso ,1 °C ,7 °C ,11 °C ,Bergamo
+2020,2,28,Nessuno ,sereno ,3 °C ,9 °C ,14 °C ,Bergamo
+2020,2,29,Pioggia  ,pioggia e schiarite ,4 °C ,7 °C ,11 °C ,Bergamo
+2020,3,1,Pioggia  ,pioggia e schiarite ,5 °C ,6 °C ,8 °C ,Bergamo
+2020,3,2,Pioggia - Nebbia  ,pioggia ,0 °C ,6 °C ,9 °C ,Bergamo
+2020,3,3,Pioggia  ,pioggia e schiarite ,4 °C ,7 °C ,12 °C ,Bergamo
+2020,3,4,Nessuno ,poco nuvoloso ,3 °C ,7 °C ,12 °C ,Bergamo
+2020,3,5,Pioggia  ,pioggia e schiarite ,4 °C ,6 °C ,10 °C ,Bergamo
+2020,3,6,Pioggia  ,pioggia e schiarite ,1 °C ,5 °C ,9 °C ,Bergamo
+2020,3,7,Nessuno ,poco nuvoloso ,3 °C ,8 °C ,15 °C ,Bergamo
+2020,3,8,Nessuno ,sereno ,2 °C ,8 °C ,13 °C ,Bergamo
+2020,3,9,Pioggia  ,poco nuvoloso ,4 °C ,7 °C ,11 °C ,Bergamo
+2020,3,10,Nessuno ,poco nuvoloso ,4 °C ,10 °C ,16 °C ,Bergamo
+2020,3,11,Nessuno ,sereno ,4 °C ,11 °C ,18 °C ,Bergamo
+2020,3,12,Nessuno ,coperto ,6 °C ,11 °C ,14 °C ,Bergamo
+2020,3,13,Nessuno ,nubi sparse ,12 °C ,14 °C ,17 °C ,Bergamo
+2020,3,14,Pioggia  ,pioggia e schiarite ,7 °C ,10 °C ,13 °C ,Bergamo
+2020,3,15,Nessuno ,poco nuvoloso ,4 °C ,8 °C ,12 °C ,Bergamo
+2020,3,16,Nessuno ,sereno ,3 °C ,8 °C ,14 °C ,Bergamo
+2020,3,17,Nessuno ,sereno ,4 °C ,10 °C ,16 °C ,Bergamo
+2020,3,18,Nessuno ,sereno ,6 °C ,12 °C ,19 °C ,Bergamo
+2020,3,19,Nessuno ,sereno ,7 °C ,13 °C ,19 °C ,Bergamo
+2020,3,20,Pioggia  ,poco nuvoloso ,8 °C ,13 °C ,18 °C ,Bergamo
+2020,3,21,Nessuno ,sereno ,7 °C ,12 °C ,18 °C ,Bergamo
+2020,3,22,Pioggia  ,poco nuvoloso ,9 °C ,11 °C ,13 °C ,Bergamo
+2020,3,23,Nessuno ,poco nuvoloso ,4 °C ,5 °C ,9 °C ,Bergamo
+2020,3,24,Nessuno ,poco nuvoloso ,0 °C ,6 °C ,10 °C ,Bergamo
+2020,3,25,Nessuno ,poco nuvoloso ,2 °C ,5 °C ,8 °C ,Bergamo
+2020,3,26,Nessuno ,nubi sparse ,0 °C ,4 °C ,7 °C ,Bergamo
+2020,3,27,Pioggia  ,poco nuvoloso ,5 °C ,9 °C ,12 °C ,Bergamo
+2020,3,28,Pioggia  ,poco nuvoloso ,8 °C ,12 °C ,17 °C ,Bergamo
+2020,3,29,Nessuno ,poco nuvoloso ,8 °C ,13 °C ,18 °C ,Bergamo
+2020,3,30,Pioggia  ,pioggia debole ,7 °C ,11 °C ,14 °C ,Bergamo
+2020,3,31,Pioggia  ,pioggia e schiarite ,3 °C ,5 °C ,8 °C ,Bergamo
+2020,4,1,Nessuno ,poco nuvoloso ,2 °C ,6 °C ,9 °C ,Bergamo
+2020,4,2,Nessuno ,sereno ,0 °C ,6 °C ,13 °C ,Bergamo
+2020,4,3,Nessuno ,sereno ,2 °C ,9 °C ,15 °C ,Bergamo
+2020,4,4,Nessuno ,sereno ,5 °C ,11 °C ,17 °C ,Bergamo
+2020,4,5,Nessuno ,sereno ,6 °C ,12 °C ,18 °C ,Bergamo
+2020,4,6,Nessuno ,sereno ,6 °C ,13 °C ,20 °C ,Bergamo
+2020,4,7,Nessuno ,sereno ,7 °C ,14 °C ,21 °C ,Bergamo
+2020,4,8,Nessuno ,sereno ,8 °C ,14 °C ,21 °C ,Bergamo
+2020,4,9,Nessuno ,sereno ,8 °C ,15 °C ,22 °C ,Bergamo
+2020,4,10,Nessuno ,sereno ,8 °C ,16 °C ,24 °C ,Bergamo
+2020,4,11,Nessuno ,sereno ,9 °C ,17 °C ,25 °C ,Bergamo
+2020,4,12,Nessuno ,sereno ,9 °C ,16 °C ,24 °C ,Bergamo
+2020,4,13,Nessuno ,poco nuvoloso ,11 °C ,17 °C ,22 °C ,Bergamo
+2020,4,14,Nessuno ,sereno ,9 °C ,15 °C ,23 °C ,Bergamo
+2020,4,15,Nessuno ,poco nuvoloso ,8 °C ,11 °C ,16 °C ,Bergamo
+2020,4,16,Nessuno ,sereno ,6 °C ,13 °C ,19 °C ,Bergamo
+2020,4,17,Nessuno ,sereno ,7 °C ,15 °C ,21 °C ,Bergamo
+2020,4,18,Nessuno ,sereno ,8 °C ,16 °C ,22 °C ,Bergamo
+2020,4,19,Pioggia  ,sereno ,10 °C ,16 °C ,22 °C ,Bergamo
+2020,4,20,Pioggia  ,pioggia e schiarite ,11 °C ,14 °C ,15 °C ,Bergamo
+2020,4,21,Pioggia  ,pioggia e schiarite ,10 °C ,12 °C ,14 °C ,Bergamo
+2020,4,22,Nessuno ,sereno ,7 °C ,14 °C ,20 °C ,Bergamo
+2020,4,23,Nessuno ,sereno ,8 °C ,15 °C ,21 °C ,Bergamo
+2020,4,24,Nessuno ,sereno ,10 °C ,17 °C ,23 °C ,Bergamo
+2020,4,25,Nessuno ,poco nuvoloso ,11 °C ,18 °C ,24 °C ,Bergamo
+2020,4,26,Nessuno ,poco nuvoloso ,14 °C ,17 °C ,22 °C ,Bergamo
+2020,4,27,Nessuno ,nubi sparse ,14 °C ,17 °C ,21 °C ,Bergamo
+2020,4,28,Pioggia  ,pioggia e schiarite ,13 °C ,16 °C ,19 °C ,Bergamo
+2020,4,29,Pioggia - Temporale  ,pioggia e schiarite ,12 °C ,15 °C ,19 °C ,Bergamo
+2020,4,30,Pioggia - Temporale  ,pioggia e schiarite ,11 °C ,14 °C ,19 °C ,Bergamo
+2020,5,1,Pioggia  ,nubi sparse ,11 °C ,15 °C ,19 °C ,Bergamo
+2020,5,2,Nessuno ,poco nuvoloso ,9 °C ,17 °C ,24 °C ,Bergamo
+2020,5,3,Nessuno ,poco nuvoloso ,11 °C ,17 °C ,22 °C ,Bergamo
+2020,5,4,Nessuno ,poco nuvoloso ,10 °C ,17 °C ,23 °C ,Bergamo
+2020,5,5,Nessuno ,poco nuvoloso ,12 °C ,17 °C ,23 °C ,Bergamo
+2020,5,6,Nessuno ,poco nuvoloso ,12 °C ,17 °C ,20 °C ,Bergamo
+2020,5,7,Nessuno ,poco nuvoloso ,13 °C ,17 °C ,22 °C ,Bergamo
+2020,5,8,Nessuno ,sereno ,12 °C ,19 °C ,25 °C ,Bergamo
+2020,5,9,Nessuno ,sereno ,13 °C ,20 °C ,25 °C ,Bergamo
+2020,5,10,Pioggia  ,pioggia e schiarite ,15 °C ,19 °C ,24 °C ,Bergamo
+2020,5,11,Pioggia  ,pioggia e schiarite ,12 °C ,15 °C ,18 °C ,Bergamo
+2020,5,12,Pioggia  ,poco nuvoloso ,12 °C ,17 °C ,22 °C ,Bergamo
+2020,5,13,Pioggia  ,pioggia e schiarite ,13 °C ,14 °C ,15 °C ,Bergamo
+2020,5,14,Pioggia - Temporale  ,poco nuvoloso ,14 °C ,18 °C ,23 °C ,Bergamo
+2020,5,15,Pioggia - Temporale  ,temporale e schiarite ,12 °C ,16 °C ,20 °C ,Bergamo
+2020,5,16,Pioggia  ,nubi sparse ,15 °C ,17 °C ,21 °C ,Bergamo
+2020,5,17,Pioggia  ,pioggia e schiarite ,14 °C ,19 °C ,24 °C ,Bergamo
+2020,5,18,Pioggia - Temporale  ,poco nuvoloso ,15 °C ,21 °C ,25 °C ,Bergamo
+2020,5,19,Pioggia  ,pioggia e schiarite ,17 °C ,19 °C ,23 °C ,Bergamo
+2020,5,20,Nessuno ,poco nuvoloso ,14 °C ,20 °C ,25 °C ,Bergamo
+2020,5,21,Nessuno ,poco nuvoloso ,14 °C ,20 °C ,25 °C ,Bergamo
+2020,5,22,Nessuno ,sereno ,15 °C ,20 °C ,25 °C ,Bergamo
+2020,5,23,Pioggia - Temporale  ,poco nuvoloso ,17 °C ,21 °C ,26 °C ,Bergamo
+2020,5,24,Nessuno ,poco nuvoloso ,12 °C ,19 °C ,24 °C ,Bergamo
+2020,5,25,Nessuno ,poco nuvoloso ,13 °C ,20 °C ,25 °C ,Bergamo
+2020,5,26,Nessuno ,poco nuvoloso ,13 °C ,19 °C ,23 °C ,Bergamo
+2020,5,27,Nessuno ,poco nuvoloso ,14 °C ,19 °C ,24 °C ,Bergamo
+2020,5,28,Nessuno ,sereno ,12 °C ,19 °C ,25 °C ,Bergamo
+2020,5,29,Pioggia  ,poco nuvoloso ,13 °C ,17 °C ,21 °C ,Bergamo
+2020,5,30,Pioggia  ,nubi sparse ,14 °C ,18 °C ,21 °C ,Bergamo
+2020,5,31,Pioggia  ,pioggia e schiarite ,13 °C ,17 °C ,22 °C ,Bergamo
+2020,6,1,Nessuno ,poco nuvoloso ,13 °C ,20 °C ,25 °C ,Bergamo
+2020,6,2,Pioggia - Temporale  ,temporale e schiarite ,15 °C ,20 °C ,28 °C ,Bergamo
+2020,6,3,Pioggia - Temporale  ,temporale e schiarite ,13 °C ,19 °C ,26 °C ,Bergamo
+2020,6,4,Pioggia  ,pioggia e schiarite ,14 °C ,15 °C ,17 °C ,Bergamo
+2020,6,5,Pioggia  ,pioggia e schiarite ,13 °C ,18 °C ,25 °C ,Bergamo
+2020,6,6,Pioggia - Temporale  ,poco nuvoloso ,14 °C ,20 °C ,25 °C ,Bergamo
+2020,6,7,Pioggia - Temporale  ,pioggia e schiarite ,14 °C ,17 °C ,19 °C ,Bergamo
+2020,6,8,Pioggia - Temporale  ,temporale e schiarite ,13 °C ,17 °C ,22 °C ,Bergamo
+2020,6,9,Pioggia - Temporale  ,temporale e schiarite ,13 °C ,17 °C ,22 °C ,Bergamo
+2020,6,10,Pioggia  ,poco nuvoloso ,13 °C ,17 °C ,21 °C ,Bergamo
+2020,6,11,Pioggia  ,pioggia e schiarite ,13 °C ,16 °C ,21 °C ,Bergamo
+2020,6,12,Nessuno ,poco nuvoloso ,13 °C ,19 °C ,24 °C ,Bergamo
+2020,6,13,Pioggia  ,poco nuvoloso ,15 °C ,20 °C ,26 °C ,Bergamo
+2020,6,14,Pioggia  ,pioggia e schiarite ,16 °C ,20 °C ,25 °C ,Bergamo
+2020,6,15,Pioggia  ,poco nuvoloso ,16 °C ,20 °C ,25 °C ,Bergamo
+2020,6,16,Pioggia  ,poco nuvoloso ,17 °C ,20 °C ,24 °C ,Bergamo
+2020,6,17,Pioggia - Temporale  ,pioggia e schiarite ,15 °C ,19 °C ,23 °C ,Bergamo
+2020,6,18,Nessuno ,poco nuvoloso ,13 °C ,19 °C ,25 °C ,Bergamo
+2020,6,19,Pioggia - Temporale  ,poco nuvoloso ,14 °C ,18 °C ,24 °C ,Bergamo
+2020,6,20,Nessuno ,sereno ,12 °C ,20 °C ,26 °C ,Bergamo
+2020,6,21,Nessuno ,poco nuvoloso ,16 °C ,23 °C ,28 °C ,Bergamo
+2020,6,22,Nessuno ,sereno ,16 °C ,24 °C ,30 °C ,Bergamo
+2020,6,23,Nessuno ,sole e caldo ,18 °C ,25 °C ,30 °C ,Bergamo
+2020,6,24,Nessuno ,poco nuvoloso ,20 °C ,24 °C ,28 °C ,Bergamo
+2020,6,25,Nessuno ,poco nuvoloso ,19 °C ,23 °C ,27 °C ,Bergamo
+2020,6,26,Pioggia - Temporale  ,temporale e schiarite ,18 °C ,23 °C ,28 °C ,Bergamo
+2020,6,27,Nessuno ,poco nuvoloso ,19 °C ,23 °C ,28 °C ,Bergamo
+2020,6,28,Nessuno ,sole e caldo ,19 °C ,25 °C ,30 °C ,Bergamo
+2020,6,29,Nessuno ,poco nuvoloso ,20 °C ,25 °C ,30 °C ,Bergamo
+2020,6,30,Nessuno ,poco nuvoloso ,20 °C ,25 °C ,29 °C ,Bergamo
+2020,7,1,Pioggia  ,poco nuvoloso ,21 °C ,25 °C ,29 °C ,Bergamo
+2020,7,2,Pioggia - Temporale  ,temporale e schiarite ,18 °C ,24 °C ,29 °C ,Bergamo
+2020,7,3,Pioggia - Temporale  ,temporale e schiarite ,17 °C ,22 °C ,28 °C ,Bergamo
+2020,7,4,Pioggia  ,poco nuvoloso ,18 °C ,23 °C ,27 °C ,Bergamo
+2020,7,5,Nessuno ,poco nuvoloso ,18 °C ,24 °C ,29 °C ,Bergamo
+2020,7,6,Pioggia  ,poco nuvoloso ,20 °C ,26 °C ,30 °C ,Bergamo
+2020,7,7,Nessuno ,poco nuvoloso ,19 °C ,22 °C ,25 °C ,Bergamo
+2020,7,8,Nessuno ,poco nuvoloso ,17 °C ,22 °C ,27 °C ,Bergamo
+2020,7,9,Nessuno ,sereno ,17 °C ,23 °C ,29 °C ,Bergamo
+2020,7,10,Nessuno ,poco nuvoloso ,19 °C ,25 °C ,30 °C ,Bergamo
+2020,7,11,Pioggia - Temporale  ,poco nuvoloso ,16 °C ,24 °C ,28 °C ,Bergamo
+2020,7,12,Nessuno ,poco nuvoloso ,17 °C ,22 °C ,26 °C ,Bergamo
+2020,7,13,Nessuno ,poco nuvoloso ,18 °C ,22 °C ,25 °C ,Bergamo
+2020,7,14,Pioggia  ,nubi sparse ,18 °C ,21 °C ,25 °C ,Bergamo
+2020,7,15,Pioggia  ,poco nuvoloso ,18 °C ,21 °C ,27 °C ,Bergamo
+2020,7,16,Nessuno ,poco nuvoloso ,16 °C ,21 °C ,27 °C ,Bergamo
+2020,7,17,Nessuno ,poco nuvoloso ,19 °C ,22 °C ,26 °C ,Bergamo
+2020,7,18,Nessuno ,poco nuvoloso ,18 °C ,22 °C ,26 °C ,Bergamo
+2020,7,19,Nessuno ,poco nuvoloso ,17 °C ,23 °C ,28 °C ,Bergamo
+2020,7,20,Nessuno ,poco nuvoloso ,19 °C ,24 °C ,30 °C ,Bergamo
+2020,7,21,Pioggia  ,poco nuvoloso ,19 °C ,25 °C ,31 °C ,Bergamo
+2020,7,22,Nessuno ,poco nuvoloso ,20 °C ,26 °C ,31 °C ,Bergamo
+2020,7,23,Nessuno ,sereno ,20 °C ,25 °C ,29 °C ,Bergamo
+2020,7,24,Pioggia - Temporale  ,temporale e schiarite ,13 °C ,20 °C ,24 °C ,Bergamo
+2020,7,25,Nessuno ,poco nuvoloso ,16 °C ,22 °C ,28 °C ,Bergamo
+2020,7,26,Nessuno ,sereno ,19 °C ,24 °C ,29 °C ,Bergamo
+2020,7,27,Nessuno ,poco nuvoloso ,19 °C ,25 °C ,30 °C ,Bergamo
+2020,7,28,Pioggia  ,sole e caldo ,20 °C ,26 °C ,31 °C ,Bergamo
+2020,7,29,Nessuno ,poco nuvoloso ,21 °C ,26 °C ,31 °C ,Bergamo
+2020,7,30,Nessuno ,poco nuvoloso ,24 °C ,28 °C ,33 °C ,Bergamo
+2020,7,31,Nessuno ,poco nuvoloso ,23 °C ,28 °C ,34 °C ,Bergamo
+2020,8,1,Nessuno ,sole e caldo ,23 °C ,28 °C ,34 °C ,Bergamo
+2020,8,2,Pioggia - Temporale  ,poco nuvoloso ,19 °C ,26 °C ,30 °C ,Bergamo
+2020,8,3,Pioggia - Temporale  ,pioggia debole ,17 °C ,20 °C ,24 °C ,Bergamo
+2020,8,4,Pioggia  ,pioggia e schiarite ,16 °C ,19 °C ,24 °C ,Bergamo
+2020,8,5,Nessuno ,sereno ,15 °C ,21 °C ,26 °C ,Bergamo
+2020,8,6,Nessuno ,sereno ,17 °C ,23 °C ,29 °C ,Bergamo
+2020,8,7,Nessuno ,poco nuvoloso ,19 °C ,25 °C ,29 °C ,Bergamo
+2020,8,8,Nessuno ,poco nuvoloso ,22 °C ,27 °C ,31 °C ,Bergamo
+2020,8,9,Nessuno ,sole e caldo ,22 °C ,27 °C ,32 °C ,Bergamo
+2020,8,10,Nessuno ,sole e caldo ,22 °C ,27 °C ,32 °C ,Bergamo
+2020,8,11,Nessuno ,sole e caldo ,21 °C ,26 °C ,31 °C ,Bergamo
+2020,8,12,Nessuno ,poco nuvoloso ,21 °C ,26 °C ,31 °C ,Bergamo
+2020,8,13,Pioggia - Temporale  ,temporale e schiarite ,21 °C ,25 °C ,30 °C ,Bergamo
+2020,8,14,Pioggia - Temporale  ,poco nuvoloso ,21 °C ,25 °C ,30 °C ,Bergamo
+2020,8,15,Nessuno ,sereno ,18 °C ,24 °C ,30 °C ,Bergamo
+2020,8,16,Pioggia - Temporale  ,temporale e schiarite ,20 °C ,24 °C ,29 °C ,Bergamo
+2020,8,17,Pioggia - Temporale  ,temporale e schiarite ,20 °C ,24 °C ,28 °C ,Bergamo
+2020,8,18,Pioggia - Temporale  ,poco nuvoloso ,19 °C ,23 °C ,28 °C ,Bergamo
+2020,8,19,Pioggia - Temporale  ,temporale e schiarite ,17 °C ,23 °C ,29 °C ,Bergamo
+2020,8,20,Nessuno ,poco nuvoloso ,20 °C ,24 °C ,30 °C ,Bergamo
+2020,8,21,Nessuno ,poco nuvoloso ,21 °C ,26 °C ,32 °C ,Bergamo
+2020,8,22,Nessuno ,poco nuvoloso ,21 °C ,26 °C ,32 °C ,Bergamo
+2020,8,23,Pioggia - Temporale  ,temporale e schiarite ,19 °C ,23 °C ,28 °C ,Bergamo
+2020,8,24,Nessuno ,poco nuvoloso ,17 °C ,23 °C ,27 °C ,Bergamo
+2020,8,25,Nessuno ,poco nuvoloso ,18 °C ,23 °C ,28 °C ,Bergamo
+2020,8,26,Nessuno ,poco nuvoloso ,19 °C ,23 °C ,29 °C ,Bergamo
+2020,8,27,Nessuno ,poco nuvoloso ,19 °C ,24 °C ,29 °C ,Bergamo
+2020,8,28,Pioggia - Temporale  ,temporale e schiarite ,19 °C ,23 °C ,26 °C ,Bergamo
+2020,8,29,Pioggia - Temporale  ,temporale e schiarite ,18 °C ,20 °C ,22 °C ,Bergamo
+2020,8,30,Pioggia - Temporale  ,nubi sparse ,16 °C ,19 °C ,24 °C ,Bergamo
+2020,8,31,Nessuno ,poco nuvoloso ,14 °C ,18 °C ,23 °C ,Bergamo
+2020,9,1,Nessuno ,poco nuvoloso ,12 °C ,18 °C ,25 °C ,Bergamo
+2020,9,2,Pioggia  ,poco nuvoloso ,15 °C ,18 °C ,23 °C ,Bergamo
+2020,9,3,Nessuno ,sereno ,14 °C ,19 °C ,25 °C ,Bergamo
+2020,9,4,Nessuno ,sereno ,15 °C ,21 °C ,27 °C ,Bergamo
+2020,9,5,Nessuno ,sereno ,16 °C ,22 °C ,28 °C ,Bergamo
+2020,9,6,Pioggia - Temporale  ,poco nuvoloso ,17 °C ,22 °C ,27 °C ,Bergamo
+2020,9,7,Pioggia - Temporale  ,pioggia e schiarite ,16 °C ,20 °C ,25 °C ,Bergamo
+2020,9,8,Nessuno ,poco nuvoloso ,17 °C ,21 °C ,26 °C ,Bergamo
+2020,9,9,Nessuno ,sereno ,16 °C ,22 °C ,27 °C ,Bergamo
+2020,9,10,Nessuno ,sereno ,17 °C ,22 °C ,27 °C ,Bergamo
+2020,9,11,Nessuno ,poco nuvoloso ,19 °C ,22 °C ,26 °C ,Bergamo
+2020,9,12,Nessuno ,sereno ,18 °C ,23 °C ,28 °C ,Bergamo
+2020,9,13,Nessuno ,sereno ,19 °C ,24 °C ,29 °C ,Bergamo
+2020,9,14,Nessuno ,poco nuvoloso ,20 °C ,24 °C ,29 °C ,Bergamo
+2020,9,15,Nessuno ,sereno ,18 °C ,23 °C ,28 °C ,Bergamo
+2020,9,16,Pioggia  ,poco nuvoloso ,20 °C ,24 °C ,28 °C ,Bergamo
+2020,9,17,Pioggia  ,poco nuvoloso ,18 °C ,24 °C ,29 °C ,Bergamo
+2020,9,18,Nessuno ,poco nuvoloso ,19 °C ,23 °C ,28 °C ,Bergamo
+2020,9,19,Pioggia  ,poco nuvoloso ,17 °C ,20 °C ,24 °C ,Bergamo
+2020,9,20,Pioggia  ,poco nuvoloso ,17 °C ,20 °C ,24 °C ,Bergamo
+2020,9,21,Pioggia  ,poco nuvoloso ,16 °C ,20 °C ,24 °C ,Bergamo
+2020,9,22,Pioggia - Temporale  ,pioggia e schiarite ,15 °C ,18 °C ,22 °C ,Bergamo
+2020,9,23,Pioggia  ,pioggia e schiarite ,16 °C ,19 °C ,23 °C ,Bergamo
+2020,9,24,Pioggia - Temporale  ,pioggia e schiarite ,14 °C ,17 °C ,21 °C ,Bergamo
+2020,9,25,Pioggia - Temporale  ,pioggia e schiarite ,12 °C ,15 °C ,21 °C ,Bergamo
+2020,9,26,Nessuno ,poco nuvoloso ,9 °C ,14 °C ,19 °C ,Bergamo
+2020,9,27,Pioggia  ,poco nuvoloso ,6 °C ,12 °C ,17 °C ,Bergamo
+2020,9,28,Nessuno ,poco nuvoloso ,6 °C ,12 °C ,19 °C ,Bergamo
+2020,9,29,Nessuno ,sereno ,9 °C ,14 °C ,20 °C ,Bergamo
+2020,9,30,Nessuno ,sereno ,10 °C ,15 °C ,21 °C ,Bergamo
+2020,10,1,Nessuno ,nubi sparse ,12 °C ,15 °C ,19 °C ,Bergamo
+2020,10,2,Pioggia  ,pioggia e schiarite ,12 °C ,16 °C ,19 °C ,Bergamo
+2020,10,3,Pioggia  ,pioggia e schiarite ,12 °C ,17 °C ,19 °C ,Bergamo
+2020,10,4,Pioggia - Temporale  ,pioggia e schiarite ,10 °C ,14 °C ,20 °C ,Bergamo
+2020,10,5,Pioggia  ,pioggia e schiarite ,10 °C ,14 °C ,17 °C ,Bergamo
+2020,10,6,Pioggia  ,poco nuvoloso ,9 °C ,13 °C ,17 °C ,Bergamo
+2020,10,7,Nessuno ,poco nuvoloso ,10 °C ,15 °C ,23 °C ,Bergamo
+2020,10,8,Nessuno ,sereno ,9 °C ,15 °C ,21 °C ,Bergamo
+2020,10,9,Nessuno ,sereno ,10 °C ,14 °C ,19 °C ,Bergamo
+2020,10,10,Nessuno ,poco nuvoloso ,10 °C ,15 °C ,20 °C ,Bergamo
+2020,10,11,Pioggia - Temporale  ,pioggia e schiarite ,10 °C ,12 °C ,14 °C ,Bergamo
+2020,10,12,Nessuno ,poco nuvoloso ,7 °C ,11 °C ,16 °C ,Bergamo
+2020,10,13,Nessuno ,sereno ,4 °C ,10 °C ,16 °C ,Bergamo
+2020,10,14,Nessuno ,poco nuvoloso ,5 °C ,10 °C ,16 °C ,Bergamo
+2020,10,15,Pioggia  ,pioggia e schiarite ,9 °C ,10 °C ,11 °C ,Bergamo
+2020,10,16,Pioggia  ,pioggia e schiarite ,9 °C ,11 °C ,16 °C ,Bergamo
+2020,10,17,Nessuno ,poco nuvoloso ,6 °C ,11 °C ,16 °C ,Bergamo
+2020,10,18,Nessuno ,poco nuvoloso ,7 °C ,11 °C ,17 °C ,Bergamo
+2020,10,19,Nessuno ,poco nuvoloso ,7 °C ,11 °C ,16 °C ,Bergamo
+2020,10,20,Nessuno ,poco nuvoloso ,7 °C ,11 °C ,14 °C ,Bergamo
+2020,10,21,Nessuno ,nubi sparse ,9 °C ,13 °C ,16 °C ,Bergamo
+2020,10,22,Pioggia  ,poco nuvoloso ,9 °C ,12 °C ,15 °C ,Bergamo
+2020,10,23,Pioggia - Nebbia  ,pioggia ,12 °C ,13 °C ,13 °C ,Bergamo
+2020,10,24,Pioggia - Nebbia  ,pioggia e schiarite ,11 °C ,13 °C ,15 °C ,Bergamo
+2020,10,25,Pioggia - Nebbia  ,pioggia debole ,9 °C ,13 °C ,18 °C ,Bergamo
+2020,10,26,Pioggia  ,pioggia e schiarite ,12 °C ,13 °C ,14 °C ,Bergamo
+2020,10,27,Pioggia  ,pioggia e schiarite ,9 °C ,12 °C ,15 °C ,Bergamo
+2020,10,28,Nessuno ,poco nuvoloso ,7 °C ,11 °C ,16 °C ,Bergamo
+2020,10,29,Nessuno ,poco nuvoloso ,8 °C ,11 °C ,16 °C ,Bergamo
+2020,10,30,Nessuno ,poco nuvoloso ,7 °C ,12 °C ,17 °C ,Bergamo
+2020,10,31,Nessuno ,sereno ,7 °C ,11 °C ,17 °C ,Bergamo
+2020,11,1,Nebbia  ,nebbia al mattino ,8 °C ,11 °C ,16 °C ,Bergamo
+2020,11,2,Nebbia  ,nebbia al mattino ,8 °C ,10 °C ,13 °C ,Bergamo
+2020,11,3,Nebbia  ,nebbia al mattino ,11 °C ,13 °C ,15 °C ,Bergamo
+2020,11,4,Nebbia  ,nubi sparse ,10 °C ,13 °C ,17 °C ,Bergamo
+2020,11,5,Nebbia  ,poco nuvoloso ,10 °C ,13 °C ,17 °C ,Bergamo
+2020,11,6,Nessuno ,poco nuvoloso ,10 °C ,13 °C ,16 °C ,Bergamo
+2020,11,7,Nessuno ,sereno ,8 °C ,11 °C ,17 °C ,Bergamo
+2020,11,8,Nessuno ,sereno ,7 °C ,11 °C ,17 °C ,Bergamo
+2020,11,9,Nessuno ,sereno ,7 °C ,11 °C ,17 °C ,Bergamo
+2020,11,10,Nebbia  ,sereno ,8 °C ,11 °C ,17 °C ,Bergamo
+2020,11,11,Nebbia  ,nebbia al mattino ,6 °C ,9 °C ,11 °C ,Bergamo
+2020,11,12,Nessuno ,poco nuvoloso ,8 °C ,11 °C ,13 °C ,Bergamo
+2020,11,13,Grandine  ,nubi sparse ,8 °C ,10 °C ,12 °C ,Bergamo
+2020,11,14,Nessuno ,nubi sparse ,9 °C ,10 °C ,13 °C ,Bergamo
+2020,11,15,Nessuno ,nubi sparse ,10 °C ,11 °C ,12 °C ,Bergamo
+2020,11,16,Pioggia - Nebbia  ,pioggia e schiarite ,7 °C ,10 °C ,12 °C ,Bergamo
+2020,11,17,Nessuno ,sereno ,6 °C ,9 °C ,15 °C ,Bergamo
+2020,11,18,Nebbia  ,nebbia al mattino ,4 °C ,8 °C ,12 °C ,Bergamo
+2020,11,19,Nebbia  ,sereno ,3 °C ,7 °C ,13 °C ,Bergamo
+2020,11,20,Pioggia  ,poco nuvoloso ,4 °C ,9 °C ,13 °C ,Bergamo
+2020,11,21,Nessuno ,sereno ,1 °C ,6 °C ,10 °C ,Bergamo
+2020,11,22,Nessuno ,sereno ,1 °C ,4 °C ,10 °C ,Bergamo
+2020,11,23,Nessuno ,poco nuvoloso ,1 °C ,5 °C ,10 °C ,Bergamo
+2020,11,24,Nessuno ,sereno ,1 °C ,6 °C ,12 °C ,Bergamo
+2020,11,25,Nessuno ,sereno ,2 °C ,5 °C ,11 °C ,Bergamo
+2020,11,26,Nessuno ,sereno ,1 °C ,5 °C ,10 °C ,Bergamo
+2020,11,27,Pioggia  ,pioggia e schiarite ,1 °C ,5 °C ,9 °C ,Bergamo
+2020,11,28,Nessuno ,poco nuvoloso ,2 °C ,6 °C ,10 °C ,Bergamo
+2020,11,29,Nessuno ,poco nuvoloso ,3 °C ,7 °C ,10 °C ,Bergamo
+2020,11,30,Nessuno ,poco nuvoloso ,1 °C ,4 °C ,6 °C ,Bergamo
+2020,12,1,Nessuno ,nubi sparse ,3 °C ,5 °C ,6 °C ,Bergamo
+2020,12,2,Pioggia - Neve - Nebbia  ,pioggia mista a neve e schiarite ,0 °C ,1 °C ,3 °C ,Bergamo
+2020,12,3,Nebbia  ,nebbia al mattino ,-1 °C ,2 °C ,6 °C ,Bergamo
+2020,12,4,Pioggia - Neve - Nebbia  ,pioggia e schiarite ,0 °C ,4 °C ,9 °C ,Bergamo
+2020,12,5,Pioggia - Nebbia  ,pioggia e schiarite ,3 °C ,5 °C ,10 °C ,Bergamo
+2020,12,6,Pioggia - Nebbia  ,pioggia debole ,3 °C ,5 °C ,6 °C ,Bergamo
+2020,12,7,Pioggia - Nebbia  ,pioggia e schiarite ,3 °C ,5 °C ,7 °C ,Bergamo
+2020,12,8,Pioggia  ,pioggia e schiarite ,4 °C ,5 °C ,6 °C ,Bergamo
+2020,12,9,Pioggia - Nebbia  ,pioggia e schiarite ,4 °C ,5 °C ,6 °C ,Bergamo
+2020,12,10,Pioggia  ,nubi sparse ,5 °C ,6 °C ,9 °C ,Bergamo
+2020,12,11,Pioggia  ,poco nuvoloso ,2 °C ,5 °C ,7 °C ,Bergamo
+2020,12,12,Pioggia - Nebbia  ,nebbia al mattino ,2 °C ,5 °C ,7 °C ,Bergamo
+2020,12,13,Nessuno ,sereno ,-1 °C ,4 °C ,9 °C ,Bergamo
+2020,12,14,Nessuno ,poco nuvoloso ,1 °C ,5 °C ,9 °C ,Bergamo
+2020,12,15,Pioggia  ,nubi sparse ,3 °C ,6 °C ,9 °C ,Bergamo
+2020,12,16,Pioggia  ,pioggia e schiarite ,6 °C ,7 °C ,10 °C ,Bergamo
+2020,12,17,Nebbia  ,nebbia al mattino ,6 °C ,7 °C ,8 °C ,Bergamo
+2020,12,18,Pioggia  ,nubi sparse ,6 °C ,7 °C ,10 °C ,Bergamo
+2020,12,19,Pioggia - Nebbia  ,nebbia al mattino ,6 °C ,8 °C ,10 °C ,Bergamo
+2020,12,20,Pioggia - Nebbia  ,pioggia e schiarite ,6 °C ,7 °C ,8 °C ,Bergamo
+2020,12,21,Pioggia - Nebbia  ,pioggia e schiarite ,7 °C ,8 °C ,9 °C ,Bergamo
+2020,12,22,Nebbia  ,nebbia al mattino ,7 °C ,8 °C ,10 °C ,Bergamo
+2020,12,23,Nessuno ,nubi sparse ,6 °C ,8 °C ,9 °C ,Bergamo
+2020,12,24,Pioggia - Nebbia  ,pioggia debole ,7 °C ,8 °C ,8 °C ,Bergamo
+2020,12,25,Pioggia - Neve - Nebbia  ,pioggia debole ,4 °C ,6 °C ,7 °C ,Bergamo
+2020,12,26,Nessuno ,sereno ,0 °C ,3 °C ,9 °C ,Bergamo
+2020,12,27,Neve  ,poco nuvoloso ,-1 °C ,1 °C ,4 °C ,Bergamo
+2020,12,28,Neve  ,neve e schiarite ,0 °C ,0 °C ,1 °C ,Bergamo
+2020,12,29,Pioggia - Nebbia  ,pioggia e schiarite ,-1 °C ,1 °C ,3 °C ,Bergamo
+2020,12,30,Neve - Nebbia  ,neve e schiarite ,-1 °C ,1 °C ,4 °C ,Bergamo
+2020,12,31,Nessuno ,poco nuvoloso ,-3 °C ,1 °C ,6 °C ,Bergamo
+2021,1,1,Pioggia  ,pioggia e schiarite ,2 °C ,2 °C ,3 °C ,Bergamo
+2021,1,2,Pioggia - Nebbia  ,pioggia e schiarite ,3 °C ,4 °C ,7 °C ,Bergamo
+2021,1,3,Pioggia  ,pioggia e schiarite ,4 °C ,5 °C ,7 °C ,Bergamo
+2021,1,4,Pioggia  ,nubi sparse ,2 °C ,5 °C ,7 °C ,Bergamo
+2021,1,5,Pioggia - Neve  ,pioggia e schiarite ,2 °C ,4 °C ,6 °C ,Bergamo
+2021,1,6,Pioggia - Neve  ,pioggia mista a neve e schiarite ,1 °C ,3 °C ,4 °C ,Bergamo
+2021,1,7,Nessuno ,poco nuvoloso ,0 °C ,2 °C ,5 °C ,Bergamo
+2021,1,8,Nessuno ,poco nuvoloso ,-1 °C ,1 °C ,5 °C ,Bergamo
+2021,1,9,Nessuno ,poco nuvoloso ,-2 °C ,1 °C ,5 °C ,Bergamo
+2021,1,10,Nessuno ,poco nuvoloso ,-2 °C ,1 °C ,4 °C ,Bergamo
+2021,1,11,Nessuno ,sereno ,-3 °C ,-1 °C ,4 °C ,Bergamo
+2021,1,12,Nessuno ,sereno ,-4 °C ,0 °C ,4 °C ,Bergamo
+2021,1,13,Nessuno ,sereno ,-3 °C ,2 °C ,9 °C ,Bergamo
+2021,1,15,Nessuno ,poco nuvoloso ,-1 °C ,3 °C ,6 °C ,Bergamo
+2021,1,16,Nessuno ,sereno ,-2 °C ,1 °C ,5 °C ,Bergamo
+2021,1,17,Nessuno ,poco nuvoloso ,-2 °C ,0 °C ,2 °C ,Bergamo
+2021,1,18,Nessuno ,sereno ,-3 °C ,0 °C ,4 °C ,Bergamo
+2021,1,19,Nessuno ,poco nuvoloso ,-3 °C ,0 °C ,4 °C ,Bergamo
+2021,1,20,Pioggia - Neve - Nebbia  ,pioggia debole ,0 °C ,2 °C ,3 °C ,Bergamo
+2021,1,21,Pioggia - Nebbia  ,pioggia debole ,2 °C ,3 °C ,4 °C ,Bergamo
+2021,1,22,Pioggia - Nebbia  ,pioggia debole ,3 °C ,4 °C ,7 °C ,Bergamo
+2021,1,23,Pioggia  ,pioggia e schiarite ,3 °C ,6 °C ,8 °C ,Bergamo
+2021,1,24,Nebbia  ,nebbia al mattino ,-1 °C ,2 °C ,6 °C ,Bergamo
+2021,1,25,Nessuno ,poco nuvoloso ,0 °C ,3 °C ,6 °C ,Bergamo
+2021,1,26,Nessuno ,sereno ,-1 °C ,4 °C ,10 °C ,Bergamo
+2021,1,27,Nessuno ,poco nuvoloso ,-1 °C ,3 °C ,6 °C ,Bergamo
+2021,1,28,Nessuno ,poco nuvoloso ,-1 °C ,2 °C ,6 °C ,Bergamo
+2021,1,29,Nessuno ,poco nuvoloso ,0 °C ,2 °C ,5 °C ,Bergamo
+2021,1,30,Pioggia  ,poco nuvoloso ,0 °C ,5 °C ,11 °C ,Bergamo
+2021,1,31,Pioggia  ,pioggia e schiarite ,4 °C ,7 °C ,11 °C ,Bergamo
+2021,2,1,Pioggia  ,nubi sparse ,2 °C ,5 °C ,7 °C ,Bergamo
+2021,2,2,Nebbia  ,nebbia al mattino ,1 °C ,4 °C ,8 °C ,Bergamo
+2021,2,3,Pioggia  ,pioggia e schiarite ,3 °C ,5 °C ,6 °C ,Bergamo
+2021,2,4,Nebbia  ,nebbia al mattino ,3 °C ,7 °C ,9 °C ,Bergamo
+2021,2,5,Nebbia  ,poco nuvoloso ,7 °C ,8 °C ,10 °C ,Bergamo
+2021,2,6,Pioggia - Grandine  ,nubi sparse ,8 °C ,9 °C ,9 °C ,Bergamo
+2021,2,7,Pioggia  ,pioggia e schiarite ,7 °C ,8 °C ,9 °C ,Bergamo
+2021,2,8,Pioggia  ,pioggia e schiarite ,5 °C ,7 °C ,12 °C ,Bergamo
+2021,2,9,Pioggia  ,pioggia e schiarite ,6 °C ,8 °C ,11 °C ,Bergamo
+2021,2,10,Pioggia  ,pioggia e schiarite ,3 °C ,6 °C ,8 °C ,Bergamo
+2021,2,11,Pioggia  ,poco nuvoloso ,2 °C ,6 °C ,12 °C ,Bergamo
+2021,2,12,Neve  ,coperto ,0 °C ,3 °C ,6 °C ,Bergamo
+2021,2,13,Neve  ,poco nuvoloso ,-2 °C ,-1 °C ,1 °C ,Bergamo
+2021,2,14,Nessuno ,sereno ,-5 °C ,0 °C ,5 °C ,Bergamo
+2021,2,15,Nessuno ,sereno ,-3 °C ,2 °C ,7 °C ,Bergamo
+2021,2,16,Nessuno ,poco nuvoloso ,-1 °C ,5 °C ,10 °C ,Bergamo
+2021,2,17,Nessuno ,poco nuvoloso ,4 °C ,8 °C ,14 °C ,Bergamo
+2021,2,18,Pioggia  ,poco nuvoloso ,5 °C ,8 °C ,10 °C ,Bergamo
+2021,2,19,Pioggia  ,pioggia e schiarite ,7 °C ,8 °C ,11 °C ,Bergamo
+2021,2,20,Pioggia - Nebbia  ,nebbia al mattino ,5 °C ,9 °C ,11 °C ,Bergamo
+2021,2,21,Nessuno ,poco nuvoloso ,5 °C ,8 °C ,12 °C ,Bergamo
+2021,2,22,Nessuno ,poco nuvoloso ,5 °C ,9 °C ,13 °C ,Bergamo
+2021,2,23,Nessuno ,sereno ,5 °C ,9 °C ,15 °C ,Bergamo
+2021,2,24,Nessuno ,sereno ,6 °C ,12 °C ,20 °C ,Bergamo
+2021,2,25,Nessuno ,sereno ,6 °C ,13 °C ,20 °C ,Bergamo
+2021,2,26,Nessuno ,sereno ,7 °C ,12 °C ,18 °C ,Bergamo
+2021,2,27,Nessuno ,poco nuvoloso ,7 °C ,12 °C ,18 °C ,Bergamo
+2021,2,28,Nessuno ,poco nuvoloso ,5 °C ,9 °C ,12 °C ,Bergamo
+2021,3,1,Nessuno ,sereno ,3 °C ,8 °C ,15 °C ,Bergamo
+2021,3,2,Nessuno ,sereno ,4 °C ,9 °C ,14 °C ,Bergamo
+2021,3,3,Nessuno ,poco nuvoloso ,5 °C ,9 °C ,13 °C ,Bergamo
+2021,3,4,Nessuno ,poco nuvoloso ,4 °C ,9 °C ,13 °C ,Bergamo
+2021,3,5,Nessuno ,poco nuvoloso ,6 °C ,11 °C ,15 °C ,Bergamo
+2021,3,6,Pioggia  ,nubi sparse ,6 °C ,8 °C ,10 °C ,Bergamo
+2021,3,7,Nessuno ,poco nuvoloso ,1 °C ,6 °C ,11 °C ,Bergamo
+2021,3,8,Nessuno ,sereno ,1 °C ,6 °C ,11 °C ,Bergamo
+2021,3,9,Nessuno ,poco nuvoloso ,2 °C ,7 °C ,12 °C ,Bergamo
+2021,3,10,Nessuno ,poco nuvoloso ,3 °C ,8 °C ,13 °C ,Bergamo
+2021,3,11,Pioggia  ,poco nuvoloso ,4 °C ,8 °C ,12 °C ,Bergamo
+2021,3,12,Nessuno ,poco nuvoloso ,6 °C ,10 °C ,15 °C ,Bergamo
+2021,3,13,Nessuno ,poco nuvoloso ,4 °C ,10 °C ,15 °C ,Bergamo
+2021,3,14,Pioggia - Temporale  ,poco nuvoloso ,4 °C ,10 °C ,15 °C ,Bergamo
+2021,3,15,Nessuno ,poco nuvoloso ,1 °C ,9 °C ,16 °C ,Bergamo
+2021,3,16,Nessuno ,poco nuvoloso ,5 °C ,10 °C ,15 °C ,Bergamo
+2021,3,17,Nessuno ,poco nuvoloso ,5 °C ,9 °C ,14 °C ,Bergamo
+2021,3,18,Nessuno ,poco nuvoloso ,2 °C ,6 °C ,9 °C ,Bergamo
+2021,3,19,Nessuno ,poco nuvoloso ,2 °C ,5 °C ,9 °C ,Bergamo
+2021,3,20,Nessuno ,poco nuvoloso ,0 °C ,6 °C ,10 °C ,Bergamo
+2021,3,21,Nessuno ,poco nuvoloso ,0 °C ,4 °C ,9 °C ,Bergamo
+2021,3,22,Nessuno ,sereno ,0 °C ,7 °C ,14 °C ,Bergamo
+2021,3,23,Nessuno ,sereno ,1 °C ,7 °C ,13 °C ,Bergamo
+2021,3,24,Nessuno ,sereno ,3 °C ,9 °C ,16 °C ,Bergamo
+2021,3,25,Nessuno ,sereno ,4 °C ,10 °C ,17 °C ,Bergamo
+2021,3,26,Nessuno ,sereno ,5 °C ,12 °C ,17 °C ,Bergamo
+2021,3,27,Pioggia  ,poco nuvoloso ,8 °C ,11 °C ,15 °C ,Bergamo
+2021,3,28,Nessuno ,poco nuvoloso ,6 °C ,13 °C ,18 °C ,Bergamo
+2021,3,29,Nessuno ,sereno ,8 °C ,14 °C ,20 °C ,Bergamo
+2021,3,30,Nessuno ,sereno ,9 °C ,16 °C ,22 °C ,Bergamo
+2021,3,31,Nessuno ,sereno ,10 °C ,16 °C ,23 °C ,Bergamo
+2021,4,1,Nessuno ,sereno ,11 °C ,18 °C ,25 °C ,Bergamo
+2021,4,2,Nessuno ,poco nuvoloso ,9 °C ,17 °C ,24 °C ,Bergamo
+2021,4,3,Pioggia - Temporale  ,poco nuvoloso ,7 °C ,13 °C ,18 °C ,Bergamo
+2021,4,4,Nessuno ,poco nuvoloso ,6 °C ,11 °C ,15 °C ,Bergamo
+2021,4,5,Nessuno ,poco nuvoloso ,4 °C ,10 °C ,15 °C ,Bergamo
+2021,4,6,Pioggia - Temporale  ,poco nuvoloso ,2 °C ,8 °C ,14 °C ,Bergamo
+2021,4,7,Nessuno ,poco nuvoloso ,0 °C ,6 °C ,10 °C ,Bergamo
+2021,4,8,Nessuno ,sereno ,0 °C ,8 °C ,15 °C ,Bergamo
+2021,4,9,Nessuno ,poco nuvoloso ,4 °C ,9 °C ,14 °C ,Bergamo
+2021,4,10,Pioggia  ,poco nuvoloso ,7 °C ,10 °C ,15 °C ,Bergamo
+2021,4,11,Pioggia  ,pioggia e schiarite ,8 °C ,9 °C ,12 °C ,Bergamo
+2021,4,12,Pioggia  ,pioggia debole ,9 °C ,10 °C ,12 °C ,Bergamo
+2021,4,13,Pioggia  ,poco nuvoloso ,6 °C ,9 °C ,12 °C ,Bergamo
+2021,4,14,Nessuno ,poco nuvoloso ,2 °C ,8 °C ,13 °C ,Bergamo
+2021,4,15,Pioggia  ,nubi sparse ,5 °C ,7 °C ,10 °C ,Bergamo
+2021,4,16,Nessuno ,poco nuvoloso ,2 °C ,8 °C ,13 °C ,Bergamo
+2021,4,17,Nessuno ,poco nuvoloso ,3 °C ,10 °C ,14 °C ,Bergamo
+2021,4,18,Pioggia  ,pioggia e schiarite ,8 °C ,9 °C ,14 °C ,Bergamo
+2021,4,19,Pioggia  ,poco nuvoloso ,4 °C ,10 °C ,15 °C ,Bergamo
+2021,4,20,Nessuno ,poco nuvoloso ,5 °C ,12 °C ,18 °C ,Bergamo
+2021,4,21,Nessuno ,poco nuvoloso ,6 °C ,12 °C ,17 °C ,Bergamo
+2021,4,22,Nessuno ,poco nuvoloso ,6 °C ,12 °C ,18 °C ,Bergamo
+2021,4,23,Nessuno ,poco nuvoloso ,8 °C ,14 °C ,19 °C ,Bergamo
+2021,4,24,Nessuno ,poco nuvoloso ,9 °C ,15 °C ,21 °C ,Bergamo
+2021,4,25,Nessuno ,sereno ,9 °C ,16 °C ,23 °C ,Bergamo
+2021,4,26,Nessuno ,poco nuvoloso ,11 °C ,14 °C ,16 °C ,Bergamo
+2021,4,27,Pioggia  ,pioggia e schiarite ,10 °C ,12 °C ,14 °C ,Bergamo
+2021,4,28,Pioggia  ,pioggia e schiarite ,10 °C ,13 °C ,17 °C ,Bergamo
+2021,4,29,Pioggia  ,pioggia e schiarite ,12 °C ,13 °C ,15 °C ,Bergamo
+2021,4,30,Pioggia  ,pioggia e schiarite ,11 °C ,14 °C ,19 °C ,Bergamo
+2021,5,1,Pioggia  ,pioggia e schiarite ,11 °C ,14 °C ,17 °C ,Bergamo
+2021,5,2,Pioggia  ,nubi sparse ,10 °C ,14 °C ,19 °C ,Bergamo
+2021,5,3,Nessuno ,poco nuvoloso ,8 °C ,13 °C ,18 °C ,Bergamo
+2021,5,4,Nessuno ,poco nuvoloso ,9 °C ,14 °C ,20 °C ,Bergamo
+2021,5,5,Nessuno ,poco nuvoloso ,9 °C ,14 °C ,20 °C ,Bergamo
+2021,5,6,Nessuno ,poco nuvoloso ,8 °C ,14 °C ,19 °C ,Bergamo
+2021,5,7,Nessuno ,poco nuvoloso ,11 °C ,18 °C ,23 °C ,Bergamo
+2021,5,8,Nessuno ,poco nuvoloso ,9 °C ,16 °C ,20 °C ,Bergamo
+2021,5,9,Nessuno ,poco nuvoloso ,10 °C ,17 °C ,23 °C ,Bergamo
+2021,5,10,Pioggia  ,poco nuvoloso ,13 °C ,18 °C ,23 °C ,Bergamo
+2021,5,11,Pioggia  ,pioggia debole ,12 °C ,14 °C ,17 °C ,Bergamo
+2021,5,12,Pioggia - Temporale  ,temporale e schiarite ,11 °C ,15 °C ,21 °C ,Bergamo
+2021,5,13,Pioggia - Temporale  ,nubi sparse ,11 °C ,14 °C ,21 °C ,Bergamo
+2021,5,14,Pioggia - Temporale  ,poco nuvoloso ,8 °C ,13 °C ,19 °C ,Bergamo
+2021,5,15,Pioggia  ,nubi sparse ,10 °C ,14 °C ,18 °C ,Bergamo
+2021,5,16,Pioggia  ,pioggia e schiarite ,10 °C ,15 °C ,17 °C ,Bergamo
+2021,5,17,Pioggia - Temporale  ,poco nuvoloso ,11 °C ,16 °C ,22 °C ,Bergamo
+2021,5,18,Pioggia  ,poco nuvoloso ,9 °C ,15 °C ,22 °C ,Bergamo
+2021,5,19,Nessuno ,poco nuvoloso ,10 °C ,16 °C ,21 °C ,Bergamo
+2021,5,20,Nessuno ,poco nuvoloso ,8 °C ,16 °C ,22 °C ,Bergamo
+2021,5,21,Pioggia  ,poco nuvoloso ,10 °C ,16 °C ,21 °C ,Bergamo
+2021,5,22,Pioggia  ,pioggia e schiarite ,11 °C ,15 °C ,19 °C ,Bergamo
+2021,5,23,Nessuno ,poco nuvoloso ,13 °C ,18 °C ,23 °C ,Bergamo
+2021,5,24,Pioggia  ,pioggia e schiarite ,13 °C ,13 °C ,15 °C ,Bergamo
+2021,5,25,Nebbia  ,poco nuvoloso ,11 °C ,17 °C ,23 °C ,Bergamo
+2021,5,26,Nessuno ,poco nuvoloso ,8 °C ,16 °C ,22 °C ,Bergamo
+2021,5,27,Nessuno ,poco nuvoloso ,11 °C ,18 °C ,24 °C ,Bergamo
+2021,5,28,Nessuno ,poco nuvoloso ,11 °C ,19 °C ,24 °C ,Bergamo
+2021,5,29,Nessuno ,poco nuvoloso ,14 °C ,19 °C ,24 °C ,Bergamo
+2021,5,30,Nessuno ,poco nuvoloso ,13 °C ,19 °C ,22 °C ,Bergamo
+2021,5,31,Nessuno ,poco nuvoloso ,16 °C ,19 °C ,22 °C ,Bergamo
+2021,6,1,Nessuno ,poco nuvoloso ,15 °C ,20 °C ,24 °C ,Bergamo
+2021,6,2,Nessuno ,poco nuvoloso ,14 °C ,20 °C ,24 °C ,Bergamo
+2021,6,3,Nessuno ,poco nuvoloso ,16 °C ,22 °C ,27 °C ,Bergamo
+2021,6,4,Nessuno ,poco nuvoloso ,16 °C ,22 °C ,28 °C ,Bergamo
+2021,6,5,Pioggia - Temporale  ,poco nuvoloso ,19 °C ,22 °C ,27 °C ,Bergamo
+2021,6,6,Pioggia - Temporale  ,pioggia e schiarite ,15 °C ,21 °C ,26 °C ,Bergamo
+2021,6,7,Pioggia - Temporale  ,nubi sparse ,16 °C ,20 °C ,23 °C ,Bergamo
+2021,6,8,Pioggia - Temporale  ,nubi sparse ,17 °C ,20 °C ,25 °C ,Bergamo
+2021,6,9,Pioggia - Temporale  ,poco nuvoloso ,16 °C ,21 °C ,27 °C ,Bergamo
+2021,6,10,Nessuno ,poco nuvoloso ,16 °C ,22 °C ,28 °C ,Bergamo
+2021,6,11,Pioggia - Temporale  ,poco nuvoloso ,18 °C ,22 °C ,28 °C ,Bergamo
+2021,6,12,Nessuno ,sereno ,16 °C ,23 °C ,29 °C ,Bergamo
+2021,6,13,Nessuno ,sole e caldo ,18 °C ,26 °C ,32 °C ,Bergamo
+2021,6,14,Nessuno ,poco nuvoloso ,19 °C ,24 °C ,28 °C ,Bergamo
+2021,6,15,Nessuno ,poco nuvoloso ,21 °C ,24 °C ,28 °C ,Bergamo
+2021,6,16,Nessuno ,poco nuvoloso ,18 °C ,23 °C ,27 °C ,Bergamo
+2021,6,17,Nessuno ,poco nuvoloso ,20 °C ,26 °C ,30 °C ,Bergamo
+2021,6,18,Nessuno ,poco nuvoloso ,21 °C ,26 °C ,30 °C ,Bergamo
+2021,6,19,Nessuno ,poco nuvoloso ,19 °C ,25 °C ,30 °C ,Bergamo
+2021,6,20,Nessuno ,poco nuvoloso ,20 °C ,25 °C ,30 °C ,Bergamo
+2021,6,21,Nessuno ,nubi sparse ,21 °C ,26 °C ,30 °C ,Bergamo
+2021,6,22,Pioggia - Temporale  ,poco nuvoloso ,18 °C ,24 °C ,30 °C ,Bergamo
+2021,6,23,Pioggia - Temporale  ,poco nuvoloso ,18 °C ,24 °C ,29 °C ,Bergamo
+2021,6,24,Pioggia - Temporale  ,poco nuvoloso ,17 °C ,23 °C ,29 °C ,Bergamo
+2021,6,25,Nessuno ,poco nuvoloso ,15 °C ,23 °C ,29 °C ,Bergamo
+2021,6,26,Nessuno ,poco nuvoloso ,17 °C ,24 °C ,29 °C ,Bergamo
+2021,6,27,Nessuno ,poco nuvoloso ,19 °C ,25 °C ,30 °C ,Bergamo
+2021,6,28,Pioggia - Temporale  ,poco nuvoloso ,20 °C ,27 °C ,32 °C ,Bergamo
+2021,6,29,Pioggia  ,poco nuvoloso ,21 °C ,26 °C ,31 °C ,Bergamo
+2021,6,30,Pioggia - Temporale  ,poco nuvoloso ,19 °C ,22 °C ,27 °C ,Bergamo
+2021,7,1,Nessuno ,poco nuvoloso ,16 °C ,23 °C ,30 °C ,Bergamo
+2021,7,2,Nessuno ,poco nuvoloso ,18 °C ,24 °C ,30 °C ,Bergamo
+2021,7,3,Pioggia  ,poco nuvoloso ,19 °C ,24 °C ,29 °C ,Bergamo
+2021,7,4,Pioggia - Temporale  ,pioggia e schiarite ,17 °C ,20 °C ,24 °C ,Bergamo
+2021,7,5,Nessuno ,poco nuvoloso ,14 °C ,22 °C ,29 °C ,Bergamo
+2021,7,6,Nessuno ,poco nuvoloso ,18 °C ,25 °C ,30 °C ,Bergamo
+2021,7,7,Pioggia - Temporale  ,poco nuvoloso ,20 °C ,26 °C ,31 °C ,Bergamo
+2021,7,8,Pioggia - Temporale  ,temporale e schiarite ,16 °C ,22 °C ,30 °C ,Bergamo
+2021,7,9,Nessuno ,poco nuvoloso ,15 °C ,22 °C ,29 °C ,Bergamo
+2021,7,10,Nessuno ,poco nuvoloso ,16 °C ,24 °C ,29 °C ,Bergamo
+2021,7,11,Pioggia - Temporale  ,poco nuvoloso ,18 °C ,24 °C ,29 °C ,Bergamo
+2021,7,12,Nessuno ,poco nuvoloso ,19 °C ,25 °C ,29 °C ,Bergamo
+2021,7,13,Pioggia - Temporale  ,poco nuvoloso ,18 °C ,23 °C ,27 °C ,Bergamo
+2021,7,14,Pioggia - Temporale  ,poco nuvoloso ,15 °C ,19 °C ,23 °C ,Bergamo
+2021,7,15,Pioggia  ,nubi sparse ,17 °C ,21 °C ,24 °C ,Bergamo
+2021,7,16,Pioggia - Temporale  ,poco nuvoloso ,16 °C ,20 °C ,26 °C ,Bergamo
+2021,7,17,Nessuno ,poco nuvoloso ,17 °C ,23 °C ,28 °C ,Bergamo
+2021,7,18,Nessuno ,poco nuvoloso ,19 °C ,25 °C ,30 °C ,Bergamo
+2021,7,19,Nessuno ,poco nuvoloso ,20 °C ,26 °C ,31 °C ,Bergamo
+2021,7,20,Nessuno ,poco nuvoloso ,20 °C ,26 °C ,31 °C ,Bergamo
+2021,7,21,Nessuno ,sole e caldo ,20 °C ,26 °C ,31 °C ,Bergamo
+2021,7,22,Nessuno ,poco nuvoloso ,22 °C ,26 °C ,30 °C ,Bergamo
+2021,7,23,Nessuno ,poco nuvoloso ,20 °C ,25 °C ,30 °C ,Bergamo
+2021,7,24,Nessuno ,poco nuvoloso ,22 °C ,26 °C ,30 °C ,Bergamo
+2021,7,25,Pioggia - Temporale  ,temporale e schiarite ,20 °C ,24 °C ,28 °C ,Bergamo
+2021,7,26,Pioggia - Temporale  ,temporale e schiarite ,17 °C ,22 °C ,27 °C ,Bergamo
+2021,7,27,Pioggia - Temporale  ,nubi sparse ,20 °C ,23 °C ,28 °C ,Bergamo
+2021,7,28,Nessuno ,poco nuvoloso ,20 °C ,24 °C ,28 °C ,Bergamo
+2021,7,29,Nessuno ,poco nuvoloso ,18 °C ,24 °C ,29 °C ,Bergamo
+2021,7,30,Nessuno ,poco nuvoloso ,20 °C ,25 °C ,29 °C ,Bergamo
+2021,7,31,Pioggia - Temporale  ,poco nuvoloso ,21 °C ,25 °C ,29 °C ,Bergamo
+2021,8,1,Pioggia - Temporale  ,temporale e schiarite ,16 °C ,21 °C ,25 °C ,Bergamo
+2021,8,2,Pioggia - Temporale  ,poco nuvoloso ,15 °C ,21 °C ,26 °C ,Bergamo
+2021,8,3,Pioggia  ,nubi sparse ,16 °C ,21 °C ,25 °C ,Bergamo
+2021,8,4,Pioggia  ,pioggia e schiarite ,18 °C ,20 °C ,23 °C ,Bergamo
+2021,8,5,Pioggia  ,poco nuvoloso ,14 °C ,21 °C ,28 °C ,Bergamo
+2021,8,6,Nessuno ,poco nuvoloso ,17 °C ,23 °C ,28 °C ,Bergamo
+2021,8,7,Nessuno ,poco nuvoloso ,18 °C ,23 °C ,26 °C ,Bergamo
+2021,8,8,Nessuno ,poco nuvoloso ,21 °C ,25 °C ,29 °C ,Bergamo
+2021,8,9,Nessuno ,poco nuvoloso ,18 °C ,24 °C ,29 °C ,Bergamo
+2021,8,10,Nessuno ,sereno ,18 °C ,24 °C ,30 °C ,Bergamo
+2021,8,11,Nessuno ,sole e caldo ,19 °C ,25 °C ,32 °C ,Bergamo
+2021,8,12,Nessuno ,sole e caldo ,21 °C ,26 °C ,32 °C ,Bergamo
+2021,8,13,Pioggia - Temporale  ,poco nuvoloso ,22 °C ,28 °C ,33 °C ,Bergamo
+2021,8,14,Nessuno ,sole e caldo ,22 °C ,28 °C ,34 °C ,Bergamo
+2021,8,15,Nessuno ,sole e caldo ,23 °C ,28 °C ,34 °C ,Bergamo
+2021,8,16,Pioggia - Temporale  ,poco nuvoloso ,18 °C ,25 °C ,30 °C ,Bergamo
+2021,8,17,Nessuno ,poco nuvoloso ,15 °C ,21 °C ,28 °C ,Bergamo
+2021,8,18,Nessuno ,sereno ,17 °C ,22 °C ,26 °C ,Bergamo
+2021,8,19,Nessuno ,poco nuvoloso ,17 °C ,22 °C ,27 °C ,Bergamo
+2021,8,20,Nessuno ,poco nuvoloso ,18 °C ,23 °C ,29 °C ,Bergamo
+2021,8,21,Nessuno ,sole e caldo ,18 °C ,24 °C ,30 °C ,Bergamo
+2021,8,22,Nessuno ,poco nuvoloso ,19 °C ,25 °C ,30 °C ,Bergamo
+2021,8,23,Pioggia - Temporale  ,temporale e schiarite ,18 °C ,22 °C ,27 °C ,Bergamo
+2021,8,24,Pioggia - Temporale  ,poco nuvoloso ,17 °C ,21 °C ,27 °C ,Bergamo
+2021,8,25,Pioggia  ,poco nuvoloso ,18 °C ,21 °C ,26 °C ,Bergamo
+2021,8,26,Nessuno ,poco nuvoloso ,16 °C ,22 °C ,27 °C ,Bergamo
+2021,8,27,Pioggia  ,nubi sparse ,16 °C ,19 °C ,22 °C ,Bergamo
+2021,8,28,Pioggia - Temporale  ,poco nuvoloso ,14 °C ,18 °C ,23 °C ,Bergamo
+2021,8,29,Nessuno ,poco nuvoloso ,13 °C ,19 °C ,25 °C ,Bergamo
+2021,8,30,Pioggia - Temporale  ,poco nuvoloso ,13 °C ,20 °C ,26 °C ,Bergamo
+2021,8,31,Pioggia - Temporale  ,poco nuvoloso ,16 °C ,19 °C ,25 °C ,Bergamo
+2021,9,1,Nessuno ,sereno ,15 °C ,21 °C ,26 °C ,Bergamo
+2021,9,2,Nessuno ,poco nuvoloso ,16 °C ,21 °C ,26 °C ,Bergamo
+2021,9,3,Nessuno ,poco nuvoloso ,16 °C ,21 °C ,26 °C ,Bergamo
+2021,9,4,Nessuno ,poco nuvoloso ,18 °C ,22 °C ,26 °C ,Bergamo
+2021,9,5,Nessuno ,poco nuvoloso ,16 °C ,21 °C ,27 °C ,Bergamo
+2021,9,6,Nessuno ,poco nuvoloso ,19 °C ,23 °C ,27 °C ,Bergamo
+2021,9,7,Nessuno ,poco nuvoloso ,16 °C ,22 °C ,27 °C ,Bergamo
+2021,9,8,Nessuno ,poco nuvoloso ,17 °C ,22 °C ,27 °C ,Bergamo
+2021,9,9,Nessuno ,poco nuvoloso ,15 °C ,22 °C ,27 °C ,Bergamo
+2021,9,10,Nessuno ,poco nuvoloso ,17 °C ,21 °C ,25 °C ,Bergamo
+2021,9,11,Nessuno ,poco nuvoloso ,18 °C ,22 °C ,27 °C ,Bergamo
+2021,9,12,Nessuno ,sereno ,16 °C ,21 °C ,28 °C ,Bergamo
+2021,9,13,Nessuno ,sereno ,17 °C ,22 °C ,29 °C ,Bergamo
+2021,9,14,Nessuno ,sereno ,17 °C ,23 °C ,27 °C ,Bergamo
+2021,9,15,Pioggia  ,poco nuvoloso ,19 °C ,22 °C ,26 °C ,Bergamo
+2021,9,16,Pioggia - Temporale  ,temporale e schiarite ,19 °C ,21 °C ,24 °C ,Bergamo
+2021,9,17,Nessuno ,poco nuvoloso ,17 °C ,21 °C ,26 °C ,Bergamo
+2021,9,18,Nessuno ,nubi sparse ,18 °C ,21 °C ,25 °C ,Bergamo
+2021,9,19,Pioggia - Temporale  ,temporale e schiarite ,14 °C ,19 °C ,23 °C ,Bergamo
+2021,9,20,Pioggia - Temporale  ,poco nuvoloso ,11 °C ,17 °C ,23 °C ,Bergamo
+2021,9,21,Pioggia  ,poco nuvoloso ,14 °C ,17 °C ,21 °C ,Bergamo
+2021,9,22,Nessuno ,poco nuvoloso ,14 °C ,18 °C ,22 °C ,Bergamo
+2021,9,23,Nessuno ,poco nuvoloso ,14 °C ,18 °C ,21 °C ,Bergamo
+2021,9,24,Nessuno ,sereno ,13 °C ,18 °C ,24 °C ,Bergamo
+2021,9,25,Nessuno ,poco nuvoloso ,14 °C ,19 °C ,24 °C ,Bergamo
+2021,9,26,Pioggia - Temporale  ,pioggia e schiarite ,16 °C ,18 °C ,20 °C ,Bergamo
+2021,9,27,Nebbia  ,poco nuvoloso ,13 °C ,18 °C ,22 °C ,Bergamo
+2021,9,28,Nessuno ,sereno ,14 °C ,19 °C ,25 °C ,Bergamo
+2021,9,29,Pioggia - Temporale  ,poco nuvoloso ,17 °C ,20 °C ,25 °C ,Bergamo
+2021,9,30,Nessuno ,poco nuvoloso ,15 °C ,18 °C ,22 °C ,Bergamo
+2021,10,1,Nessuno ,poco nuvoloso ,14 °C ,18 °C ,22 °C ,Bergamo
+2021,10,2,Nessuno ,poco nuvoloso ,15 °C ,18 °C ,22 °C ,Bergamo
+2021,10,3,Pioggia  ,pioggia e schiarite ,14 °C ,16 °C ,17 °C ,Bergamo
+2021,10,4,Pioggia - Temporale  ,pioggia e schiarite ,16 °C ,18 °C ,20 °C ,Bergamo
+2021,10,5,Pioggia  ,pioggia e schiarite ,15 °C ,17 °C ,20 °C ,Bergamo
+2021,10,6,Pioggia  ,pioggia e schiarite ,10 °C ,13 °C ,15 °C ,Bergamo
+2021,10,7,Nessuno ,poco nuvoloso ,9 °C ,13 °C ,18 °C ,Bergamo
+2021,10,8,Nessuno ,poco nuvoloso ,11 °C ,14 °C ,19 °C ,Bergamo
+2021,10,9,Nessuno ,nubi sparse ,13 °C ,14 °C ,16 °C ,Bergamo
+2021,10,10,Nessuno ,poco nuvoloso ,8 °C ,13 °C ,16 °C ,Bergamo
+2021,10,11,Nessuno ,sereno ,7 °C ,11 °C ,19 °C ,Bergamo
+2021,10,12,Nessuno ,poco nuvoloso ,9 °C ,12 °C ,17 °C ,Bergamo
+2021,10,13,Nessuno ,poco nuvoloso ,8 °C ,13 °C ,18 °C ,Bergamo
+2021,10,14,Nessuno ,poco nuvoloso ,7 °C ,11 °C ,16 °C ,Bergamo
+2021,10,15,Nessuno ,sereno ,6 °C ,10 °C ,16 °C ,Bergamo
+2021,10,16,Nessuno ,sereno ,7 °C ,12 °C ,18 °C ,Bergamo
+2021,10,17,Nessuno ,sereno ,6 °C ,11 °C ,18 °C ,Bergamo
+2021,10,18,Nessuno ,sereno ,8 °C ,12 °C ,19 °C ,Bergamo
+2021,10,19,Nessuno ,poco nuvoloso ,9 °C ,13 °C ,18 °C ,Bergamo
+2021,10,20,Pioggia  ,pioggia e schiarite ,10 °C ,14 °C ,19 °C ,Bergamo
+2021,10,21,Pioggia - Nebbia  ,pioggia e schiarite ,12 °C ,14 °C ,15 °C ,Bergamo
+2021,10,22,Nebbia  ,nebbia al mattino ,10 °C ,13 °C ,18 °C ,Bergamo
+2021,10,23,Nessuno ,poco nuvoloso ,11 °C ,13 °C ,18 °C ,Bergamo
+2021,10,24,Nessuno ,poco nuvoloso ,10 °C ,13 °C ,16 °C ,Bergamo
+2021,10,25,Nessuno ,poco nuvoloso ,8 °C ,10 °C ,13 °C ,Bergamo
+2021,10,26,Nessuno ,sereno ,5 °C ,10 °C ,15 °C ,Bergamo
+2021,10,27,Nessuno ,sereno ,7 °C ,11 °C ,18 °C ,Bergamo
+2021,10,28,Nessuno ,sereno ,6 °C ,11 °C ,17 °C ,Bergamo
+2021,10,29,Nessuno ,sereno ,7 °C ,12 °C ,16 °C ,Bergamo
+2021,10,30,Pioggia  ,pioggia e schiarite ,7 °C ,10 °C ,13 °C ,Bergamo
+2021,10,31,Pioggia - Nebbia  ,nubi sparse ,10 °C ,11 °C ,14 °C ,Bergamo
+2021,11,1,Pioggia  ,pioggia e schiarite ,8 °C ,10 °C ,12 °C ,Bergamo
+2021,11,2,Nebbia  ,nebbia al mattino ,6 °C ,9 °C ,14 °C ,Bergamo
+2021,11,3,Pioggia  ,pioggia e schiarite ,8 °C ,10 °C ,12 °C ,Bergamo
+2021,11,4,Pioggia  ,pioggia e schiarite ,6 °C ,9 °C ,13 °C ,Bergamo
+2021,11,5,Nessuno ,sereno ,4 °C ,8 °C ,14 °C ,Bergamo
+2021,11,6,Nessuno ,sereno ,3 °C ,7 °C ,13 °C ,Bergamo
+2021,11,7,Nessuno ,sereno ,4 °C ,8 °C ,14 °C ,Bergamo
+2021,11,8,Nessuno ,poco nuvoloso ,4 °C ,8 °C ,10 °C ,Bergamo
+2021,11,9,Nessuno ,poco nuvoloso ,4 °C ,8 °C ,12 °C ,Bergamo
+2021,11,10,Nessuno ,poco nuvoloso ,9 °C ,11 °C ,14 °C ,Bergamo
+2021,11,11,Nebbia  ,nubi sparse ,9 °C ,12 °C ,15 °C ,Bergamo
+2021,11,12,Nessuno ,sereno ,7 °C ,11 °C ,17 °C ,Bergamo
+2021,11,13,Pioggia  ,pioggia e schiarite ,8 °C ,11 °C ,13 °C ,Bergamo
+2021,11,14,Pioggia  ,pioggia debole ,10 °C ,11 °C ,11 °C ,Bergamo
+2021,11,15,Pioggia  ,pioggia e schiarite ,9 °C ,11 °C ,13 °C ,Bergamo
+2021,11,16,Pioggia - Nebbia  ,pioggia e schiarite ,7 °C ,10 °C ,12 °C ,Bergamo
+2021,11,17,Pioggia - Nebbia  ,pioggia e schiarite ,8 °C ,10 °C ,13 °C ,Bergamo
+2021,11,18,Nebbia  ,nebbia al mattino ,7 °C ,10 °C ,14 °C ,Bergamo
+2021,11,19,Nebbia  ,nebbia al mattino ,9 °C ,10 °C ,13 °C ,Bergamo
+2021,11,20,Nebbia  ,poco nuvoloso ,6 °C ,8 °C ,10 °C ,Bergamo
+2021,11,21,Pioggia - Neve - Nebbia  ,nebbia al mattino ,3 °C ,7 °C ,10 °C ,Bergamo
+2021,11,22,Pioggia  ,pioggia debole ,6 °C ,8 °C ,10 °C ,Bergamo
+2021,11,23,Pioggia  ,pioggia e schiarite ,7 °C ,10 °C ,11 °C ,Bergamo
+2021,11,24,Nessuno ,poco nuvoloso ,4 °C ,7 °C ,11 °C ,Bergamo
+2021,11,25,Pioggia  ,pioggia e schiarite ,4 °C ,6 °C ,7 °C ,Bergamo
+2021,11,26,Pioggia - Nebbia  ,nebbia al mattino ,6 °C ,7 °C ,9 °C ,Bergamo
+2021,11,27,Pioggia  ,pioggia e schiarite ,7 °C ,8 °C ,10 °C ,Bergamo
+2021,11,28,Pioggia  ,pioggia e schiarite ,1 °C ,4 °C ,7 °C ,Bergamo
+2021,11,29,Nessuno ,sereno ,0 °C ,4 °C ,8 °C ,Bergamo
+2021,11,30,Nessuno ,sereno ,0 °C ,5 °C ,9 °C ,Bergamo
+2021,12,1,Pioggia  ,poco nuvoloso ,2 °C ,5 °C ,7 °C ,Bergamo
+2021,12,2,Pioggia  ,pioggia e schiarite ,2 °C ,5 °C ,8 °C ,Bergamo
+2021,12,3,Nessuno ,poco nuvoloso ,1 °C ,5 °C ,10 °C ,Bergamo
+2021,12,4,Nessuno ,nubi sparse ,0 °C ,3 °C ,6 °C ,Bergamo
+2021,12,5,Nessuno ,poco nuvoloso ,1 °C ,3 °C ,8 °C ,Bergamo
+2021,12,6,Nessuno ,sereno ,-1 °C ,2 °C ,8 °C ,Bergamo
+2021,12,7,Nessuno ,sereno ,-1 °C ,2 °C ,8 °C ,Bergamo
+2021,12,8,Pioggia - Neve  ,pioggia mista a neve ,0 °C ,1 °C ,3 °C ,Bergamo
+2021,12,9,Neve - Nebbia  ,nebbia al mattino ,-2 °C ,1 °C ,2 °C ,Bergamo
+2021,12,10,Pioggia - Neve  ,pioggia e schiarite ,-3 °C ,1 °C ,3 °C ,Bergamo
+2021,12,11,Nessuno ,sereno ,-2 °C ,3 °C ,8 °C ,Bergamo
+2021,12,12,Nessuno ,sereno ,-1 °C ,3 °C ,10 °C ,Bergamo
+2021,12,13,Nessuno ,poco nuvoloso ,2 °C ,6 °C ,11 °C ,Bergamo
+2021,12,14,Nessuno ,poco nuvoloso ,2 °C ,5 °C ,10 °C ,Bergamo
+2021,12,15,Nessuno ,sereno ,1 °C ,4 °C ,10 °C ,Bergamo
+2021,12,16,Nessuno ,sereno ,1 °C ,4 °C ,9 °C ,Bergamo
+2021,12,17,Nebbia  ,nebbia al mattino ,-2 °C ,3 °C ,10 °C ,Bergamo
+2021,12,18,Nebbia  ,nebbia al mattino ,-1 °C ,2 °C ,10 °C ,Bergamo
+2021,12,19,Nebbia  ,sereno ,-2 °C ,4 °C ,9 °C ,Bergamo
+2021,12,20,Nessuno ,sereno ,-1 °C ,4 °C ,9 °C ,Bergamo
+2021,12,21,Nessuno ,nubi sparse ,1 °C ,5 °C ,8 °C ,Bergamo
+2021,12,22,Nessuno ,poco nuvoloso ,0 °C ,4 °C ,7 °C ,Bergamo
+2021,12,23,Nebbia  ,nebbia al mattino ,-3 °C ,0 °C ,4 °C ,Bergamo
+2021,12,24,Nebbia  ,nubi sparse ,1 °C ,3 °C ,4 °C ,Bergamo
+2021,12,25,Nebbia  ,coperto ,4 °C ,4 °C ,5 °C ,Bergamo
+2021,12,26,Nebbia  ,nebbia al mattino ,0 °C ,4 °C ,8 °C ,Bergamo
+2021,12,27,Pioggia - Nebbia  ,pioggia debole ,2 °C ,5 °C ,7 °C ,Bergamo
+2021,12,28,Nebbia  ,nebbia al mattino ,2 °C ,6 °C ,8 °C ,Bergamo
+2021,12,29,Nebbia  ,nebbia al mattino ,1 °C ,3 °C ,7 °C ,Bergamo
+2021,12,30,Nebbia  ,nebbia al mattino ,0 °C ,3 °C ,11 °C ,Bergamo
+2021,12,31,Nebbia  ,nebbia al mattino ,-1 °C ,5 °C ,13 °C ,Bergamo
+2022,1,1,Nessuno ,sereno ,0 °C ,6 °C ,12 °C ,Bergamo
+2022,1,2,Nessuno ,sereno ,2 °C ,7 °C ,12 °C ,Bergamo
+2022,1,3,Nebbia  ,nebbia al mattino ,0 °C ,3 °C ,5 °C ,Bergamo
+2022,1,4,Pioggia  ,pioggia e schiarite ,5 °C ,6 °C ,7 °C ,Bergamo
+2022,1,5,Pioggia - Nebbia  ,pioggia e schiarite ,6 °C ,7 °C ,8 °C ,Bergamo
+2022,1,6,Nebbia  ,poco nuvoloso ,1 °C ,4 °C ,7 °C ,Bergamo
+2022,1,7,Nessuno ,poco nuvoloso ,-1 °C ,2 °C ,7 °C ,Bergamo
+2022,1,8,Nessuno ,sereno ,-2 °C ,1 °C ,5 °C ,Bergamo
+2022,1,9,Nessuno ,poco nuvoloso ,-1 °C ,1 °C ,4 °C ,Bergamo
+2022,1,10,Nessuno ,sereno ,-2 °C ,2 °C ,8 °C ,Bergamo
+2022,1,11,Nessuno ,sereno ,-1 °C ,3 °C ,10 °C ,Bergamo
+2022,1,12,Nessuno ,sereno ,-2 °C ,2 °C ,7 °C ,Bergamo
+2022,1,13,Nessuno ,sereno ,-1 °C ,2 °C ,8 °C ,Bergamo
+2022,1,14,Nessuno ,sereno ,-1 °C ,4 °C ,11 °C ,Bergamo
+2022,1,15,Nessuno ,sereno ,2 °C ,6 °C ,13 °C ,Bergamo
+2022,1,16,Nessuno ,sereno ,1 °C ,5 °C ,11 °C ,Bergamo
+2022,1,17,Nessuno ,sereno ,0 °C ,6 °C ,13 °C ,Bergamo
+2022,1,18,Nessuno ,sereno ,1 °C ,5 °C ,11 °C ,Bergamo
+2022,1,19,Nessuno ,sereno ,1 °C ,4 °C ,9 °C ,Bergamo
+2022,1,20,Pioggia - Nebbia  ,nebbia al mattino ,0 °C ,3 °C ,6 °C ,Bergamo
+2022,1,21,Nebbia  ,nebbia al mattino ,-3 °C ,0 °C ,4 °C ,Bergamo
+2022,1,22,Nebbia  ,nebbia al mattino ,-4 °C ,0 °C ,5 °C ,Bergamo
+2022,1,23,Nessuno ,sereno ,-1 °C ,2 °C ,7 °C ,Bergamo
+2022,1,24,Nebbia  ,nebbia al mattino ,-1 °C ,1 °C ,6 °C ,Bergamo
+2022,1,25,Nessuno ,poco nuvoloso ,-1 °C ,2 °C ,7 °C ,Bergamo
+2022,1,26,Nebbia  ,nebbia al mattino ,-2 °C ,1 °C ,3 °C ,Bergamo
+2022,1,27,Pioggia - Nebbia  ,nebbia al mattino ,0 °C ,2 °C ,6 °C ,Bergamo
+2022,1,28,Nebbia  ,nebbia al mattino ,-3 °C ,3 °C ,10 °C ,Bergamo
+2022,1,29,Nessuno ,sereno ,-2 °C ,4 °C ,11 °C ,Bergamo
+2022,1,30,Nessuno ,sereno ,0 °C ,6 °C ,15 °C ,Bergamo
+2022,1,31,Nessuno ,poco nuvoloso ,0 °C ,6 °C ,13 °C ,Bergamo
+2022,2,1,Nessuno ,sereno ,4 °C ,9 °C ,14 °C ,Bergamo
+2022,2,2,Nessuno ,sereno ,2 °C ,11 °C ,18 °C ,Bergamo
+2022,2,3,Nessuno ,sereno ,3 °C ,8 °C ,12 °C ,Bergamo
+2022,2,4,Nebbia  ,poco nuvoloso ,3 °C ,7 °C ,11 °C ,Bergamo
+2022,2,5,Nessuno ,poco nuvoloso ,2 °C ,5 °C ,9 °C ,Bergamo
+2022,2,6,Nebbia  ,poco nuvoloso ,0 °C ,5 °C ,10 °C ,Bergamo
+2022,2,7,Nessuno ,sereno ,2 °C ,7 °C ,13 °C ,Bergamo
+2022,2,8,Nessuno ,sereno ,0 °C ,5 °C ,14 °C ,Bergamo
+2022,2,9,Nessuno ,sereno ,2 °C ,7 °C ,14 °C ,Bergamo
+2022,2,10,Nessuno ,nubi sparse ,5 °C ,9 °C ,12 °C ,Bergamo
+2022,2,11,Nessuno ,poco nuvoloso ,3 °C ,8 °C ,14 °C ,Bergamo
+2022,2,12,Nessuno ,sereno ,1 °C ,5 °C ,10 °C ,Bergamo
+2022,2,13,Nessuno ,sereno ,-1 °C ,3 °C ,9 °C ,Bergamo
+2022,2,14,Pioggia - Neve  ,pioggia e schiarite ,0 °C ,3 °C ,5 °C ,Bergamo
+2022,2,15,Pioggia - Neve  ,pioggia mista a neve e schiarite ,0 °C ,2 °C ,4 °C ,Bergamo
+2022,2,16,Nessuno ,sereno ,0 °C ,5 °C ,11 °C ,Bergamo
+2022,2,17,Nessuno ,sereno ,0 °C ,7 °C ,15 °C ,Bergamo
+2022,2,18,Pioggia  ,poco nuvoloso ,2 °C ,7 °C ,11 °C ,Bergamo
+2022,2,19,Pioggia  ,pioggia e schiarite ,7 °C ,10 °C ,13 °C ,Bergamo
+2022,2,20,Nebbia  ,poco nuvoloso ,4 °C ,9 °C ,13 °C ,Bergamo
+2022,2,21,Nebbia  ,poco nuvoloso ,6 °C ,10 °C ,16 °C ,Bergamo
+2022,2,22,Nessuno ,sereno ,6 °C ,11 °C ,17 °C ,Bergamo
+2022,2,23,Nessuno ,sereno ,3 °C ,9 °C ,16 °C ,Bergamo
+2022,2,24,Nessuno ,poco nuvoloso ,4 °C ,8 °C ,14 °C ,Bergamo
+2022,2,25,Nessuno ,poco nuvoloso ,3 °C ,9 °C ,14 °C ,Bergamo
+2022,2,26,Nessuno ,poco nuvoloso ,0 °C ,6 °C ,12 °C ,Bergamo
+2022,2,27,Nessuno ,sereno ,0 °C ,6 °C ,11 °C ,Bergamo
+2022,2,28,Nessuno ,sereno ,-1 °C ,5 °C ,12 °C ,Bergamo
+2022,3,1,Nessuno ,poco nuvoloso ,2 °C ,6 °C ,10 °C ,Bergamo
+2022,3,2,Nessuno ,poco nuvoloso ,-1 °C ,6 °C ,11 °C ,Bergamo
+2022,3,3,Nessuno ,sereno ,2 °C ,7 °C ,12 °C ,Bergamo
+2022,3,4,Nessuno ,poco nuvoloso ,3 °C ,6 °C ,11 °C ,Bergamo
+2022,3,5,Nessuno ,poco nuvoloso ,1 °C ,5 °C ,8 °C ,Bergamo
+2022,3,6,Nessuno ,poco nuvoloso ,1 °C ,5 °C ,8 °C ,Bergamo
+2022,3,7,Nessuno ,sereno ,-1 °C ,4 °C ,9 °C ,Bergamo
+2022,3,8,Nessuno ,poco nuvoloso ,1 °C ,4 °C ,7 °C ,Bergamo
+2022,3,9,Nessuno ,sereno ,-1 °C ,5 °C ,12 °C ,Bergamo
+2022,3,10,Nessuno ,sereno ,1 °C ,7 °C ,14 °C ,Bergamo
+2022,3,11,Nessuno ,poco nuvoloso ,2 °C ,6 °C ,10 °C ,Bergamo
+2022,3,12,Nessuno ,poco nuvoloso ,3 °C ,6 °C ,9 °C ,Bergamo
+2022,3,13,Nessuno ,poco nuvoloso ,-1 °C ,5 °C ,10 °C ,Bergamo
+2022,3,14,Pioggia  ,poco nuvoloso ,5 °C ,8 °C ,12 °C ,Bergamo
+2022,3,15,Nessuno ,poco nuvoloso ,5 °C ,9 °C ,12 °C ,Bergamo
+2022,3,16,Nessuno ,poco nuvoloso ,8 °C ,11 °C ,16 °C ,Bergamo
+2022,3,17,Nessuno ,poco nuvoloso ,9 °C ,11 °C ,13 °C ,Bergamo
+2022,3,18,Nessuno ,poco nuvoloso ,7 °C ,10 °C ,14 °C ,Bergamo
+2022,3,19,Nessuno ,poco nuvoloso ,3 °C ,8 °C ,13 °C ,Bergamo
+2022,3,20,Nessuno ,poco nuvoloso ,2 °C ,8 °C ,13 °C ,Bergamo
+2020,1,2,Nebbia  ,nebbia al mattino ,-2 °C ,2 °C ,6 °C ,Roncadelle
+2020,1,3,Nebbia  ,poco nuvoloso ,-1 °C ,2 °C ,6 °C ,Roncadelle
+2020,1,4,Nebbia  ,nebbia al mattino ,-1 °C ,3 °C ,9 °C ,Roncadelle
+2020,1,5,Nessuno ,sereno ,-1 °C ,5 °C ,12 °C ,Roncadelle
+2020,1,6,Nebbia  ,nebbia al mattino ,-1 °C ,4 °C ,9 °C ,Roncadelle
+2020,1,7,Nebbia  ,nebbia ,-2 °C ,-1 °C ,1 °C ,Roncadelle
+2020,1,8,Nebbia  ,nebbia ,-2 °C ,-1 °C ,1 °C ,Roncadelle
+2020,1,9,Nebbia  ,nebbia al mattino ,-2 °C ,0 °C ,5 °C ,Roncadelle
+2020,1,10,Nebbia  ,nubi sparse ,-2 °C ,1 °C ,5 °C ,Roncadelle
+2020,1,11,Nebbia  ,nebbia al mattino ,-2 °C ,2 °C ,10 °C ,Roncadelle
+2020,1,12,Nessuno ,sereno ,-2 °C ,2 °C ,8 °C ,Roncadelle
+2020,1,13,Nebbia  ,nebbia al mattino ,-3 °C ,2 °C ,7 °C ,Roncadelle
+2020,1,14,Nessuno ,nubi sparse ,-2 °C ,2 °C ,5 °C ,Roncadelle
+2020,1,15,Nessuno ,nubi sparse ,2 °C ,4 °C ,6 °C ,Roncadelle
+2020,1,16,Nebbia  ,nebbia al mattino ,0 °C ,4 °C ,7 °C ,Roncadelle
+2020,1,17,Pioggia - Nebbia  ,nebbia al mattino ,-3 °C ,2 °C ,8 °C ,Roncadelle
+2020,1,18,Pioggia - Nebbia  ,pioggia e schiarite ,4 °C ,5 °C ,6 °C ,Roncadelle
+2020,1,19,Nebbia  ,nebbia al mattino ,2 °C ,5 °C ,8 °C ,Roncadelle
+2020,1,20,Nessuno ,sereno ,0 °C ,4 °C ,9 °C ,Roncadelle
+2020,1,21,Nessuno ,sereno ,-2 °C ,2 °C ,6 °C ,Roncadelle
+2020,1,22,Nessuno ,sereno ,-1 °C ,2 °C ,7 °C ,Roncadelle
+2020,1,23,Nessuno ,sereno ,-2 °C ,3 °C ,9 °C ,Roncadelle
+2020,1,24,Nessuno ,poco nuvoloso ,-2 °C ,3 °C ,7 °C ,Roncadelle
+2020,1,25,Pioggia - Nebbia  ,pioggia debole ,4 °C ,5 °C ,6 °C ,Roncadelle
+2020,1,26,Nebbia  ,nebbia al mattino ,2 °C ,6 °C ,10 °C ,Roncadelle
+2020,1,27,Nebbia  ,nebbia al mattino ,0 °C ,5 °C ,10 °C ,Roncadelle
+2020,1,28,Pioggia - Nebbia  ,pioggia e schiarite ,4 °C ,7 °C ,8 °C ,Roncadelle
+2020,1,29,Nessuno ,sereno ,2 °C ,6 °C ,12 °C ,Roncadelle
+2020,1,30,Nessuno ,poco nuvoloso ,1 °C ,4 °C ,9 °C ,Roncadelle
+2020,1,31,Nebbia  ,nebbia al mattino ,1 °C ,5 °C ,12 °C ,Roncadelle
+2020,2,1,Pioggia  ,nubi sparse ,7 °C ,8 °C ,9 °C ,Roncadelle
+2020,2,2,Nebbia  ,nebbia ,4 °C ,5 °C ,7 °C ,Roncadelle
+2020,2,3,Nebbia  ,nebbia al mattino ,5 °C ,6 °C ,7 °C ,Roncadelle
+2020,2,4,Nebbia  ,nebbia al mattino ,4 °C ,8 °C ,14 °C ,Roncadelle
+2020,2,5,Nessuno ,sereno ,4 °C ,8 °C ,12 °C ,Roncadelle
+2020,2,6,Nessuno ,sereno ,1 °C ,5 °C ,10 °C ,Roncadelle
+2020,2,7,Nessuno ,sereno ,-2 °C ,4 °C ,11 °C ,Roncadelle
+2020,2,8,Nessuno ,sereno ,-2 °C ,4 °C ,10 °C ,Roncadelle
+2020,2,9,Pioggia  ,poco nuvoloso ,1 °C ,5 °C ,8 °C ,Roncadelle
+2020,2,10,Pioggia - Nebbia  ,pioggia e schiarite ,5 °C ,7 °C ,10 °C ,Roncadelle
+2020,2,11,Nebbia  ,nebbia al mattino ,3 °C ,8 °C ,16 °C ,Roncadelle
+2020,2,12,Nessuno ,sereno ,0 °C ,7 °C ,14 °C ,Roncadelle
+2020,2,13,Pioggia  ,poco nuvoloso ,0 °C ,7 °C ,11 °C ,Roncadelle
+2020,2,14,Pioggia  ,poco nuvoloso ,3 °C ,7 °C ,13 °C ,Roncadelle
+2020,2,15,Nessuno ,sereno ,2 °C ,7 °C ,13 °C ,Roncadelle
+2020,2,16,Nessuno ,poco nuvoloso ,1 °C ,7 °C ,12 °C ,Roncadelle
+2020,2,17,Pioggia  ,nubi sparse ,7 °C ,9 °C ,11 °C ,Roncadelle
+2020,2,18,Nessuno ,poco nuvoloso ,5 °C ,9 °C ,13 °C ,Roncadelle
+2020,2,19,Nessuno ,poco nuvoloso ,3 °C ,8 °C ,12 °C ,Roncadelle
+2020,2,20,Nessuno ,sereno ,3 °C ,7 °C ,12 °C ,Roncadelle
+2020,2,21,Nessuno ,sereno ,0 °C ,6 °C ,12 °C ,Roncadelle
+2020,2,22,Nessuno ,sereno ,3 °C ,8 °C ,13 °C ,Roncadelle
+2020,2,23,Nessuno ,sereno ,3 °C ,8 °C ,14 °C ,Roncadelle
+2020,2,24,Nessuno ,sereno ,6 °C ,10 °C ,14 °C ,Roncadelle
+2020,2,25,Nessuno ,nubi sparse ,6 °C ,10 °C ,12 °C ,Roncadelle
+2020,2,26,Nebbia  ,nebbia al mattino ,5 °C ,9 °C ,14 °C ,Roncadelle
+2020,2,27,Nessuno ,poco nuvoloso ,1 °C ,7 °C ,11 °C ,Roncadelle
+2020,2,28,Nessuno ,sereno ,4 °C ,8 °C ,13 °C ,Roncadelle
+2020,2,29,Nessuno ,poco nuvoloso ,4 °C ,7 °C ,10 °C ,Roncadelle
+2020,3,1,Pioggia  ,pioggia e schiarite ,6 °C ,7 °C ,8 °C ,Roncadelle
+2020,3,2,Pioggia  ,pioggia e schiarite ,3 °C ,6 °C ,8 °C ,Roncadelle
+2020,3,3,Pioggia  ,pioggia e schiarite ,5 °C ,7 °C ,9 °C ,Roncadelle
+2020,3,4,Nessuno ,poco nuvoloso ,3 °C ,7 °C ,12 °C ,Roncadelle
+2020,3,5,Pioggia  ,pioggia e schiarite ,4 °C ,7 °C ,9 °C ,Roncadelle
+2020,3,6,Pioggia  ,pioggia e schiarite ,4 °C ,6 °C ,9 °C ,Roncadelle
+2020,3,7,Pioggia - Nebbia  ,poco nuvoloso ,2 °C ,8 °C ,14 °C ,Roncadelle
+2020,3,8,Nessuno ,sereno ,2 °C ,7 °C ,13 °C ,Roncadelle
+2020,3,9,Pioggia  ,poco nuvoloso ,4 °C ,8 °C ,11 °C ,Roncadelle
+2020,3,10,Nessuno ,poco nuvoloso ,5 °C ,9 °C ,14 °C ,Roncadelle
+2020,3,11,Nessuno ,sereno ,3 °C ,9 °C ,16 °C ,Roncadelle
+2020,3,12,Nessuno ,poco nuvoloso ,5 °C ,10 °C ,13 °C ,Roncadelle
+2020,3,13,Nessuno ,nubi sparse ,11 °C ,13 °C ,16 °C ,Roncadelle
+2020,3,14,Nessuno ,nubi sparse ,6 °C ,10 °C ,12 °C ,Roncadelle
+2020,3,15,Nessuno ,poco nuvoloso ,4 °C ,8 °C ,13 °C ,Roncadelle
+2020,3,16,Nessuno ,sereno ,3 °C ,9 °C ,14 °C ,Roncadelle
+2020,3,17,Nessuno ,sereno ,3 °C ,9 °C ,15 °C ,Roncadelle
+2020,3,18,Nessuno ,sereno ,4 °C ,11 °C ,17 °C ,Roncadelle
+2020,3,19,Nessuno ,sereno ,5 °C ,12 °C ,18 °C ,Roncadelle
+2020,3,20,Pioggia  ,poco nuvoloso ,7 °C ,12 °C ,17 °C ,Roncadelle
+2020,3,21,Nessuno ,sereno ,6 °C ,11 °C ,17 °C ,Roncadelle
+2020,3,22,Nessuno ,poco nuvoloso ,8 °C ,10 °C ,13 °C ,Roncadelle
+2020,3,23,Nessuno ,poco nuvoloso ,2 °C ,6 °C ,9 °C ,Roncadelle
+2020,3,24,Nessuno ,poco nuvoloso ,-1 °C ,6 °C ,11 °C ,Roncadelle
+2020,3,25,Nessuno ,poco nuvoloso ,4 °C ,6 °C ,9 °C ,Roncadelle
+2020,3,26,Nessuno ,poco nuvoloso ,2 °C ,5 °C ,6 °C ,Roncadelle
+2020,3,27,Pioggia  ,nubi sparse ,6 °C ,9 °C ,12 °C ,Roncadelle
+2020,3,28,Nessuno ,poco nuvoloso ,7 °C ,12 °C ,17 °C ,Roncadelle
+2020,3,29,Nessuno ,poco nuvoloso ,10 °C ,14 °C ,18 °C ,Roncadelle
+2020,3,30,Pioggia  ,pioggia e schiarite ,7 °C ,11 °C ,13 °C ,Roncadelle
+2020,3,31,Pioggia  ,pioggia e schiarite ,3 °C ,6 °C ,9 °C ,Roncadelle
+2020,4,1,Nessuno ,poco nuvoloso ,3 °C ,6 °C ,10 °C ,Roncadelle
+2020,4,2,Nessuno ,sereno ,0 °C ,7 °C ,13 °C ,Roncadelle
+2020,4,3,Nessuno ,sereno ,2 °C ,9 °C ,15 °C ,Roncadelle
+2020,4,4,Nessuno ,sereno ,3 °C ,11 °C ,16 °C ,Roncadelle
+2020,4,5,Nessuno ,sereno ,7 °C ,13 °C ,18 °C ,Roncadelle
+2020,4,6,Nessuno ,sereno ,6 °C ,13 °C ,19 °C ,Roncadelle
+2020,4,7,Nessuno ,sereno ,6 °C ,13 °C ,19 °C ,Roncadelle
+2020,4,8,Nessuno ,sereno ,5 °C ,13 °C ,19 °C ,Roncadelle
+2020,4,9,Nessuno ,sereno ,5 °C ,13 °C ,20 °C ,Roncadelle
+2020,4,10,Nessuno ,sereno ,6 °C ,14 °C ,22 °C ,Roncadelle
+2020,4,11,Nessuno ,sereno ,7 °C ,15 °C ,23 °C ,Roncadelle
+2020,4,12,Nessuno ,sereno ,8 °C ,16 °C ,23 °C ,Roncadelle
+2020,4,13,Nessuno ,sereno ,10 °C ,17 °C ,22 °C ,Roncadelle
+2020,4,14,Nessuno ,poco nuvoloso ,11 °C ,15 °C ,22 °C ,Roncadelle
+2020,4,15,Nessuno ,poco nuvoloso ,7 °C ,12 °C ,16 °C ,Roncadelle
+2020,4,16,Nessuno ,sereno ,6 °C ,13 °C ,19 °C ,Roncadelle
+2020,4,17,Nessuno ,sereno ,7 °C ,15 °C ,21 °C ,Roncadelle
+2020,4,18,Nessuno ,sereno ,9 °C ,16 °C ,22 °C ,Roncadelle
+2020,4,19,Nessuno ,poco nuvoloso ,11 °C ,17 °C ,22 °C ,Roncadelle
+2020,4,20,Pioggia  ,pioggia e schiarite ,12 °C ,15 °C ,17 °C ,Roncadelle
+2020,4,21,Pioggia  ,pioggia e schiarite ,11 °C ,13 °C ,16 °C ,Roncadelle
+2020,4,22,Nessuno ,sereno ,8 °C ,14 °C ,20 °C ,Roncadelle
+2020,4,23,Nessuno ,sereno ,8 °C ,15 °C ,20 °C ,Roncadelle
+2020,4,24,Nessuno ,sereno ,8 °C ,16 °C ,22 °C ,Roncadelle
+2020,4,25,Nessuno ,sereno ,10 °C ,18 °C ,23 °C ,Roncadelle
+2020,4,26,Nessuno ,sereno ,14 °C ,18 °C ,22 °C ,Roncadelle
+2020,4,27,Nessuno ,poco nuvoloso ,13 °C ,17 °C ,22 °C ,Roncadelle
+2020,4,28,Pioggia  ,nubi sparse ,15 °C ,17 °C ,20 °C ,Roncadelle
+2020,4,29,Pioggia - Temporale  ,pioggia e schiarite ,14 °C ,15 °C ,20 °C ,Roncadelle
+2020,4,30,Pioggia  ,poco nuvoloso ,13 °C ,16 °C ,20 °C ,Roncadelle
+2020,5,1,Pioggia  ,poco nuvoloso ,13 °C ,16 °C ,20 °C ,Roncadelle
+2020,5,2,Nessuno ,poco nuvoloso ,11 °C ,17 °C ,24 °C ,Roncadelle
+2020,5,3,Nessuno ,poco nuvoloso ,14 °C ,18 °C ,21 °C ,Roncadelle
+2020,5,4,Nessuno ,poco nuvoloso ,13 °C ,19 °C ,24 °C ,Roncadelle
+2020,5,5,Nessuno ,poco nuvoloso ,13 °C ,19 °C ,24 °C ,Roncadelle
+2020,5,6,Nessuno ,poco nuvoloso ,16 °C ,19 °C ,22 °C ,Roncadelle
+2020,5,7,Nessuno ,poco nuvoloso ,12 °C ,18 °C ,24 °C ,Roncadelle
+2020,5,8,Nessuno ,sereno ,14 °C ,20 °C ,26 °C ,Roncadelle
+2020,5,9,Nessuno ,sereno ,13 °C ,20 °C ,26 °C ,Roncadelle
+2020,5,10,Nessuno ,poco nuvoloso ,18 °C ,21 °C ,24 °C ,Roncadelle
+2020,5,11,Pioggia  ,pioggia e schiarite ,15 °C ,17 °C ,20 °C ,Roncadelle
+2020,5,12,Nessuno ,nubi sparse ,15 °C ,18 °C ,23 °C ,Roncadelle
+2020,5,13,Pioggia  ,pioggia e schiarite ,14 °C ,16 °C ,18 °C ,Roncadelle
+2020,5,14,Pioggia - Temporale  ,temporale e schiarite ,15 °C ,19 °C ,24 °C ,Roncadelle
+2020,5,15,Pioggia - Temporale  ,temporale e schiarite ,16 °C ,17 °C ,20 °C ,Roncadelle
+2020,5,16,Pioggia  ,pioggia e schiarite ,15 °C ,18 °C ,21 °C ,Roncadelle
+2020,5,17,Pioggia  ,pioggia e schiarite ,15 °C ,18 °C ,23 °C ,Roncadelle
+2020,5,18,Nessuno ,poco nuvoloso ,17 °C ,21 °C ,25 °C ,Roncadelle
+2020,5,19,Pioggia - Temporale  ,temporale e schiarite ,18 °C ,20 °C ,23 °C ,Roncadelle
+2020,5,20,Nessuno ,poco nuvoloso ,17 °C ,20 °C ,24 °C ,Roncadelle
+2020,5,21,Nessuno ,sereno ,15 °C ,21 °C ,26 °C ,Roncadelle
+2020,5,22,Nessuno ,sereno ,18 °C ,22 °C ,26 °C ,Roncadelle
+2020,5,23,Pioggia - Temporale  ,poco nuvoloso ,19 °C ,22 °C ,27 °C ,Roncadelle
+2020,5,24,Nessuno ,poco nuvoloso ,18 °C ,21 °C ,25 °C ,Roncadelle
+2020,5,25,Nessuno ,poco nuvoloso ,16 °C ,22 °C ,26 °C ,Roncadelle
+2020,5,26,Nessuno ,poco nuvoloso ,18 °C ,21 °C ,25 °C ,Roncadelle
+2020,5,27,Nessuno ,poco nuvoloso ,16 °C ,21 °C ,25 °C ,Roncadelle
+2020,5,28,Pioggia - Temporale  ,poco nuvoloso ,15 °C ,21 °C ,26 °C ,Roncadelle
+2020,5,29,Pioggia  ,pioggia e schiarite ,16 °C ,19 °C ,22 °C ,Roncadelle
+2020,5,30,Pioggia  ,poco nuvoloso ,16 °C ,19 °C ,23 °C ,Roncadelle
+2020,5,31,Pioggia  ,pioggia e schiarite ,16 °C ,19 °C ,23 °C ,Roncadelle
+2020,6,1,Nessuno ,poco nuvoloso ,17 °C ,22 °C ,26 °C ,Roncadelle
+2020,6,2,Pioggia - Temporale  ,poco nuvoloso ,18 °C ,23 °C ,27 °C ,Roncadelle
+2020,6,3,Pioggia - Temporale  ,poco nuvoloso ,15 °C ,22 °C ,27 °C ,Roncadelle
+2020,6,4,Pioggia  ,pioggia debole ,17 °C ,17 °C ,19 °C ,Roncadelle
+2020,6,5,Pioggia  ,pioggia e schiarite ,15 °C ,19 °C ,24 °C ,Roncadelle
+2020,6,6,Nessuno ,poco nuvoloso ,16 °C ,20 °C ,24 °C ,Roncadelle
+2020,6,7,Pioggia  ,pioggia e schiarite ,17 °C ,19 °C ,21 °C ,Roncadelle
+2020,6,8,Pioggia - Temporale  ,temporale e schiarite ,15 °C ,17 °C ,20 °C ,Roncadelle
+2020,6,9,Pioggia  ,pioggia e schiarite ,15 °C ,18 °C ,21 °C ,Roncadelle
+2020,6,10,Pioggia - Temporale  ,nubi sparse ,15 °C ,17 °C ,20 °C ,Roncadelle
+2020,6,11,Pioggia  ,nubi sparse ,15 °C ,16 °C ,20 °C ,Roncadelle
+2020,6,12,Nessuno ,poco nuvoloso ,13 °C ,18 °C ,23 °C ,Roncadelle
+2020,6,13,Pioggia - Temporale  ,poco nuvoloso ,15 °C ,20 °C ,25 °C ,Roncadelle
+2020,6,14,Pioggia  ,pioggia e schiarite ,16 °C ,19 °C ,23 °C ,Roncadelle
+2020,6,15,Pioggia - Temporale  ,temporale e schiarite ,15 °C ,19 °C ,23 °C ,Roncadelle
+2020,6,16,Pioggia - Temporale  ,nubi sparse ,18 °C ,21 °C ,24 °C ,Roncadelle
+2020,6,17,Pioggia  ,pioggia e schiarite ,17 °C ,19 °C ,22 °C ,Roncadelle
+2020,6,18,Nessuno ,poco nuvoloso ,14 °C ,19 °C ,23 °C ,Roncadelle
+2020,6,19,Pioggia - Temporale  ,temporale e schiarite ,15 °C ,18 °C ,23 °C ,Roncadelle
+2020,6,20,Nessuno ,poco nuvoloso ,13 °C ,20 °C ,24 °C ,Roncadelle
+2020,6,21,Nessuno ,sereno ,17 °C ,22 °C ,26 °C ,Roncadelle
+2020,6,22,Nessuno ,sole e caldo ,16 °C ,24 °C ,31 °C ,Roncadelle
+2020,6,23,Nessuno ,sole e caldo ,23 °C ,27 °C ,31 °C ,Roncadelle
+2020,6,24,Nessuno ,poco nuvoloso ,22 °C ,26 °C ,30 °C ,Roncadelle
+2020,6,25,Pioggia - Temporale  ,poco nuvoloso ,21 °C ,25 °C ,29 °C ,Roncadelle
+2020,6,26,Pioggia  ,poco nuvoloso ,21 °C ,25 °C ,29 °C ,Roncadelle
+2020,6,27,Nessuno ,poco nuvoloso ,21 °C ,26 °C ,31 °C ,Roncadelle
+2020,6,28,Nessuno ,sole e caldo ,22 °C ,26 °C ,31 °C ,Roncadelle
+2020,6,29,Nessuno ,poco nuvoloso ,22 °C ,27 °C ,32 °C ,Roncadelle
+2020,6,30,Nessuno ,poco nuvoloso ,22 °C ,27 °C ,31 °C ,Roncadelle
+2020,7,1,Pioggia  ,poco nuvoloso ,23 °C ,27 °C ,30 °C ,Roncadelle
+2020,7,2,Pioggia - Temporale  ,temporale e schiarite ,21 °C ,26 °C ,31 °C ,Roncadelle
+2020,7,3,Nessuno ,poco nuvoloso ,21 °C ,24 °C ,28 °C ,Roncadelle
+2020,7,4,Nessuno ,poco nuvoloso ,20 °C ,24 °C ,28 °C ,Roncadelle
+2020,7,5,Nessuno ,poco nuvoloso ,21 °C ,26 °C ,30 °C ,Roncadelle
+2020,7,6,Nessuno ,poco nuvoloso ,22 °C ,27 °C ,32 °C ,Roncadelle
+2020,7,7,Nessuno ,poco nuvoloso ,22 °C ,25 °C ,27 °C ,Roncadelle
+2020,7,8,Nessuno ,sereno ,18 °C ,24 °C ,28 °C ,Roncadelle
+2020,7,9,Nessuno ,sole e caldo ,20 °C ,26 °C ,31 °C ,Roncadelle
+2020,7,10,Pioggia - Temporale  ,sole e caldo ,22 °C ,27 °C ,32 °C ,Roncadelle
+2020,7,11,Pioggia - Temporale  ,temporale e schiarite ,20 °C ,25 °C ,29 °C ,Roncadelle
+2020,7,12,Nessuno ,poco nuvoloso ,19 °C ,23 °C ,27 °C ,Roncadelle
+2020,7,13,Nessuno ,poco nuvoloso ,19 °C ,24 °C ,27 °C ,Roncadelle
+2020,7,14,Nessuno ,poco nuvoloso ,20 °C ,23 °C ,27 °C ,Roncadelle
+2020,7,15,Nessuno ,poco nuvoloso ,20 °C ,24 °C ,28 °C ,Roncadelle
+2020,7,16,Nessuno ,poco nuvoloso ,19 °C ,24 °C ,28 °C ,Roncadelle
+2020,7,17,Nessuno ,poco nuvoloso ,22 °C ,24 °C ,27 °C ,Roncadelle
+2020,7,18,Nessuno ,poco nuvoloso ,20 °C ,24 °C ,28 °C ,Roncadelle
+2020,7,19,Nessuno ,sereno ,19 °C ,25 °C ,29 °C ,Roncadelle
+2020,7,20,Nessuno ,sole e caldo ,21 °C ,26 °C ,32 °C ,Roncadelle
+2020,7,21,Nessuno ,poco nuvoloso ,22 °C ,27 °C ,32 °C ,Roncadelle
+2020,7,22,Pioggia - Temporale  ,poco nuvoloso ,22 °C ,27 °C ,32 °C ,Roncadelle
+2020,7,23,Pioggia  ,poco nuvoloso ,22 °C ,26 °C ,30 °C ,Roncadelle
+2020,7,24,Pioggia - Temporale  ,temporale e schiarite ,18 °C ,22 °C ,24 °C ,Roncadelle
+2020,7,25,Nessuno ,sereno ,18 °C ,24 °C ,29 °C ,Roncadelle
+2020,7,26,Nessuno ,sereno ,20 °C ,25 °C ,30 °C ,Roncadelle
+2020,7,27,Nessuno ,poco nuvoloso ,21 °C ,26 °C ,32 °C ,Roncadelle
+2020,7,28,Pioggia - Temporale  ,sole e caldo ,23 °C ,28 °C ,32 °C ,Roncadelle
+2020,7,29,Nessuno ,sole e caldo ,23 °C ,28 °C ,32 °C ,Roncadelle
+2020,7,30,Nessuno ,poco nuvoloso ,25 °C ,29 °C ,33 °C ,Roncadelle
+2020,7,31,Nessuno ,poco nuvoloso ,26 °C ,30 °C ,34 °C ,Roncadelle
+2020,8,1,Nessuno ,sole e caldo ,25 °C ,30 °C ,34 °C ,Roncadelle
+2020,8,2,Pioggia - Temporale  ,temporale e schiarite ,23 °C ,28 °C ,32 °C ,Roncadelle
+2020,8,3,Pioggia - Temporale  ,temporale e schiarite ,20 °C ,23 °C ,26 °C ,Roncadelle
+2020,8,4,Pioggia  ,pioggia e schiarite ,19 °C ,22 °C ,25 °C ,Roncadelle
+2020,8,5,Nessuno ,sereno ,17 °C ,23 °C ,27 °C ,Roncadelle
+2020,8,6,Nessuno ,sereno ,19 °C ,24 °C ,29 °C ,Roncadelle
+2020,8,7,Nessuno ,sereno ,21 °C ,25 °C ,29 °C ,Roncadelle
+2020,8,8,Nessuno ,sole e caldo ,22 °C ,27 °C ,31 °C ,Roncadelle
+2020,8,9,Nessuno ,sole e caldo ,21 °C ,27 °C ,31 °C ,Roncadelle
+2020,8,10,Nessuno ,sole e caldo ,23 °C ,28 °C ,32 °C ,Roncadelle
+2020,8,11,Nessuno ,poco nuvoloso ,22 °C ,27 °C ,32 °C ,Roncadelle
+2020,8,12,Nessuno ,sole e caldo ,23 °C ,27 °C ,31 °C ,Roncadelle
+2020,8,13,Nessuno ,poco nuvoloso ,22 °C ,26 °C ,30 °C ,Roncadelle
+2020,8,14,Pioggia - Temporale  ,poco nuvoloso ,23 °C ,25 °C ,28 °C ,Roncadelle
+2020,8,15,Nessuno ,sole e caldo ,20 °C ,25 °C ,30 °C ,Roncadelle
+2020,8,16,Nessuno ,poco nuvoloso ,22 °C ,26 °C ,30 °C ,Roncadelle
+2020,8,17,Pioggia - Temporale  ,poco nuvoloso ,22 °C ,25 °C ,29 °C ,Roncadelle
+2020,8,18,Pioggia - Temporale  ,temporale e schiarite ,20 °C ,23 °C ,28 °C ,Roncadelle
+2020,8,19,Pioggia - Temporale  ,temporale e schiarite ,19 °C ,24 °C ,29 °C ,Roncadelle
+2020,8,20,Nessuno ,poco nuvoloso ,22 °C ,26 °C ,30 °C ,Roncadelle
+2020,8,21,Nessuno ,sole e caldo ,22 °C ,27 °C ,31 °C ,Roncadelle
+2020,8,22,Nessuno ,sole e caldo ,23 °C ,27 °C ,31 °C ,Roncadelle
+2020,8,23,Pioggia - Temporale  ,poco nuvoloso ,22 °C ,25 °C ,29 °C ,Roncadelle
+2020,8,24,Nessuno ,poco nuvoloso ,20 °C ,24 °C ,28 °C ,Roncadelle
+2020,8,25,Nessuno ,poco nuvoloso ,20 °C ,23 °C ,28 °C ,Roncadelle
+2020,8,26,Nessuno ,poco nuvoloso ,21 °C ,27 °C ,29 °C ,Roncadelle
+2020,8,27,Nessuno ,poco nuvoloso ,21 °C ,26 °C ,29 °C ,Roncadelle
+2020,8,28,Pioggia - Temporale  ,temporale e schiarite ,22 °C ,24 °C ,28 °C ,Roncadelle
+2020,8,29,Pioggia - Temporale  ,temporale e schiarite ,20 °C ,22 °C ,24 °C ,Roncadelle
+2020,8,30,Pioggia - Temporale  ,temporale e schiarite ,20 °C ,22 °C ,26 °C ,Roncadelle
+2020,8,31,Pioggia - Temporale  ,temporale e schiarite ,16 °C ,20 °C ,24 °C ,Roncadelle
+2020,9,1,Nessuno ,poco nuvoloso ,15 °C ,20 °C ,25 °C ,Roncadelle
+2020,9,2,Pioggia - Temporale  ,pioggia e schiarite ,17 °C ,19 °C ,22 °C ,Roncadelle
+2020,9,3,Nessuno ,poco nuvoloso ,15 °C ,20 °C ,25 °C ,Roncadelle
+2020,9,4,Nessuno ,sereno ,17 °C ,22 °C ,27 °C ,Roncadelle
+2020,9,5,Nessuno ,sereno ,17 °C ,23 °C ,28 °C ,Roncadelle
+2020,9,6,Nessuno ,poco nuvoloso ,14 °C ,22 °C ,27 °C ,Roncadelle
+2020,9,7,Pioggia  ,pioggia e schiarite ,19 °C ,21 °C ,25 °C ,Roncadelle
+2020,9,8,Nessuno ,poco nuvoloso ,18 °C ,22 °C ,26 °C ,Roncadelle
+2020,9,9,Nessuno ,sereno ,17 °C ,22 °C ,27 °C ,Roncadelle
+2020,9,10,Nessuno ,poco nuvoloso ,18 °C ,23 °C ,28 °C ,Roncadelle
+2020,9,11,Nessuno ,poco nuvoloso ,19 °C ,23 °C ,27 °C ,Roncadelle
+2020,9,12,Nessuno ,sereno ,19 °C ,24 °C ,28 °C ,Roncadelle
+2020,9,13,Nessuno ,sereno ,19 °C ,24 °C ,29 °C ,Roncadelle
+2020,9,14,Nessuno ,poco nuvoloso ,19 °C ,25 °C ,30 °C ,Roncadelle
+2020,9,15,Nessuno ,poco nuvoloso ,19 °C ,23 °C ,29 °C ,Roncadelle
+2020,9,16,Pioggia - Temporale  ,sereno ,19 °C ,24 °C ,29 °C ,Roncadelle
+2020,9,17,Nessuno ,poco nuvoloso ,18 °C ,23 °C ,30 °C ,Roncadelle
+2020,9,18,Nessuno ,sereno ,18 °C ,23 °C ,28 °C ,Roncadelle
+2020,9,19,Nessuno ,sereno ,17 °C ,21 °C ,24 °C ,Roncadelle
+2020,9,20,Nessuno ,poco nuvoloso ,17 °C ,21 °C ,26 °C ,Roncadelle
+2020,9,21,Pioggia  ,poco nuvoloso ,18 °C ,22 °C ,26 °C ,Roncadelle
+2020,9,22,Pioggia - Temporale  ,temporale e schiarite ,18 °C ,20 °C ,22 °C ,Roncadelle
+2020,9,23,Pioggia  ,pioggia e schiarite ,17 °C ,20 °C ,24 °C ,Roncadelle
+2020,9,24,Pioggia - Temporale  ,temporale e schiarite ,16 °C ,20 °C ,24 °C ,Roncadelle
+2020,9,25,Pioggia  ,pioggia e schiarite ,15 °C ,18 °C ,22 °C ,Roncadelle
+2020,9,26,Nessuno ,poco nuvoloso ,11 °C ,15 °C ,20 °C ,Roncadelle
+2020,9,27,Pioggia - Temporale  ,temporale e schiarite ,8 °C ,13 °C ,17 °C ,Roncadelle
+2020,9,28,Nessuno ,sereno ,9 °C ,14 °C ,19 °C ,Roncadelle
+2020,9,29,Nessuno ,sereno ,10 °C ,15 °C ,20 °C ,Roncadelle
+2020,9,30,Nessuno ,poco nuvoloso ,11 °C ,16 °C ,21 °C ,Roncadelle
+2020,10,1,Nessuno ,nubi sparse ,13 °C ,16 °C ,19 °C ,Roncadelle
+2020,10,2,Pioggia  ,pioggia e schiarite ,15 °C ,16 °C ,17 °C ,Roncadelle
+2020,10,3,Pioggia  ,pioggia e schiarite ,12 °C ,16 °C ,18 °C ,Roncadelle
+2020,10,4,Pioggia  ,pioggia e schiarite ,10 °C ,14 °C ,18 °C ,Roncadelle
+2020,10,5,Pioggia - Nebbia  ,poco nuvoloso ,12 °C ,15 °C ,18 °C ,Roncadelle
+2020,10,6,Nessuno ,poco nuvoloso ,10 °C ,15 °C ,19 °C ,Roncadelle
+2020,10,7,Nessuno ,poco nuvoloso ,13 °C ,16 °C ,21 °C ,Roncadelle
+2020,10,8,Nessuno ,sereno ,11 °C ,15 °C ,20 °C ,Roncadelle
+2020,10,9,Nessuno ,sereno ,11 °C ,15 °C ,19 °C ,Roncadelle
+2020,10,10,Pioggia - Temporale  ,temporale e schiarite ,10 °C ,16 °C ,20 °C ,Roncadelle
+2020,10,11,Pioggia - Temporale  ,temporale e schiarite ,11 °C ,12 °C ,15 °C ,Roncadelle
+2020,10,12,Nessuno ,poco nuvoloso ,9 °C ,12 °C ,15 °C ,Roncadelle
+2020,10,13,Nessuno ,sereno ,5 °C ,10 °C ,15 °C ,Roncadelle
+2020,10,14,Nessuno ,sereno ,6 °C ,10 °C ,15 °C ,Roncadelle
+2020,10,15,Pioggia  ,pioggia debole ,9 °C ,10 °C ,11 °C ,Roncadelle
+2020,10,16,Pioggia  ,pioggia e schiarite ,9 °C ,10 °C ,13 °C ,Roncadelle
+2020,10,17,Nessuno ,poco nuvoloso ,5 °C ,10 °C ,15 °C ,Roncadelle
+2020,10,18,Nessuno ,poco nuvoloso ,6 °C ,10 °C ,15 °C ,Roncadelle
+2020,10,19,Nessuno ,poco nuvoloso ,8 °C ,11 °C ,15 °C ,Roncadelle
+2020,10,20,Nessuno ,poco nuvoloso ,7 °C ,11 °C ,14 °C ,Roncadelle
+2020,10,21,Nebbia  ,nebbia al mattino ,8 °C ,12 °C ,16 °C ,Roncadelle
+2020,10,22,Nessuno ,poco nuvoloso ,7 °C ,11 °C ,14 °C ,Roncadelle
+2020,10,23,Pioggia - Nebbia  ,pioggia debole ,11 °C ,12 °C ,13 °C ,Roncadelle
+2020,10,24,Nebbia  ,nebbia al mattino ,12 °C ,13 °C ,15 °C ,Roncadelle
+2020,10,25,Nebbia  ,nebbia al mattino ,9 °C ,13 °C ,17 °C ,Roncadelle
+2020,10,26,Pioggia  ,pioggia debole ,13 °C ,14 °C ,15 °C ,Roncadelle
+2020,10,27,Pioggia - Temporale  ,poco nuvoloso ,9 °C ,12 °C ,14 °C ,Roncadelle
+2020,10,28,Nessuno ,sereno ,6 °C ,10 °C ,15 °C ,Roncadelle
+2020,10,29,Nebbia  ,sereno ,8 °C ,11 °C ,15 °C ,Roncadelle
+2020,10,30,Nessuno ,sereno ,7 °C ,11 °C ,15 °C ,Roncadelle
+2020,10,31,Nebbia  ,nebbia al mattino ,6 °C ,10 °C ,15 °C ,Roncadelle
+2020,11,1,Nebbia  ,nebbia al mattino ,10 °C ,11 °C ,14 °C ,Roncadelle
+2020,11,2,Nebbia  ,nebbia al mattino ,10 °C ,12 °C ,13 °C ,Roncadelle
+2020,11,3,Nessuno ,nubi sparse ,13 °C ,14 °C ,15 °C ,Roncadelle
+2020,11,4,Nessuno ,nubi sparse ,12 °C ,14 °C ,16 °C ,Roncadelle
+2020,11,5,Nessuno ,poco nuvoloso ,11 °C ,14 °C ,17 °C ,Roncadelle
+2020,11,6,Nessuno ,poco nuvoloso ,10 °C ,14 °C ,17 °C ,Roncadelle
+2020,11,7,Nebbia  ,nebbia al mattino ,8 °C ,12 °C ,17 °C ,Roncadelle
+2020,11,8,Nebbia  ,nebbia al mattino ,8 °C ,11 °C ,16 °C ,Roncadelle
+2020,11,9,Nessuno ,sereno ,8 °C ,13 °C ,17 °C ,Roncadelle
+2020,11,10,Nebbia  ,nebbia al mattino ,8 °C ,12 °C ,16 °C ,Roncadelle
+2020,11,11,Nebbia  ,nebbia al mattino ,7 °C ,10 °C ,14 °C ,Roncadelle
+2020,11,12,Nessuno ,poco nuvoloso ,9 °C ,11 °C ,14 °C ,Roncadelle
+2020,11,13,Nessuno ,nubi sparse ,9 °C ,11 °C ,13 °C ,Roncadelle
+2020,11,14,Nessuno ,nubi sparse ,9 °C ,11 °C ,13 °C ,Roncadelle
+2020,11,15,Nessuno ,nubi sparse ,11 °C ,12 °C ,13 °C ,Roncadelle
+2020,11,16,Pioggia - Nebbia  ,pioggia e schiarite ,8 °C ,11 °C ,13 °C ,Roncadelle
+2020,11,17,Nebbia  ,nebbia al mattino ,6 °C ,10 °C ,15 °C ,Roncadelle
+2020,11,18,Nebbia  ,nebbia al mattino ,5 °C ,6 °C ,8 °C ,Roncadelle
+2020,11,19,Nebbia  ,nebbia ,5 °C ,7 °C ,8 °C ,Roncadelle
+2020,11,20,Pioggia  ,pioggia e schiarite ,6 °C ,10 °C ,13 °C ,Roncadelle
+2020,11,21,Nessuno ,sereno ,3 °C ,7 °C ,11 °C ,Roncadelle
+2020,11,22,Nessuno ,sereno ,0 °C ,4 °C ,9 °C ,Roncadelle
+2020,11,23,Nessuno ,sereno ,0 °C ,5 °C ,10 °C ,Roncadelle
+2020,11,24,Nessuno ,sereno ,1 °C ,4 °C ,10 °C ,Roncadelle
+2020,11,25,Nessuno ,sereno ,0 °C ,4 °C ,10 °C ,Roncadelle
+2020,11,26,Nebbia  ,nebbia al mattino ,0 °C ,3 °C ,9 °C ,Roncadelle
+2020,11,27,Nebbia  ,nebbia al mattino ,-2 °C ,2 °C ,5 °C ,Roncadelle
+2020,11,28,Nebbia  ,nebbia al mattino ,0 °C ,4 °C ,6 °C ,Roncadelle
+2020,11,29,Nessuno ,poco nuvoloso ,2 °C ,5 °C ,9 °C ,Roncadelle
+2020,11,30,Nebbia  ,nebbia al mattino ,0 °C ,4 °C ,6 °C ,Roncadelle
+2020,12,1,Nessuno ,nubi sparse ,3 °C ,4 °C ,5 °C ,Roncadelle
+2020,12,2,Pioggia - Neve  ,neve e schiarite ,0 °C ,1 °C ,4 °C ,Roncadelle
+2020,12,3,Nebbia  ,nebbia al mattino ,0 °C ,2 °C ,3 °C ,Roncadelle
+2020,12,4,Pioggia - Nebbia  ,pioggia debole ,0 °C ,4 °C ,7 °C ,Roncadelle
+2020,12,5,Pioggia  ,pioggia e schiarite ,3 °C ,5 °C ,7 °C ,Roncadelle
+2020,12,6,Pioggia - Nebbia  ,pioggia debole ,3 °C ,4 °C ,5 °C ,Roncadelle
+2020,12,7,Pioggia - Nebbia  ,nebbia al mattino ,3 °C ,5 °C ,7 °C ,Roncadelle
+2020,12,8,Pioggia  ,pioggia debole ,5 °C ,5 °C ,6 °C ,Roncadelle
+2020,12,9,Pioggia  ,pioggia e schiarite ,5 °C ,5 °C ,6 °C ,Roncadelle
+2020,12,10,Nessuno ,nubi sparse ,5 °C ,7 °C ,10 °C ,Roncadelle
+2020,12,11,Pioggia - Nebbia  ,pioggia debole ,1 °C ,5 °C ,6 °C ,Roncadelle
+2020,12,12,Pioggia - Nebbia  ,nebbia al mattino ,3 °C ,5 °C ,7 °C ,Roncadelle
+2020,12,13,Nebbia  ,nebbia ,0 °C ,2 °C ,4 °C ,Roncadelle
+2020,12,14,Nebbia  ,nebbia al mattino ,0 °C ,3 °C ,8 °C ,Roncadelle
+2020,12,15,Nebbia  ,poco nuvoloso ,2 °C ,5 °C ,7 °C ,Roncadelle
+2020,12,16,Pioggia  ,pioggia e schiarite ,5 °C ,6 °C ,7 °C ,Roncadelle
+2020,12,17,Nebbia  ,nebbia al mattino ,6 °C ,7 °C ,8 °C ,Roncadelle
+2020,12,18,Nessuno ,nubi sparse ,6 °C ,7 °C ,9 °C ,Roncadelle
+2020,12,19,Pioggia - Nebbia  ,nebbia al mattino ,5 °C ,7 °C ,9 °C ,Roncadelle
+2020,12,20,Pioggia  ,pioggia debole ,6 °C ,7 °C ,8 °C ,Roncadelle
+2020,12,21,Nebbia  ,nebbia al mattino ,7 °C ,7 °C ,9 °C ,Roncadelle
+2020,12,24,Pioggia  ,pioggia e schiarite ,8 °C ,8 °C ,9 °C ,Roncadelle
+2020,12,25,Pioggia - Nebbia  ,pioggia debole ,5 °C ,7 °C ,9 °C ,Roncadelle
+2020,12,26,Nessuno ,poco nuvoloso ,1 °C ,5 °C ,9 °C ,Roncadelle
+2020,12,27,Nessuno ,poco nuvoloso ,0 °C ,2 °C ,5 °C ,Roncadelle
+2020,12,28,Pioggia - Neve  ,pioggia mista a neve e schiarite ,0 °C ,1 °C ,2 °C ,Roncadelle
+2020,12,29,Pioggia  ,poco nuvoloso ,-1 °C ,1 °C ,5 °C ,Roncadelle
+2020,12,30,Nebbia  ,nebbia al mattino ,0 °C ,2 °C ,3 °C ,Roncadelle
+2020,12,31,Nebbia  ,nebbia al mattino ,-2 °C ,1 °C ,5 °C ,Roncadelle
+2021,1,1,Pioggia  ,pioggia e schiarite ,3 °C ,4 °C ,4 °C ,Roncadelle
+2021,1,2,Pioggia  ,pioggia e schiarite ,5 °C ,6 °C ,7 °C ,Roncadelle
+2021,1,3,Pioggia - Nebbia  ,pioggia e schiarite ,5 °C ,6 °C ,7 °C ,Roncadelle
+2021,1,4,Pioggia  ,poco nuvoloso ,3 °C ,5 °C ,7 °C ,Roncadelle
+2021,1,5,Pioggia  ,pioggia e schiarite ,4 °C ,5 °C ,6 °C ,Roncadelle
+2021,1,6,Pioggia  ,pioggia e schiarite ,3 °C ,3 °C ,4 °C ,Roncadelle
+2021,1,7,Nessuno ,poco nuvoloso ,2 °C ,3 °C ,5 °C ,Roncadelle
+2021,1,8,Nessuno ,poco nuvoloso ,-1 °C ,0 °C ,2 °C ,Roncadelle
+2021,1,9,Nessuno ,sereno ,-1 °C ,1 °C ,5 °C ,Roncadelle
+2021,1,10,Nessuno ,sereno ,-1 °C ,2 °C ,5 °C ,Roncadelle
+2021,1,11,Nessuno ,sereno ,-4 °C ,0 °C ,5 °C ,Roncadelle
+2021,1,12,Nessuno ,sereno ,-4 °C ,-1 °C ,3 °C ,Roncadelle
+2021,1,13,Nessuno ,sereno ,-4 °C ,0 °C ,5 °C ,Roncadelle
+2021,1,15,Nessuno ,poco nuvoloso ,-1 °C ,3 °C ,5 °C ,Roncadelle
+2021,1,16,Nessuno ,poco nuvoloso ,-1 °C ,2 °C ,5 °C ,Roncadelle
+2021,1,17,Nessuno ,poco nuvoloso ,-1 °C ,1 °C ,3 °C ,Roncadelle
+2021,1,18,Nebbia  ,nebbia al mattino ,-3 °C ,-1 °C ,4 °C ,Roncadelle
+2021,1,19,Nebbia  ,nebbia al mattino ,-4 °C ,-2 °C ,0 °C ,Roncadelle
+2021,1,20,Pioggia - Nebbia  ,pioggia debole ,0 °C ,1 °C ,3 °C ,Roncadelle
+2021,1,25,Nessuno ,poco nuvoloso ,-1 °C ,2 °C ,4 °C ,Roncadelle
+2021,1,26,Nessuno ,sereno ,-3 °C ,-2 °C ,-1 °C ,Roncadelle
+2021,1,28,Nessuno ,poco nuvoloso ,-2 °C ,2 °C ,6 °C ,Roncadelle
+2021,1,29,Nessuno ,poco nuvoloso ,0 °C ,2 °C ,4 °C ,Roncadelle
+2021,1,30,Pioggia  ,pioggia e schiarite ,0 °C ,4 °C ,6 °C ,Roncadelle
+2021,1,31,Pioggia  ,pioggia e schiarite ,3 °C ,5 °C ,9 °C ,Roncadelle
+2021,2,1,Nessuno ,poco nuvoloso ,1 °C ,4 °C ,7 °C ,Roncadelle
+2021,2,2,Nebbia  ,nebbia al mattino ,0 °C ,2 °C ,6 °C ,Roncadelle
+2021,2,3,Pioggia - Nebbia  ,pioggia debole ,3 °C ,5 °C ,6 °C ,Roncadelle
+2021,2,4,Nebbia  ,nebbia al mattino ,5 °C ,6 °C ,7 °C ,Roncadelle
+2021,2,5,Nessuno ,nubi sparse ,6 °C ,8 °C ,9 °C ,Roncadelle
+2021,2,6,Nessuno ,nubi sparse ,7 °C ,8 °C ,9 °C ,Roncadelle
+2021,2,7,Pioggia  ,pioggia e schiarite ,7 °C ,8 °C ,10 °C ,Roncadelle
+2021,2,8,Nebbia  ,poco nuvoloso ,5 °C ,8 °C ,11 °C ,Roncadelle
+2021,2,9,Pioggia  ,nubi sparse ,7 °C ,8 °C ,10 °C ,Roncadelle
+2021,2,10,Pioggia  ,pioggia e schiarite ,6 °C ,7 °C ,8 °C ,Roncadelle
+2021,2,11,Nessuno ,poco nuvoloso ,2 °C ,7 °C ,11 °C ,Roncadelle
+2021,2,12,Neve  ,nubi sparse ,0 °C ,2 °C ,4 °C ,Roncadelle
+2021,2,13,Nessuno ,poco nuvoloso ,-2 °C ,0 °C ,2 °C ,Roncadelle
+2021,2,14,Nessuno ,sereno ,-4 °C ,0 °C ,5 °C ,Roncadelle
+2021,2,15,Nessuno ,sereno ,-3 °C ,2 °C ,7 °C ,Roncadelle
+2021,2,16,Nessuno ,poco nuvoloso ,-1 °C ,5 °C ,11 °C ,Roncadelle
+2021,2,17,Nessuno ,poco nuvoloso ,5 °C ,7 °C ,12 °C ,Roncadelle
+2021,2,18,Nessuno ,poco nuvoloso ,6 °C ,8 °C ,11 °C ,Roncadelle
+2021,2,19,Nebbia  ,nebbia al mattino ,7 °C ,7 °C ,8 °C ,Roncadelle
+2021,2,22,Nebbia  ,nebbia al mattino ,7 °C ,9 °C ,13 °C ,Roncadelle
+2021,2,23,Nebbia  ,nebbia al mattino ,3 °C ,8 °C ,14 °C ,Roncadelle
+2021,2,24,Nebbia  ,sereno ,3 °C ,9 °C ,17 °C ,Roncadelle
+2021,2,25,Nessuno ,sereno ,3 °C ,10 °C ,17 °C ,Roncadelle
+2021,2,26,Nessuno ,sereno ,3 °C ,9 °C ,17 °C ,Roncadelle
+2021,2,27,Nessuno ,sereno ,5 °C ,11 °C ,17 °C ,Roncadelle
+2021,2,28,Nessuno ,poco nuvoloso ,4 °C ,8 °C ,12 °C ,Roncadelle
+2021,3,1,Nessuno ,sereno ,1 °C ,8 °C ,15 °C ,Roncadelle
+2021,3,2,Nessuno ,sereno ,2 °C ,8 °C ,14 °C ,Roncadelle
+2021,3,3,Nessuno ,sereno ,3 °C ,8 °C ,12 °C ,Roncadelle
+2021,3,4,Nessuno ,sereno ,2 °C ,8 °C ,13 °C ,Roncadelle
+2021,3,5,Nessuno ,poco nuvoloso ,7 °C ,11 °C ,14 °C ,Roncadelle
+2021,3,6,Pioggia  ,pioggia e schiarite ,6 °C ,8 °C ,10 °C ,Roncadelle
+2021,3,7,Nessuno ,sereno ,1 °C ,6 °C ,10 °C ,Roncadelle
+2021,3,8,Nessuno ,sereno ,2 °C ,7 °C ,12 °C ,Roncadelle
+2021,3,9,Nessuno ,poco nuvoloso ,2 °C ,8 °C ,12 °C ,Roncadelle
+2021,3,10,Pioggia  ,poco nuvoloso ,3 °C ,8 °C ,12 °C ,Roncadelle
+2021,3,11,Nessuno ,poco nuvoloso ,3 °C ,7 °C ,10 °C ,Roncadelle
+2021,3,12,Nessuno ,nubi sparse ,7 °C ,10 °C ,13 °C ,Roncadelle
+2021,3,13,Nessuno ,poco nuvoloso ,4 °C ,9 °C ,14 °C ,Roncadelle
+2021,3,14,Nessuno ,poco nuvoloso ,4 °C ,9 °C ,14 °C ,Roncadelle
+2021,3,15,Nessuno ,poco nuvoloso ,2 °C ,10 °C ,15 °C ,Roncadelle
+2021,3,16,Nessuno ,poco nuvoloso ,5 °C ,10 °C ,15 °C ,Roncadelle
+2021,3,17,Nessuno ,poco nuvoloso ,1 °C ,9 °C ,14 °C ,Roncadelle
+2021,3,18,Nessuno ,poco nuvoloso ,3 °C ,7 °C ,10 °C ,Roncadelle
+2021,3,19,Nessuno ,poco nuvoloso ,4 °C ,6 °C ,10 °C ,Roncadelle
+2021,3,20,Nessuno ,poco nuvoloso ,0 °C ,6 °C ,10 °C ,Roncadelle
+2021,3,21,Nessuno ,poco nuvoloso ,0 °C ,5 °C ,9 °C ,Roncadelle
+2021,3,22,Nessuno ,sereno ,0 °C ,7 °C ,13 °C ,Roncadelle
+2021,3,23,Nessuno ,sereno ,4 °C ,8 °C ,13 °C ,Roncadelle
+2021,3,24,Nessuno ,sereno ,3 °C ,9 °C ,15 °C ,Roncadelle
+2021,3,25,Nessuno ,sereno ,5 °C ,10 °C ,17 °C ,Roncadelle
+2021,3,26,Nessuno ,poco nuvoloso ,5 °C ,12 °C ,16 °C ,Roncadelle
+2021,3,27,Nessuno ,poco nuvoloso ,8 °C ,12 °C ,15 °C ,Roncadelle
+2021,3,28,Nessuno ,poco nuvoloso ,8 °C ,12 °C ,17 °C ,Roncadelle
+2021,3,29,Nessuno ,sereno ,7 °C ,13 °C ,19 °C ,Roncadelle
+2021,3,30,Nessuno ,sereno ,10 °C ,16 °C ,20 °C ,Roncadelle
+2021,3,31,Nessuno ,sereno ,8 °C ,14 °C ,21 °C ,Roncadelle
+2021,4,1,Nessuno ,poco nuvoloso ,8 °C ,15 °C ,22 °C ,Roncadelle
+2021,4,2,Nessuno ,sereno ,8 °C ,15 °C ,22 °C ,Roncadelle
+2021,4,3,Nessuno ,poco nuvoloso ,9 °C ,13 °C ,16 °C ,Roncadelle
+2021,4,4,Nessuno ,nubi sparse ,8 °C ,10 °C ,14 °C ,Roncadelle
+2021,4,5,Nessuno ,sereno ,5 °C ,11 °C ,16 °C ,Roncadelle
+2021,4,6,Pioggia  ,poco nuvoloso ,6 °C ,10 °C ,13 °C ,Roncadelle
+2021,4,7,Nessuno ,poco nuvoloso ,4 °C ,7 °C ,12 °C ,Roncadelle
+2021,4,8,Nessuno ,poco nuvoloso ,0 °C ,9 °C ,15 °C ,Roncadelle
+2021,4,9,Nessuno ,poco nuvoloso ,6 °C ,11 °C ,15 °C ,Roncadelle
+2021,4,10,Nessuno ,poco nuvoloso ,8 °C ,12 °C ,15 °C ,Roncadelle
+2021,4,11,Pioggia  ,pioggia e schiarite ,9 °C ,10 °C ,12 °C ,Roncadelle
+2021,4,12,Pioggia  ,pioggia e schiarite ,9 °C ,11 °C ,13 °C ,Roncadelle
+2021,4,13,Pioggia  ,nubi sparse ,8 °C ,10 °C ,12 °C ,Roncadelle
+2021,4,14,Nessuno ,poco nuvoloso ,4 °C ,9 °C ,13 °C ,Roncadelle
+2021,4,15,Pioggia  ,poco nuvoloso ,7 °C ,9 °C ,11 °C ,Roncadelle
+2021,4,16,Nessuno ,poco nuvoloso ,5 °C ,10 °C ,14 °C ,Roncadelle
+2021,4,17,Nessuno ,poco nuvoloso ,5 °C ,10 °C ,14 °C ,Roncadelle
+2021,4,18,Nessuno ,poco nuvoloso ,9 °C ,11 °C ,14 °C ,Roncadelle
+2021,4,19,Pioggia  ,poco nuvoloso ,9 °C ,12 °C ,16 °C ,Roncadelle
+2021,4,20,Nessuno ,poco nuvoloso ,7 °C ,12 °C ,17 °C ,Roncadelle
+2021,4,21,Nessuno ,poco nuvoloso ,7 °C ,13 °C ,17 °C ,Roncadelle
+2021,4,22,Nessuno ,poco nuvoloso ,7 °C ,12 °C ,17 °C ,Roncadelle
+2021,4,23,Nessuno ,poco nuvoloso ,10 °C ,14 °C ,18 °C ,Roncadelle
+2021,4,24,Nessuno ,sereno ,9 °C ,14 °C ,19 °C ,Roncadelle
+2021,4,25,Nessuno ,sereno ,9 °C ,16 °C ,21 °C ,Roncadelle
+2021,4,26,Nessuno ,poco nuvoloso ,12 °C ,14 °C ,15 °C ,Roncadelle
+2021,4,27,Pioggia  ,pioggia e schiarite ,10 °C ,12 °C ,13 °C ,Roncadelle
+2021,4,28,Pioggia  ,poco nuvoloso ,11 °C ,14 °C ,17 °C ,Roncadelle
+2021,4,29,Pioggia - Temporale  ,temporale e schiarite ,12 °C ,13 °C ,15 °C ,Roncadelle
+2021,4,30,Pioggia - Temporale  ,temporale e schiarite ,12 °C ,15 °C ,18 °C ,Roncadelle
+2021,5,1,Pioggia  ,pioggia e schiarite ,11 °C ,14 °C ,17 °C ,Roncadelle
+2021,5,2,Nessuno ,nubi sparse ,12 °C ,14 °C ,18 °C ,Roncadelle
+2021,5,3,Nessuno ,poco nuvoloso ,10 °C ,13 °C ,16 °C ,Roncadelle
+2021,5,4,Nessuno ,poco nuvoloso ,9 °C ,14 °C ,19 °C ,Roncadelle
+2021,5,5,Nessuno ,poco nuvoloso ,10 °C ,14 °C ,19 °C ,Roncadelle
+2021,5,6,Nessuno ,poco nuvoloso ,11 °C ,15 °C ,18 °C ,Roncadelle
+2021,5,7,Nessuno ,poco nuvoloso ,13 °C ,16 °C ,22 °C ,Roncadelle
+2021,5,8,Nessuno ,sereno ,12 °C ,16 °C ,19 °C ,Roncadelle
+2021,5,9,Nessuno ,poco nuvoloso ,12 °C ,17 °C ,21 °C ,Roncadelle
+2021,5,10,Nessuno ,sereno ,13 °C ,18 °C ,23 °C ,Roncadelle
+2021,5,11,Pioggia  ,pioggia e schiarite ,13 °C ,14 °C ,16 °C ,Roncadelle
+2021,5,12,Pioggia - Temporale  ,temporale e schiarite ,12 °C ,15 °C ,19 °C ,Roncadelle
+2021,5,13,Nessuno ,poco nuvoloso ,12 °C ,15 °C ,20 °C ,Roncadelle
+2021,5,14,Nessuno ,poco nuvoloso ,10 °C ,13 °C ,18 °C ,Roncadelle
+2021,5,15,Nessuno ,poco nuvoloso ,10 °C ,14 °C ,18 °C ,Roncadelle
+2021,5,16,Pioggia  ,pioggia e schiarite ,12 °C ,15 °C ,17 °C ,Roncadelle
+2021,5,17,Pioggia  ,pioggia e schiarite ,12 °C ,16 °C ,21 °C ,Roncadelle
+2021,5,18,Nessuno ,sereno ,9 °C ,13 °C ,19 °C ,Roncadelle
+2021,5,19,Pioggia - Temporale  ,temporale e schiarite ,11 °C ,16 °C ,19 °C ,Roncadelle
+2021,5,20,Nessuno ,poco nuvoloso ,9 °C ,15 °C ,21 °C ,Roncadelle
+2021,5,21,Nessuno ,poco nuvoloso ,11 °C ,16 °C ,21 °C ,Roncadelle
+2021,5,22,Pioggia  ,nubi sparse ,13 °C ,16 °C ,18 °C ,Roncadelle
+2021,5,23,Nessuno ,poco nuvoloso ,12 °C ,17 °C ,21 °C ,Roncadelle
+2021,5,24,Pioggia  ,pioggia e schiarite ,13 °C ,13 °C ,15 °C ,Roncadelle
+2021,5,25,Nessuno ,poco nuvoloso ,12 °C ,16 °C ,20 °C ,Roncadelle
+2021,5,26,Nessuno ,poco nuvoloso ,9 °C ,15 °C ,20 °C ,Roncadelle
+2021,5,27,Nessuno ,poco nuvoloso ,11 °C ,16 °C ,22 °C ,Roncadelle
+2021,5,28,Nessuno ,poco nuvoloso ,12 °C ,19 °C ,25 °C ,Roncadelle
+2021,5,29,Nessuno ,poco nuvoloso ,15 °C ,20 °C ,25 °C ,Roncadelle
+2021,5,30,Nessuno ,poco nuvoloso ,17 °C ,21 °C ,23 °C ,Roncadelle
+2021,5,31,Nessuno ,poco nuvoloso ,17 °C ,20 °C ,24 °C ,Roncadelle
+2021,6,1,Nessuno ,poco nuvoloso ,17 °C ,21 °C ,26 °C ,Roncadelle
+2021,6,2,Nessuno ,sereno ,17 °C ,22 °C ,26 °C ,Roncadelle
+2021,6,3,Nessuno ,poco nuvoloso ,18 °C ,23 °C ,28 °C ,Roncadelle
+2021,6,4,Nessuno ,poco nuvoloso ,19 °C ,24 °C ,29 °C ,Roncadelle
+2021,6,5,Pioggia - Temporale  ,poco nuvoloso ,20 °C ,24 °C ,28 °C ,Roncadelle
+2021,6,6,Pioggia - Temporale  ,temporale e schiarite ,19 °C ,22 °C ,27 °C ,Roncadelle
+2021,6,7,Pioggia - Temporale  ,temporale e schiarite ,19 °C ,22 °C ,26 °C ,Roncadelle
+2021,6,8,Nessuno ,poco nuvoloso ,20 °C ,24 °C ,28 °C ,Roncadelle
+2021,6,9,Nessuno ,poco nuvoloso ,18 °C ,23 °C ,28 °C ,Roncadelle
+2021,6,10,Pioggia - Temporale  ,poco nuvoloso ,19 °C ,24 °C ,28 °C ,Roncadelle
+2021,6,11,Pioggia - Temporale  ,temporale e schiarite ,19 °C ,23 °C ,28 °C ,Roncadelle
+2021,6,12,Nessuno ,sereno ,18 °C ,24 °C ,29 °C ,Roncadelle
+2021,6,13,Nessuno ,sole e caldo ,20 °C ,26 °C ,31 °C ,Roncadelle
+2021,6,14,Nessuno ,poco nuvoloso ,23 °C ,26 °C ,29 °C ,Roncadelle
+2021,6,15,Nessuno ,poco nuvoloso ,22 °C ,25 °C ,29 °C ,Roncadelle
+2021,6,16,Nessuno ,poco nuvoloso ,21 °C ,25 °C ,29 °C ,Roncadelle
+2021,6,17,Nessuno ,poco nuvoloso ,21 °C ,26 °C ,31 °C ,Roncadelle
+2021,6,18,Pioggia  ,poco nuvoloso ,23 °C ,27 °C ,31 °C ,Roncadelle
+2021,6,19,Nessuno ,sereno ,22 °C ,26 °C ,30 °C ,Roncadelle
+2021,6,20,Nessuno ,sole e caldo ,22 °C ,27 °C ,30 °C ,Roncadelle
+2021,6,21,Nessuno ,poco nuvoloso ,23 °C ,27 °C ,31 °C ,Roncadelle
+2021,6,22,Nessuno ,poco nuvoloso ,20 °C ,27 °C ,31 °C ,Roncadelle
+2021,6,23,Pioggia - Temporale  ,temporale e schiarite ,21 °C ,25 °C ,31 °C ,Roncadelle
+2021,6,24,Nessuno ,poco nuvoloso ,19 °C ,25 °C ,30 °C ,Roncadelle
+2021,6,25,Nessuno ,sereno ,19 °C ,24 °C ,29 °C ,Roncadelle
+2021,6,26,Nessuno ,poco nuvoloso ,20 °C ,26 °C ,30 °C ,Roncadelle
+2021,6,27,Nessuno ,poco nuvoloso ,21 °C ,27 °C ,31 °C ,Roncadelle
+2021,6,28,Nessuno ,poco nuvoloso ,22 °C ,28 °C ,32 °C ,Roncadelle
+2021,6,29,Nessuno ,poco nuvoloso ,23 °C ,28 °C ,32 °C ,Roncadelle
+2021,6,30,Nessuno ,poco nuvoloso ,20 °C ,25 °C ,29 °C ,Roncadelle
+2021,7,1,Nessuno ,poco nuvoloso ,19 °C ,25 °C ,30 °C ,Roncadelle
+2021,7,2,Nessuno ,poco nuvoloso ,21 °C ,25 °C ,30 °C ,Roncadelle
+2021,7,3,Pioggia - Temporale  ,temporale e schiarite ,22 °C ,26 °C ,30 °C ,Roncadelle
+2021,7,4,Pioggia  ,pioggia e schiarite ,20 °C ,23 °C ,25 °C ,Roncadelle
+2021,7,5,Nessuno ,sereno ,18 °C ,23 °C ,29 °C ,Roncadelle
+2021,7,6,Nessuno ,sole e caldo ,20 °C ,26 °C ,30 °C ,Roncadelle
+2021,7,7,Nessuno ,poco nuvoloso ,22 °C ,27 °C ,31 °C ,Roncadelle
+2021,7,8,Pioggia - Temporale  ,temporale e schiarite ,22 °C ,25 °C ,29 °C ,Roncadelle
+2021,7,9,Nessuno ,poco nuvoloso ,18 °C ,23 °C ,29 °C ,Roncadelle
+2021,7,10,Nessuno ,poco nuvoloso ,19 °C ,25 °C ,30 °C ,Roncadelle
+2021,7,11,Pioggia - Temporale  ,sereno ,20 °C ,25 °C ,29 °C ,Roncadelle
+2021,7,12,Nessuno ,poco nuvoloso ,20 °C ,26 °C ,30 °C ,Roncadelle
+2021,7,13,Pioggia - Temporale  ,temporale e schiarite ,22 °C ,25 °C ,26 °C ,Roncadelle
+2021,7,14,Pioggia - Temporale  ,temporale e schiarite ,18 °C ,22 °C ,25 °C ,Roncadelle
+2021,7,15,Nessuno ,sereno ,19 °C ,19 °C ,19 °C ,Roncadelle
+2021,7,16,Pioggia  ,pioggia e schiarite ,20 °C ,23 °C ,27 °C ,Roncadelle
+2021,7,17,Nessuno ,poco nuvoloso ,19 °C ,23 °C ,27 °C ,Roncadelle
+2021,7,18,Pioggia  ,sereno ,20 °C ,24 °C ,29 °C ,Roncadelle
+2021,7,19,Nessuno ,poco nuvoloso ,22 °C ,27 °C ,31 °C ,Roncadelle
+2021,7,20,Nessuno ,sole e caldo ,22 °C ,27 °C ,31 °C ,Roncadelle
+2021,7,21,Nessuno ,poco nuvoloso ,21 °C ,27 °C ,31 °C ,Roncadelle
+2021,7,22,Nessuno ,poco nuvoloso ,23 °C ,26 °C ,30 °C ,Roncadelle
+2021,7,23,Nessuno ,poco nuvoloso ,21 °C ,26 °C ,30 °C ,Roncadelle
+2021,7,24,Nessuno ,poco nuvoloso ,23 °C ,27 °C ,30 °C ,Roncadelle
+2021,7,25,Nessuno ,poco nuvoloso ,23 °C ,26 °C ,30 °C ,Roncadelle
+2021,7,26,Pioggia - Temporale  ,temporale e schiarite ,20 °C ,24 °C ,28 °C ,Roncadelle
+2021,7,27,Pioggia - Temporale  ,poco nuvoloso ,22 °C ,24 °C ,28 °C ,Roncadelle
+2021,7,28,Pioggia - Temporale  ,poco nuvoloso ,20 °C ,25 °C ,29 °C ,Roncadelle
+2021,7,29,Nessuno ,poco nuvoloso ,20 °C ,25 °C ,30 °C ,Roncadelle
+2021,7,30,Nessuno ,poco nuvoloso ,21 °C ,26 °C ,30 °C ,Roncadelle
+2021,7,31,Nessuno ,poco nuvoloso ,23 °C ,27 °C ,30 °C ,Roncadelle
+2021,8,1,Pioggia - Temporale  ,temporale e schiarite ,20 °C ,24 °C ,27 °C ,Roncadelle
+2021,8,2,Nessuno ,poco nuvoloso ,19 °C ,23 °C ,28 °C ,Roncadelle
+2021,8,3,Nessuno ,poco nuvoloso ,18 °C ,23 °C ,27 °C ,Roncadelle
+2021,8,4,Pioggia  ,pioggia e schiarite ,21 °C ,22 °C ,25 °C ,Roncadelle
+2021,8,5,Pioggia  ,sereno ,18 °C ,23 °C ,28 °C ,Roncadelle
+2021,8,6,Nessuno ,poco nuvoloso ,19 °C ,24 °C ,29 °C ,Roncadelle
+2021,8,7,Nessuno ,poco nuvoloso ,20 °C ,24 °C ,28 °C ,Roncadelle
+2021,8,8,Nessuno ,poco nuvoloso ,21 °C ,26 °C ,30 °C ,Roncadelle
+2021,8,9,Nessuno ,poco nuvoloso ,20 °C ,26 °C ,30 °C ,Roncadelle
+2021,8,10,Nessuno ,poco nuvoloso ,20 °C ,26 °C ,30 °C ,Roncadelle
+2021,8,11,Nessuno ,sole e caldo ,25 °C ,29 °C ,32 °C ,Roncadelle
+2021,8,12,Nessuno ,sole e caldo ,22 °C ,28 °C ,33 °C ,Roncadelle
+2021,8,13,Nessuno ,sole e caldo ,23 °C ,28 °C ,33 °C ,Roncadelle
+2021,8,14,Nessuno ,sole e caldo ,24 °C ,29 °C ,34 °C ,Roncadelle
+2021,8,15,Nessuno ,sole e caldo ,25 °C ,29 °C ,34 °C ,Roncadelle
+2021,8,16,Pioggia - Temporale  ,poco nuvoloso ,21 °C ,27 °C ,32 °C ,Roncadelle
+2021,8,17,Nessuno ,sereno ,18 °C ,23 °C ,29 °C ,Roncadelle
+2021,8,18,Nessuno ,sereno ,21 °C ,25 °C ,28 °C ,Roncadelle
+2021,8,19,Nessuno ,poco nuvoloso ,19 °C ,25 °C ,29 °C ,Roncadelle
+2021,8,20,Nessuno ,poco nuvoloso ,21 °C ,25 °C ,29 °C ,Roncadelle
+2021,8,21,Nessuno ,sole e caldo ,21 °C ,26 °C ,31 °C ,Roncadelle
+2021,8,22,Nessuno ,sole e caldo ,23 °C ,28 °C ,31 °C ,Roncadelle
+2021,8,23,Nessuno ,poco nuvoloso ,23 °C ,25 °C ,29 °C ,Roncadelle
+2021,8,24,Nessuno ,poco nuvoloso ,18 °C ,24 °C ,28 °C ,Roncadelle
+2021,8,25,Nessuno ,poco nuvoloso ,22 °C ,24 °C ,27 °C ,Roncadelle
+2021,8,26,Nessuno ,poco nuvoloso ,20 °C ,24 °C ,28 °C ,Roncadelle
+2021,8,27,Nessuno ,poco nuvoloso ,20 °C ,21 °C ,23 °C ,Roncadelle
+2021,8,28,Pioggia  ,pioggia e schiarite ,18 °C ,21 °C ,24 °C ,Roncadelle
+2021,8,29,Nessuno ,poco nuvoloso ,16 °C ,21 °C ,26 °C ,Roncadelle
+2021,8,30,Pioggia - Temporale  ,poco nuvoloso ,17 °C ,22 °C ,27 °C ,Roncadelle
+2021,8,31,Pioggia  ,pioggia e schiarite ,18 °C ,22 °C ,27 °C ,Roncadelle
+2021,9,1,Nessuno ,sereno ,16 °C ,24 °C ,28 °C ,Roncadelle
+2021,9,2,Nessuno ,poco nuvoloso ,19 °C ,24 °C ,27 °C ,Roncadelle
+2021,9,3,Nessuno ,poco nuvoloso ,17 °C ,23 °C ,28 °C ,Roncadelle
+2021,9,4,Nessuno ,poco nuvoloso ,18 °C ,22 °C ,27 °C ,Roncadelle
+2021,9,5,Nessuno ,poco nuvoloso ,19 °C ,24 °C ,28 °C ,Roncadelle
+2021,9,6,Nessuno ,poco nuvoloso ,19 °C ,25 °C ,28 °C ,Roncadelle
+2021,9,7,Nessuno ,sereno ,18 °C ,23 °C ,28 °C ,Roncadelle
+2021,9,8,Nessuno ,sereno ,20 °C ,24 °C ,28 °C ,Roncadelle
+2021,9,9,Nessuno ,sereno ,18 °C ,23 °C ,28 °C ,Roncadelle
+2021,9,10,Nessuno ,sereno ,19 °C ,24 °C ,27 °C ,Roncadelle
+2021,9,11,Nessuno ,sereno ,20 °C ,24 °C ,28 °C ,Roncadelle
+2021,9,12,Nessuno ,sereno ,18 °C ,23 °C ,29 °C ,Roncadelle
+2021,9,13,Nessuno ,sereno ,18 °C ,23 °C ,30 °C ,Roncadelle
+2021,9,14,Nessuno ,sereno ,18 °C ,24 °C ,29 °C ,Roncadelle
+2021,9,15,Nessuno ,poco nuvoloso ,20 °C ,23 °C ,28 °C ,Roncadelle
+2021,9,16,Pioggia - Temporale  ,temporale e schiarite ,21 °C ,23 °C ,25 °C ,Roncadelle
+2021,9,17,Pioggia  ,poco nuvoloso ,19 °C ,22 °C ,26 °C ,Roncadelle
+2021,9,18,Nessuno ,poco nuvoloso ,20 °C ,22 °C ,26 °C ,Roncadelle
+2021,9,19,Pioggia - Temporale  ,temporale e schiarite ,19 °C ,21 °C ,24 °C ,Roncadelle
+2021,9,20,Pioggia - Temporale  ,temporale e schiarite ,15 °C ,19 °C ,25 °C ,Roncadelle
+2021,9,21,Nessuno ,poco nuvoloso ,17 °C ,20 °C ,24 °C ,Roncadelle
+2021,9,22,Nessuno ,poco nuvoloso ,18 °C ,20 °C ,23 °C ,Roncadelle
+2021,9,23,Nessuno ,poco nuvoloso ,16 °C ,20 °C ,24 °C ,Roncadelle
+2021,9,24,Nessuno ,poco nuvoloso ,16 °C ,20 °C ,25 °C ,Roncadelle
+2021,9,25,Nessuno ,poco nuvoloso ,17 °C ,21 °C ,26 °C ,Roncadelle
+2021,9,26,Pioggia - Temporale  ,temporale e schiarite ,19 °C ,21 °C ,22 °C ,Roncadelle
+2021,9,27,Nebbia  ,nebbia al mattino ,17 °C ,20 °C ,23 °C ,Roncadelle
+2021,9,28,Nessuno ,sereno ,17 °C ,20 °C ,26 °C ,Roncadelle
+2021,9,29,Nessuno ,poco nuvoloso ,19 °C ,22 °C ,27 °C ,Roncadelle
+2021,9,30,Nessuno ,poco nuvoloso ,18 °C ,20 °C ,24 °C ,Roncadelle
+2021,10,1,Nessuno ,sereno ,15 °C ,20 °C ,23 °C ,Roncadelle
+2021,10,2,Nessuno ,poco nuvoloso ,16 °C ,20 °C ,23 °C ,Roncadelle
+2021,10,3,Nessuno ,poco nuvoloso ,18 °C ,20 °C ,23 °C ,Roncadelle
+2021,10,4,Pioggia - Temporale  ,pioggia e schiarite ,18 °C ,21 °C ,23 °C ,Roncadelle
+2021,10,5,Pioggia  ,pioggia e schiarite ,18 °C ,19 °C ,21 °C ,Roncadelle
+2021,10,6,Pioggia - Temporale  ,temporale e schiarite ,14 °C ,16 °C ,18 °C ,Roncadelle
+2021,10,7,Nessuno ,poco nuvoloso ,13 °C ,15 °C ,18 °C ,Roncadelle
+2021,10,8,Nessuno ,poco nuvoloso ,14 °C ,15 °C ,18 °C ,Roncadelle
+2021,10,9,Nessuno ,nubi sparse ,14 °C ,15 °C ,18 °C ,Roncadelle
+2021,10,10,Nessuno ,poco nuvoloso ,10 °C ,14 °C ,17 °C ,Roncadelle
+2021,10,11,Nessuno ,sereno ,9 °C ,13 °C ,19 °C ,Roncadelle
+2021,10,12,Nessuno ,sereno ,10 °C ,12 °C ,17 °C ,Roncadelle
+2021,10,13,Nessuno ,poco nuvoloso ,9 °C ,13 °C ,19 °C ,Roncadelle
+2021,10,14,Nessuno ,poco nuvoloso ,9 °C ,11 °C ,17 °C ,Roncadelle
+2021,10,15,Nessuno ,sereno ,7 °C ,11 °C ,16 °C ,Roncadelle
+2021,10,16,Nessuno ,sereno ,7 °C ,12 °C ,18 °C ,Roncadelle
+2021,10,17,Nessuno ,sereno ,6 °C ,10 °C ,17 °C ,Roncadelle
+2021,10,18,Nessuno ,sereno ,7 °C ,12 °C ,18 °C ,Roncadelle
+2021,10,19,Nessuno ,sereno ,9 °C ,13 °C ,17 °C ,Roncadelle
+2021,10,20,Nessuno ,poco nuvoloso ,9 °C ,14 °C ,18 °C ,Roncadelle
+2021,10,21,Nessuno ,poco nuvoloso ,10 °C ,13 °C ,15 °C ,Roncadelle
+2021,10,22,Nebbia  ,nebbia al mattino ,9 °C ,12 °C ,17 °C ,Roncadelle
+2021,10,23,Nebbia  ,nebbia al mattino ,10 °C ,12 °C ,17 °C ,Roncadelle
+2021,10,24,Nessuno ,poco nuvoloso ,10 °C ,12 °C ,15 °C ,Roncadelle
+2021,10,25,Nessuno ,sereno ,8 °C ,11 °C ,15 °C ,Roncadelle
+2021,10,26,Nessuno ,sereno ,4 °C ,9 °C ,12 °C ,Roncadelle
+2021,10,27,Nessuno ,sereno ,5 °C ,11 °C ,17 °C ,Roncadelle
+2021,10,28,Nessuno ,sereno ,5 °C ,10 °C ,17 °C ,Roncadelle
+2021,10,29,Nessuno ,sereno ,6 °C ,11 °C ,16 °C ,Roncadelle
+2021,10,30,Nessuno ,poco nuvoloso ,7 °C ,10 °C ,14 °C ,Roncadelle
+2021,10,31,Nebbia  ,nubi sparse ,10 °C ,12 °C ,15 °C ,Roncadelle
+2021,11,1,Pioggia  ,pioggia e schiarite ,11 °C ,11 °C ,12 °C ,Roncadelle
+2021,11,2,Nebbia  ,nebbia al mattino ,8 °C ,10 °C ,15 °C ,Roncadelle
+2021,11,3,Pioggia  ,pioggia e schiarite ,10 °C ,10 °C ,11 °C ,Roncadelle
+2021,11,4,Pioggia  ,pioggia e schiarite ,7 °C ,9 °C ,10 °C ,Roncadelle
+2021,11,5,Nessuno ,sereno ,4 °C ,8 °C ,13 °C ,Roncadelle
+2021,11,6,Nessuno ,sereno ,3 °C ,7 °C ,13 °C ,Roncadelle
+2021,11,7,Nessuno ,poco nuvoloso ,5 °C ,8 °C ,12 °C ,Roncadelle
+2021,11,8,Pioggia  ,pioggia e schiarite ,8 °C ,9 °C ,11 °C ,Roncadelle
+2021,11,9,Nessuno ,poco nuvoloso ,5 °C ,8 °C ,13 °C ,Roncadelle
+2021,11,10,Nessuno ,nubi sparse ,9 °C ,10 °C ,10 °C ,Roncadelle
+2021,11,12,Nebbia  ,nebbia al mattino ,7 °C ,11 °C ,15 °C ,Roncadelle
+2021,11,13,Pioggia - Nebbia  ,pioggia debole ,7 °C ,9 °C ,12 °C ,Roncadelle
+2021,11,14,Pioggia  ,pioggia debole ,11 °C ,11 °C ,11 °C ,Roncadelle
+2021,11,15,Pioggia  ,pioggia e schiarite ,11 °C ,12 °C ,13 °C ,Roncadelle
+2021,11,16,Pioggia  ,pioggia e schiarite ,8 °C ,9 °C ,12 °C ,Roncadelle
+2021,11,17,Pioggia  ,nubi sparse ,9 °C ,10 °C ,11 °C ,Roncadelle
+2021,11,18,Nebbia  ,nebbia al mattino ,7 °C ,9 °C ,10 °C ,Roncadelle
+2021,11,19,Nebbia  ,nebbia al mattino ,9 °C ,10 °C ,12 °C ,Roncadelle
+2021,11,20,Nessuno ,nubi sparse ,8 °C ,9 °C ,10 °C ,Roncadelle
+2021,11,21,Pioggia - Nebbia  ,nebbia al mattino ,6 °C ,7 °C ,8 °C ,Roncadelle
+2021,11,22,Pioggia  ,pioggia e schiarite ,7 °C ,9 °C ,10 °C ,Roncadelle
+2021,11,23,Nessuno ,poco nuvoloso ,6 °C ,9 °C ,13 °C ,Roncadelle
+2021,11,24,Nessuno ,poco nuvoloso ,4 °C ,6 °C ,11 °C ,Roncadelle
+2021,11,25,Pioggia  ,pioggia e schiarite ,3 °C ,6 °C ,7 °C ,Roncadelle
+2021,11,26,Pioggia - Nebbia  ,poco nuvoloso ,6 °C ,7 °C ,9 °C ,Roncadelle
+2021,11,27,Pioggia  ,pioggia e schiarite ,7 °C ,8 °C ,10 °C ,Roncadelle
+2021,11,28,Pioggia  ,pioggia e schiarite ,2 °C ,6 °C ,8 °C ,Roncadelle
+2021,11,29,Nessuno ,sereno ,1 °C ,5 °C ,9 °C ,Roncadelle
+2021,11,30,Nessuno ,sereno ,-1 °C ,6 °C ,9 °C ,Roncadelle
+2021,12,1,Pioggia  ,pioggia e schiarite ,2 °C ,5 °C ,9 °C ,Roncadelle
+2021,12,2,Pioggia - Nebbia  ,nubi sparse ,5 °C ,5 °C ,7 °C ,Roncadelle
+2021,12,3,Nessuno ,poco nuvoloso ,3 °C ,6 °C ,9 °C ,Roncadelle
+2021,12,4,Nessuno ,poco nuvoloso ,1 °C ,4 °C ,6 °C ,Roncadelle
+2021,12,5,Nessuno ,poco nuvoloso ,4 °C ,5 °C ,8 °C ,Roncadelle
+2021,12,6,Nebbia  ,nebbia al mattino ,0 °C ,2 °C ,8 °C ,Roncadelle
+2021,12,7,Nessuno ,sereno ,-1 °C ,2 °C ,7 °C ,Roncadelle
+2021,12,8,Pioggia  ,pioggia e schiarite ,2 °C ,4 °C ,5 °C ,Roncadelle
+2021,12,9,Pioggia  ,pioggia e schiarite ,2 °C ,3 °C ,4 °C ,Roncadelle
+2021,12,10,Pioggia - Nebbia  ,pioggia e schiarite ,-1 °C ,2 °C ,4 °C ,Roncadelle
+2021,12,11,Nebbia  ,nebbia al mattino ,0 °C ,3 °C ,7 °C ,Roncadelle
+2021,12,12,Nessuno ,sereno ,-2 °C ,1 °C ,7 °C ,Roncadelle
+2021,12,13,Nessuno ,sereno ,1 °C ,5 °C ,10 °C ,Roncadelle
+2021,12,14,Nessuno ,sereno ,1 °C ,3 °C ,8 °C ,Roncadelle
+2021,12,15,Nessuno ,sereno ,0 °C ,4 °C ,9 °C ,Roncadelle
+2021,12,16,Nebbia  ,nebbia al mattino ,-1 °C ,1 °C ,3 °C ,Roncadelle
+2021,12,17,Nebbia  ,nebbia ,0 °C ,2 °C ,3 °C ,Roncadelle
+2021,12,18,Nebbia  ,nebbia ,-2 °C ,1 °C ,2 °C ,Roncadelle
+2021,12,19,Nebbia  ,nebbia al mattino ,0 °C ,1 °C ,4 °C ,Roncadelle
+2021,12,20,Nebbia  ,nebbia al mattino ,2 °C ,5 °C ,8 °C ,Roncadelle
+2021,12,21,Nebbia  ,nebbia al mattino ,1 °C ,4 °C ,6 °C ,Roncadelle
+2021,12,22,Nebbia  ,nebbia al mattino ,0 °C ,4 °C ,7 °C ,Roncadelle
+2021,12,23,Nebbia  ,nebbia al mattino ,0 °C ,1 °C ,2 °C ,Roncadelle
+2021,12,24,Nebbia  ,nubi sparse ,2 °C ,4 °C ,4 °C ,Roncadelle
+2021,12,25,Pioggia - Nebbia  ,pioggia debole ,4 °C ,4 °C ,5 °C ,Roncadelle
+2021,12,26,Nebbia  ,nebbia al mattino ,2 °C ,4 °C ,6 °C ,Roncadelle
+2021,12,27,Pioggia - Nebbia  ,pioggia e schiarite ,4 °C ,6 °C ,6 °C ,Roncadelle
+2021,12,28,Nebbia  ,nebbia al mattino ,5 °C ,6 °C ,7 °C ,Roncadelle
+2021,12,29,Nebbia  ,nebbia al mattino ,3 °C ,4 °C ,5 °C ,Roncadelle
+2021,12,30,Nebbia  ,nebbia al mattino ,3 °C ,4 °C ,5 °C ,Roncadelle
+2021,12,31,Nebbia  ,nebbia ,0 °C ,3 °C ,5 °C ,Roncadelle
+2022,1,1,Nebbia  ,nebbia ,-1 °C ,1 °C ,3 °C ,Roncadelle
+2022,1,2,Nebbia  ,nebbia al mattino ,-1 °C ,4 °C ,11 °C ,Roncadelle
+2022,1,3,Nebbia  ,nebbia al mattino ,3 °C ,4 °C ,5 °C ,Roncadelle
+2022,1,4,Pioggia  ,pioggia e schiarite ,5 °C ,5 °C ,6 °C ,Roncadelle
+2022,1,5,Pioggia  ,pioggia debole ,5 °C ,6 °C ,6 °C ,Roncadelle
+2022,1,6,Nessuno ,poco nuvoloso ,1 °C ,3 °C ,6 °C ,Roncadelle
+2022,1,7,Nessuno ,poco nuvoloso ,-1 °C ,2 °C ,6 °C ,Roncadelle
+2022,1,8,Nebbia  ,nebbia al mattino ,-2 °C ,1 °C ,5 °C ,Roncadelle
+2022,1,9,Nessuno ,poco nuvoloso ,0 °C ,1 °C ,3 °C ,Roncadelle
+2022,1,10,Nebbia  ,nebbia al mattino ,-2 °C ,0 °C ,5 °C ,Roncadelle
+2022,1,11,Nessuno ,sereno ,-2 °C ,2 °C ,9 °C ,Roncadelle
+2022,1,12,Nessuno ,sereno ,-2 °C ,2 °C ,7 °C ,Roncadelle
+2022,1,13,Nessuno ,sereno ,-4 °C ,0 °C ,7 °C ,Roncadelle
+2022,1,14,Nessuno ,sereno ,-2 °C ,2 °C ,7 °C ,Roncadelle
+2022,1,15,Nessuno ,sereno ,-2 °C ,3 °C ,11 °C ,Roncadelle
+2022,1,16,Nessuno ,sereno ,-1 °C ,3 °C ,9 °C ,Roncadelle
+2022,1,17,Nessuno ,poco nuvoloso ,-2 °C ,3 °C ,8 °C ,Roncadelle
+2022,1,18,Nebbia  ,nebbia al mattino ,-1 °C ,3 °C ,10 °C ,Roncadelle
+2022,1,19,Nebbia  ,nebbia al mattino ,-2 °C ,3 °C ,7 °C ,Roncadelle
+2022,1,20,Nebbia  ,nebbia al mattino ,-1 °C ,2 °C ,6 °C ,Roncadelle
+2022,1,21,Nebbia  ,nebbia al mattino ,-3 °C ,-1 °C ,2 °C ,Roncadelle
+2022,1,22,Nebbia  ,nebbia al mattino ,-3 °C ,0 °C ,3 °C ,Roncadelle
+2022,1,23,Nebbia  ,nebbia al mattino ,-3 °C ,1 °C ,5 °C ,Roncadelle
+2022,1,24,Nebbia  ,nebbia ,-4 °C ,-1 °C ,3 °C ,Roncadelle
+2022,1,25,Nebbia  ,nebbia al mattino ,1 °C ,2 °C ,3 °C ,Roncadelle
+2022,1,26,Nebbia  ,nebbia al mattino ,1 °C ,2 °C ,4 °C ,Roncadelle
+2022,1,27,Nebbia  ,nebbia al mattino ,2 °C ,3 °C ,3 °C ,Roncadelle
+2022,1,28,Nebbia  ,nebbia al mattino ,-2 °C ,1 °C ,4 °C ,Roncadelle
+2022,1,29,Nebbia  ,sereno ,-3 °C ,2 °C ,8 °C ,Roncadelle
+2022,1,30,Nessuno ,sereno ,0 °C ,3 °C ,11 °C ,Roncadelle
+2022,1,31,Nessuno ,poco nuvoloso ,-1 °C ,4 °C ,9 °C ,Roncadelle
+2022,2,1,Nessuno ,sereno ,4 °C ,7 °C ,13 °C ,Roncadelle
+2022,2,2,Nessuno ,sereno ,-1 °C ,7 °C ,14 °C ,Roncadelle
+2022,2,3,Nessuno ,sereno ,0 °C ,6 °C ,12 °C ,Roncadelle
+2022,2,4,Nessuno ,nubi sparse ,3 °C ,7 °C ,9 °C ,Roncadelle
+2022,2,5,Nessuno ,poco nuvoloso ,3 °C ,6 °C ,10 °C ,Roncadelle
+2022,2,6,Nebbia  ,nebbia al mattino ,0 °C ,4 °C ,9 °C ,Roncadelle
+2022,2,7,Nebbia  ,nebbia al mattino ,4 °C ,7 °C ,13 °C ,Roncadelle
+2022,2,8,Nessuno ,sereno ,-1 °C ,5 °C ,12 °C ,Roncadelle
+2022,2,9,Nessuno ,sereno ,0 °C ,5 °C ,14 °C ,Roncadelle
+2022,2,10,Nessuno ,poco nuvoloso ,3 °C ,8 °C ,13 °C ,Roncadelle
+2022,2,11,Nessuno ,poco nuvoloso ,6 °C ,8 °C ,12 °C ,Roncadelle
+2022,2,12,Nessuno ,sereno ,2 °C ,6 °C ,11 °C ,Roncadelle
+2022,2,13,Nessuno ,sereno ,-1 °C ,3 °C ,9 °C ,Roncadelle
+2022,2,14,Pioggia  ,nubi sparse ,0 °C ,4 °C ,6 °C ,Roncadelle
+2022,2,15,Pioggia - Nebbia  ,pioggia e schiarite ,1 °C ,3 °C ,4 °C ,Roncadelle
+2022,2,16,Nebbia  ,nebbia al mattino ,-1 °C ,4 °C ,9 °C ,Roncadelle
+2022,2,17,Nebbia  ,nebbia al mattino ,1 °C ,4 °C ,9 °C ,Roncadelle
+2022,2,18,Nebbia  ,nebbia al mattino ,2 °C ,6 °C ,10 °C ,Roncadelle
+2022,2,19,Nebbia  ,nubi sparse ,7 °C ,9 °C ,10 °C ,Roncadelle
+2022,2,20,Nebbia  ,nebbia al mattino ,5 °C ,8 °C ,12 °C ,Roncadelle
+2022,2,21,Nebbia  ,poco nuvoloso ,5 °C ,9 °C ,15 °C ,Roncadelle
+2022,2,22,Nessuno ,sereno ,4 °C ,9 °C ,15 °C ,Roncadelle
+2022,2,23,Nessuno ,sereno ,1 °C ,8 °C ,14 °C ,Roncadelle
+2022,2,24,Nessuno ,sereno ,3 °C ,8 °C ,12 °C ,Roncadelle
+2022,2,25,Pioggia  ,pioggia e schiarite ,1 °C ,8 °C ,13 °C ,Roncadelle
+2022,2,26,Nessuno ,poco nuvoloso ,3 °C ,6 °C ,11 °C ,Roncadelle
+2022,2,27,Nessuno ,sereno ,-1 °C ,5 °C ,10 °C ,Roncadelle
+2022,2,28,Nessuno ,sereno ,-1 °C ,4 °C ,11 °C ,Roncadelle
+2022,3,1,Nessuno ,poco nuvoloso ,1 °C ,5 °C ,9 °C ,Roncadelle
+2022,3,2,Nessuno ,sereno ,-3 °C ,4 °C ,9 °C ,Roncadelle
+2022,3,3,Nessuno ,sereno ,1 °C ,6 °C ,11 °C ,Roncadelle
+2022,3,4,Nessuno ,poco nuvoloso ,3 °C ,6 °C ,11 °C ,Roncadelle
+2022,3,5,Nessuno ,poco nuvoloso ,3 °C ,6 °C ,8 °C ,Roncadelle
+2022,3,6,Nessuno ,poco nuvoloso ,1 °C ,5 °C ,8 °C ,Roncadelle
+2022,3,7,Nessuno ,poco nuvoloso ,-1 °C ,4 °C ,9 °C ,Roncadelle
+2022,3,8,Nessuno ,poco nuvoloso ,2 °C ,5 °C ,8 °C ,Roncadelle
+2022,3,9,Nessuno ,sereno ,-3 °C ,4 °C ,10 °C ,Roncadelle
+2022,3,10,Nessuno ,sereno ,-1 °C ,7 °C ,13 °C ,Roncadelle
+2022,3,11,Nessuno ,poco nuvoloso ,4 °C ,7 °C ,9 °C ,Roncadelle
+2022,3,12,Nessuno ,poco nuvoloso ,3 °C ,6 °C ,9 °C ,Roncadelle
+2022,3,13,Nessuno ,poco nuvoloso ,-1 °C ,5 °C ,10 °C ,Roncadelle
+2022,3,14,Nessuno ,poco nuvoloso ,5 °C ,7 °C ,11 °C ,Roncadelle
+2022,3,15,Nessuno ,poco nuvoloso ,4 °C ,8 °C ,11 °C ,Roncadelle
+2022,3,16,Nessuno ,poco nuvoloso ,8 °C ,10 °C ,13 °C ,Roncadelle
+2022,3,17,Nessuno ,poco nuvoloso ,8 °C ,9 °C ,12 °C ,Roncadelle
+2022,3,18,Nessuno ,sereno ,6 °C ,10 °C ,13 °C ,Roncadelle
+2022,3,19,Nessuno ,sereno ,4 °C ,8 °C ,13 °C ,Roncadelle
+2022,3,20,Nessuno ,sereno ,3 °C ,7 °C ,13 °C ,Roncadelle
+2020,1,2,Nessuno ,sereno ,-6 °C ,0 °C ,8 °C ,Bolzano
+2020,1,3,Nessuno ,sereno ,-3 °C ,0 °C ,5 °C ,Bolzano
+2020,1,4,Nessuno ,poco nuvoloso ,-5 °C ,4 °C ,12 °C ,Bolzano
+2020,1,5,Nessuno ,sereno ,0 °C ,7 °C ,14 °C ,Bolzano
+2020,1,6,Nessuno ,sereno ,-5 °C ,0 °C ,7 °C ,Bolzano
+2020,1,7,Nessuno ,poco nuvoloso ,-6 °C ,0 °C ,7 °C ,Bolzano
+2020,1,8,Nessuno ,poco nuvoloso ,-4 °C ,2 °C ,8 °C ,Bolzano
+2020,1,9,Nessuno ,sereno ,-3 °C ,2 °C ,9 °C ,Bolzano
+2020,1,10,Nessuno ,sereno ,-6 °C ,1 °C ,8 °C ,Bolzano
+2020,1,11,Nessuno ,sereno ,-5 °C ,2 °C ,10 °C ,Bolzano
+2020,1,12,Nessuno ,sereno ,-6 °C ,0 °C ,7 °C ,Bolzano
+2020,1,13,Nessuno ,poco nuvoloso ,-7 °C ,-1 °C ,6 °C ,Bolzano
+2020,1,14,Nessuno ,sereno ,-7 °C ,-1 °C ,7 °C ,Bolzano
+2020,1,15,Nessuno ,sereno ,-6 °C ,0 °C ,7 °C ,Bolzano
+2020,1,16,Nessuno ,sereno ,-6 °C ,1 °C ,8 °C ,Bolzano
+2020,1,17,Nessuno ,poco nuvoloso ,-7 °C ,1 °C ,8 °C ,Bolzano
+2020,1,18,Nessuno ,coperto ,0 °C ,6 °C ,10 °C ,Bolzano
+2020,1,19,Nessuno ,poco nuvoloso ,-2 °C ,4 °C ,10 °C ,Bolzano
+2020,1,20,Nessuno ,sereno ,-5 °C ,1 °C ,7 °C ,Bolzano
+2020,1,21,Nessuno ,sereno ,-6 °C ,0 °C ,7 °C ,Bolzano
+2020,1,22,Nessuno ,sereno ,-5 °C ,1 °C ,8 °C ,Bolzano
+2020,1,23,Nessuno ,sereno ,-6 °C ,2 °C ,10 °C ,Bolzano
+2020,1,24,Nessuno ,poco nuvoloso ,-6 °C ,2 °C ,8 °C ,Bolzano
+2020,1,25,Nessuno ,poco nuvoloso ,0 °C ,4 °C ,9 °C ,Bolzano
+2020,1,26,Nessuno ,poco nuvoloso ,-1 °C ,3 °C ,8 °C ,Bolzano
+2020,1,27,Nessuno ,poco nuvoloso ,-4 °C ,3 °C ,9 °C ,Bolzano
+2020,1,28,Pioggia  ,pioggia e schiarite ,1 °C ,3 °C ,6 °C ,Bolzano
+2020,1,29,Nessuno ,poco nuvoloso ,0 °C ,6 °C ,12 °C ,Bolzano
+2020,1,30,Nessuno ,sereno ,-2 °C ,4 °C ,10 °C ,Bolzano
+2020,1,31,Nessuno ,sereno ,-3 °C ,4 °C ,12 °C ,Bolzano
+2020,2,1,Nessuno ,poco nuvoloso ,-2 °C ,3 °C ,9 °C ,Bolzano
+2020,2,2,Nessuno ,poco nuvoloso ,-3 °C ,5 °C ,11 °C ,Bolzano
+2020,2,3,Nessuno ,poco nuvoloso ,-1 °C ,5 °C ,12 °C ,Bolzano
+2020,2,4,Pioggia  ,poco nuvoloso ,3 °C ,7 °C ,12 °C ,Bolzano
+2020,2,5,Nessuno ,poco nuvoloso ,1 °C ,8 °C ,10 °C ,Bolzano
+2020,2,6,Nessuno ,sereno ,-2 °C ,4 °C ,11 °C ,Bolzano
+2020,2,7,Nessuno ,sereno ,-3 °C ,4 °C ,12 °C ,Bolzano
+2020,2,8,Nessuno ,sereno ,-5 °C ,3 °C ,10 °C ,Bolzano
+2020,2,9,Nessuno ,poco nuvoloso ,-4 °C ,3 °C ,10 °C ,Bolzano
+2020,2,10,Nessuno ,nubi sparse ,3 °C ,5 °C ,8 °C ,Bolzano
+2020,2,11,Nessuno ,poco nuvoloso ,1 °C ,11 °C ,17 °C ,Bolzano
+2020,2,12,Nessuno ,poco nuvoloso ,0 °C ,7 °C ,14 °C ,Bolzano
+2020,2,13,Nessuno ,poco nuvoloso ,-2 °C ,5 °C ,10 °C ,Bolzano
+2020,2,14,Nessuno ,poco nuvoloso ,1 °C ,9 °C ,17 °C ,Bolzano
+2020,2,15,Nessuno ,sereno ,0 °C ,7 °C ,14 °C ,Bolzano
+2020,2,16,Nessuno ,sereno ,-2 °C ,5 °C ,12 °C ,Bolzano
+2020,2,17,Nessuno ,nubi sparse ,0 °C ,7 °C ,10 °C ,Bolzano
+2020,2,18,Nessuno ,sereno ,3 °C ,10 °C ,17 °C ,Bolzano
+2020,2,19,Nessuno ,poco nuvoloso ,1 °C ,8 °C ,13 °C ,Bolzano
+2020,2,20,Nessuno ,poco nuvoloso ,-1 °C ,6 °C ,14 °C ,Bolzano
+2020,2,21,Nessuno ,sereno ,-3 °C ,10 °C ,18 °C ,Bolzano
+2020,2,22,Nessuno ,sereno ,-1 °C ,9 °C ,16 °C ,Bolzano
+2020,2,23,Nessuno ,poco nuvoloso ,0 °C ,8 °C ,15 °C ,Bolzano
+2020,2,24,Nessuno ,poco nuvoloso ,0 °C ,11 °C ,17 °C ,Bolzano
+2020,2,25,Nessuno ,coperto ,6 °C ,8 °C ,9 °C ,Bolzano
+2020,2,26,Pioggia  ,poco nuvoloso ,5 °C ,9 °C ,12 °C ,Bolzano
+2020,2,27,Nessuno ,poco nuvoloso ,-2 °C ,6 °C ,11 °C ,Bolzano
+2020,2,28,Nessuno ,poco nuvoloso ,2 °C ,8 °C ,13 °C ,Bolzano
+2020,2,29,Nessuno ,poco nuvoloso ,2 °C ,8 °C ,12 °C ,Bolzano
+2020,3,1,Pioggia  ,pioggia e schiarite ,4 °C ,6 °C ,7 °C ,Bolzano
+2020,3,2,Pioggia - Neve  ,pioggia mista a neve ,0 °C ,4 °C ,8 °C ,Bolzano
+2020,3,3,Nessuno ,nubi sparse ,2 °C ,7 °C ,11 °C ,Bolzano
+2020,3,4,Nessuno ,poco nuvoloso ,3 °C ,9 °C ,14 °C ,Bolzano
+2020,3,5,Pioggia  ,pioggia debole ,4 °C ,5 °C ,7 °C ,Bolzano
+2020,3,6,Pioggia  ,poco nuvoloso ,0 °C ,6 °C ,11 °C ,Bolzano
+2020,3,7,Nessuno ,poco nuvoloso ,0 °C ,9 °C ,14 °C ,Bolzano
+2020,3,8,Nessuno ,poco nuvoloso ,-1 °C ,8 °C ,14 °C ,Bolzano
+2020,3,9,Nessuno ,poco nuvoloso ,0 °C ,7 °C ,11 °C ,Bolzano
+2020,3,10,Nessuno ,poco nuvoloso ,2 °C ,8 °C ,12 °C ,Bolzano
+2020,3,11,Nessuno ,sereno ,0 °C ,11 °C ,20 °C ,Bolzano
+2020,3,12,Nessuno ,sereno ,3 °C ,12 °C ,18 °C ,Bolzano
+2020,3,13,Nessuno ,poco nuvoloso ,9 °C ,15 °C ,20 °C ,Bolzano
+2020,3,14,Pioggia  ,pioggia e schiarite ,4 °C ,6 °C ,8 °C ,Bolzano
+2020,3,15,Nessuno ,nubi sparse ,5 °C ,9 °C ,12 °C ,Bolzano
+2020,3,16,Nessuno ,poco nuvoloso ,1 °C ,10 °C ,17 °C ,Bolzano
+2020,3,17,Nessuno ,sereno ,2 °C ,12 °C ,19 °C ,Bolzano
+2020,3,18,Nessuno ,sereno ,3 °C ,14 °C ,22 °C ,Bolzano
+2020,3,19,Nessuno ,sereno ,3 °C ,15 °C ,22 °C ,Bolzano
+2020,3,20,Nessuno ,poco nuvoloso ,5 °C ,15 °C ,21 °C ,Bolzano
+2020,3,21,Nessuno ,poco nuvoloso ,8 °C ,17 °C ,21 °C ,Bolzano
+2020,3,22,Pioggia  ,poco nuvoloso ,10 °C ,14 °C ,19 °C ,Bolzano
+2020,3,23,Nessuno ,sereno ,2 °C ,8 °C ,12 °C ,Bolzano
+2020,3,24,Nessuno ,poco nuvoloso ,1 °C ,9 °C ,14 °C ,Bolzano
+2020,3,25,Nessuno ,poco nuvoloso ,0 °C ,7 °C ,11 °C ,Bolzano
+2020,3,26,Nessuno ,nubi sparse ,1 °C ,7 °C ,11 °C ,Bolzano
+2020,3,27,Nessuno ,poco nuvoloso ,2 °C ,10 °C ,13 °C ,Bolzano
+2020,3,28,Nessuno ,poco nuvoloso ,1 °C ,14 °C ,21 °C ,Bolzano
+2020,3,29,Pioggia  ,pioggia e schiarite ,4 °C ,13 °C ,18 °C ,Bolzano
+2020,3,30,Pioggia  ,pioggia e schiarite ,7 °C ,8 °C ,9 °C ,Bolzano
+2020,3,31,Nessuno ,poco nuvoloso ,2 °C ,8 °C ,13 °C ,Bolzano
+2020,4,1,Nessuno ,poco nuvoloso ,-1 °C ,8 °C ,13 °C ,Bolzano
+2020,4,2,Nessuno ,sereno ,0 °C ,10 °C ,17 °C ,Bolzano
+2020,4,3,Nessuno ,poco nuvoloso ,1 °C ,12 °C ,20 °C ,Bolzano
+2020,4,4,Nessuno ,sereno ,2 °C ,14 °C ,20 °C ,Bolzano
+2020,4,5,Nessuno ,sereno ,3 °C ,15 °C ,22 °C ,Bolzano
+2020,4,6,Nessuno ,sereno ,3 °C ,15 °C ,22 °C ,Bolzano
+2020,4,7,Nessuno ,sereno ,5 °C ,17 °C ,25 °C ,Bolzano
+2020,4,8,Nessuno ,sereno ,5 °C ,17 °C ,24 °C ,Bolzano
+2020,4,9,Nessuno ,poco nuvoloso ,5 °C ,17 °C ,26 °C ,Bolzano
+2020,4,10,Nessuno ,sereno ,7 °C ,19 °C ,26 °C ,Bolzano
+2020,4,11,Nessuno ,sereno ,6 °C ,19 °C ,26 °C ,Bolzano
+2020,4,12,Nessuno ,poco nuvoloso ,8 °C ,19 °C ,26 °C ,Bolzano
+2020,4,13,Nessuno ,sereno ,9 °C ,18 °C ,24 °C ,Bolzano
+2020,4,14,Nessuno ,sereno ,8 °C ,16 °C ,20 °C ,Bolzano
+2020,4,15,Nessuno ,poco nuvoloso ,5 °C ,15 °C ,21 °C ,Bolzano
+2020,4,16,Nessuno ,sereno ,3 °C ,16 °C ,23 °C ,Bolzano
+2020,4,17,Nessuno ,sereno ,4 °C ,18 °C ,26 °C ,Bolzano
+2020,4,18,Nessuno ,poco nuvoloso ,8 °C ,20 °C ,27 °C ,Bolzano
+2020,4,19,Nessuno ,poco nuvoloso ,9 °C ,19 °C ,26 °C ,Bolzano
+2020,4,20,Pioggia  ,pioggia e schiarite ,14 °C ,15 °C ,17 °C ,Bolzano
+2020,4,21,Nessuno ,poco nuvoloso ,11 °C ,17 °C ,21 °C ,Bolzano
+2020,4,22,Nessuno ,sereno ,5 °C ,17 °C ,24 °C ,Bolzano
+2020,4,23,Nessuno ,sereno ,6 °C ,18 °C ,25 °C ,Bolzano
+2020,4,24,Nessuno ,poco nuvoloso ,6 °C ,19 °C ,25 °C ,Bolzano
+2020,4,25,Nessuno ,poco nuvoloso ,8 °C ,18 °C ,23 °C ,Bolzano
+2020,4,26,Nessuno ,poco nuvoloso ,13 °C ,20 °C ,24 °C ,Bolzano
+2020,4,27,Nessuno ,nubi sparse ,13 °C ,18 °C ,22 °C ,Bolzano
+2020,4,28,Pioggia  ,pioggia e schiarite ,10 °C ,15 °C ,19 °C ,Bolzano
+2020,4,29,Pioggia  ,pioggia e schiarite ,10 °C ,13 °C ,17 °C ,Bolzano
+2020,4,30,Pioggia  ,pioggia e schiarite ,6 °C ,14 °C ,19 °C ,Bolzano
+2020,5,1,Nessuno ,poco nuvoloso ,9 °C ,16 °C ,20 °C ,Bolzano
+2020,5,2,Nessuno ,poco nuvoloso ,9 °C ,19 °C ,24 °C ,Bolzano
+2020,5,3,Nessuno ,sereno ,13 °C ,19 °C ,24 °C ,Bolzano
+2020,5,4,Nessuno ,poco nuvoloso ,11 °C ,19 °C ,24 °C ,Bolzano
+2020,5,5,Pioggia  ,poco nuvoloso ,8 °C ,16 °C ,20 °C ,Bolzano
+2020,5,6,Nessuno ,poco nuvoloso ,11 °C ,20 °C ,25 °C ,Bolzano
+2020,5,7,Nessuno ,sereno ,6 °C ,20 °C ,27 °C ,Bolzano
+2020,5,8,Nessuno ,sereno ,10 °C ,21 °C ,26 °C ,Bolzano
+2020,5,9,Nessuno ,poco nuvoloso ,13 °C ,22 °C ,28 °C ,Bolzano
+2020,5,10,Pioggia  ,pioggia e schiarite ,15 °C ,20 °C ,23 °C ,Bolzano
+2020,5,11,Pioggia  ,pioggia e schiarite ,12 °C ,15 °C ,20 °C ,Bolzano
+2020,5,12,Nessuno ,poco nuvoloso ,12 °C ,19 °C ,23 °C ,Bolzano
+2020,5,13,Pioggia  ,pioggia debole ,15 °C ,16 °C ,19 °C ,Bolzano
+2020,5,14,Nessuno ,poco nuvoloso ,14 °C ,22 °C ,27 °C ,Bolzano
+2020,5,15,Pioggia  ,pioggia e schiarite ,12 °C ,16 °C ,18 °C ,Bolzano
+2020,5,16,Nessuno ,poco nuvoloso ,11 °C ,18 °C ,22 °C ,Bolzano
+2020,5,17,Pioggia - Temporale  ,temporale e schiarite ,14 °C ,20 °C ,27 °C ,Bolzano
+2020,5,18,Pioggia  ,pioggia e schiarite ,12 °C ,22 °C ,27 °C ,Bolzano
+2020,5,19,Pioggia - Temporale  ,temporale e schiarite ,15 °C ,19 °C ,25 °C ,Bolzano
+2020,5,20,Nessuno ,poco nuvoloso ,13 °C ,23 °C ,28 °C ,Bolzano
+2020,5,21,Nessuno ,poco nuvoloso ,10 °C ,23 °C ,30 °C ,Bolzano
+2020,5,22,Nessuno ,sereno ,12 °C ,22 °C ,27 °C ,Bolzano
+2020,5,23,Pioggia - Temporale  ,temporale e schiarite ,16 °C ,22 °C ,28 °C ,Bolzano
+2020,5,24,Nessuno ,poco nuvoloso ,16 °C ,22 °C ,26 °C ,Bolzano
+2020,5,25,Nessuno ,poco nuvoloso ,11 °C ,22 °C ,27 °C ,Bolzano
+2020,5,26,Nessuno ,poco nuvoloso ,11 °C ,22 °C ,26 °C ,Bolzano
+2020,5,27,Nessuno ,sereno ,9 °C ,21 °C ,27 °C ,Bolzano
+2020,5,28,Nessuno ,poco nuvoloso ,11 °C ,21 °C ,26 °C ,Bolzano
+2020,5,29,Nessuno ,poco nuvoloso ,13 °C ,20 °C ,25 °C ,Bolzano
+2020,5,30,Nessuno ,nubi sparse ,14 °C ,19 °C ,22 °C ,Bolzano
+2020,5,31,Nessuno ,poco nuvoloso ,14 °C ,19 °C ,23 °C ,Bolzano
+2020,6,1,Nessuno ,sereno ,9 °C ,22 °C ,28 °C ,Bolzano
+2020,6,2,Nessuno ,poco nuvoloso ,13 °C ,24 °C ,31 °C ,Bolzano
+2020,6,3,Nessuno ,poco nuvoloso ,14 °C ,23 °C ,28 °C ,Bolzano
+2020,6,4,Pioggia  ,pioggia e schiarite ,15 °C ,18 °C ,20 °C ,Bolzano
+2020,6,5,Nessuno ,poco nuvoloso ,13 °C ,21 °C ,26 °C ,Bolzano
+2020,6,6,Pioggia  ,pioggia e schiarite ,16 °C ,22 °C ,26 °C ,Bolzano
+2020,6,7,Pioggia  ,pioggia e schiarite ,14 °C ,17 °C ,20 °C ,Bolzano
+2020,6,8,Pioggia  ,pioggia e schiarite ,13 °C ,17 °C ,23 °C ,Bolzano
+2020,6,9,Pioggia - Temporale  ,temporale e schiarite ,14 °C ,18 °C ,22 °C ,Bolzano
+2020,6,10,Pioggia  ,pioggia e schiarite ,14 °C ,17 °C ,20 °C ,Bolzano
+2020,6,11,Nessuno ,nubi sparse ,13 °C ,17 °C ,21 °C ,Bolzano
+2020,6,12,Nessuno ,poco nuvoloso ,12 °C ,22 °C ,27 °C ,Bolzano
+2020,6,13,Nessuno ,poco nuvoloso ,13 °C ,23 °C ,29 °C ,Bolzano
+2020,6,14,Pioggia  ,pioggia e schiarite ,17 °C ,20 °C ,25 °C ,Bolzano
+2020,6,15,Pioggia  ,pioggia e schiarite ,17 °C ,20 °C ,23 °C ,Bolzano
+2020,6,16,Pioggia  ,pioggia e schiarite ,15 °C ,21 °C ,27 °C ,Bolzano
+2020,6,17,Pioggia  ,pioggia e schiarite ,15 °C ,19 °C ,23 °C ,Bolzano
+2020,6,18,Nessuno ,poco nuvoloso ,16 °C ,22 °C ,27 °C ,Bolzano
+2020,6,19,Pioggia - Temporale  ,temporale e schiarite ,15 °C ,19 °C ,25 °C ,Bolzano
+2020,6,20,Nessuno ,poco nuvoloso ,11 °C ,23 °C ,29 °C ,Bolzano
+2020,6,21,Nessuno ,poco nuvoloso ,15 °C ,25 °C ,28 °C ,Bolzano
+2020,6,22,Nessuno ,poco nuvoloso ,16 °C ,26 °C ,30 °C ,Bolzano
+2020,6,23,Nessuno ,sole e caldo ,14 °C ,27 °C ,34 °C ,Bolzano
+2020,6,24,Pioggia - Temporale  ,temporale e schiarite ,16 °C ,25 °C ,31 °C ,Bolzano
+2020,6,25,Nessuno ,nubi sparse ,20 °C ,25 °C ,28 °C ,Bolzano
+2020,6,26,Pioggia - Temporale  ,temporale e schiarite ,20 °C ,24 °C ,29 °C ,Bolzano
+2020,6,27,Nessuno ,poco nuvoloso ,19 °C ,27 °C ,31 °C ,Bolzano
+2020,6,28,Nessuno ,poco nuvoloso ,19 °C ,27 °C ,32 °C ,Bolzano
+2020,6,29,Pioggia - Temporale  ,temporale e schiarite ,20 °C ,24 °C ,29 °C ,Bolzano
+2020,6,30,Nessuno ,poco nuvoloso ,20 °C ,27 °C ,31 °C ,Bolzano
+2020,7,1,Pioggia - Temporale  ,temporale e schiarite ,19 °C ,25 °C ,29 °C ,Bolzano
+2020,7,2,Pioggia - Temporale  ,temporale e schiarite ,18 °C ,26 °C ,32 °C ,Bolzano
+2020,7,3,Pioggia  ,poco nuvoloso ,18 °C ,24 °C ,29 °C ,Bolzano
+2020,7,4,Nessuno ,poco nuvoloso ,17 °C ,26 °C ,31 °C ,Bolzano
+2020,7,5,Nessuno ,poco nuvoloso ,16 °C ,27 °C ,32 °C ,Bolzano
+2020,7,6,Pioggia - Temporale  ,temporale e schiarite ,18 °C ,27 °C ,33 °C ,Bolzano
+2020,7,7,Nessuno ,sereno ,17 °C ,25 °C ,29 °C ,Bolzano
+2020,7,8,Nessuno ,poco nuvoloso ,18 °C ,25 °C ,30 °C ,Bolzano
+2020,7,9,Nessuno ,sole e caldo ,16 °C ,27 °C ,32 °C ,Bolzano
+2020,7,10,Pioggia - Temporale  ,poco nuvoloso ,20 °C ,28 °C ,33 °C ,Bolzano
+2020,7,11,Pioggia  ,pioggia e schiarite ,16 °C ,19 °C ,21 °C ,Bolzano
+2020,7,12,Nessuno ,poco nuvoloso ,12 °C ,23 °C ,29 °C ,Bolzano
+2020,7,13,Nessuno ,poco nuvoloso ,20 °C ,24 °C ,28 °C ,Bolzano
+2020,7,14,Nessuno ,poco nuvoloso ,17 °C ,22 °C ,25 °C ,Bolzano
+2020,7,15,Nessuno ,poco nuvoloso ,16 °C ,21 °C ,27 °C ,Bolzano
+2020,7,16,Nessuno ,poco nuvoloso ,15 °C ,23 °C ,27 °C ,Bolzano
+2020,7,17,Nessuno ,poco nuvoloso ,17 °C ,25 °C ,30 °C ,Bolzano
+2020,7,18,Nessuno ,poco nuvoloso ,15 °C ,24 °C ,28 °C ,Bolzano
+2020,7,19,Nessuno ,poco nuvoloso ,14 °C ,25 °C ,31 °C ,Bolzano
+2020,7,20,Nessuno ,poco nuvoloso ,16 °C ,27 °C ,33 °C ,Bolzano
+2020,7,21,Nessuno ,poco nuvoloso ,18 °C ,24 °C ,28 °C ,Bolzano
+2020,7,22,Pioggia - Temporale  ,temporale e schiarite ,17 °C ,25 °C ,31 °C ,Bolzano
+2020,7,23,Pioggia - Temporale  ,temporale e schiarite ,17 °C ,27 °C ,34 °C ,Bolzano
+2020,7,24,Pioggia  ,pioggia ,17 °C ,19 °C ,22 °C ,Bolzano
+2020,7,25,Nessuno ,poco nuvoloso ,13 °C ,25 °C ,31 °C ,Bolzano
+2020,7,26,Nessuno ,poco nuvoloso ,16 °C ,25 °C ,30 °C ,Bolzano
+2020,7,27,Nessuno ,poco nuvoloso ,17 °C ,27 °C ,32 °C ,Bolzano
+2020,7,28,Pioggia - Temporale  ,temporale e schiarite ,18 °C ,27 °C ,34 °C ,Bolzano
+2020,7,29,Nessuno ,poco nuvoloso ,18 °C ,28 °C ,34 °C ,Bolzano
+2020,7,30,Pioggia - Temporale  ,temporale e schiarite ,19 °C ,29 °C ,35 °C ,Bolzano
+2020,7,31,Pioggia - Temporale  ,poco nuvoloso ,18 °C ,27 °C ,34 °C ,Bolzano
+2020,8,1,Pioggia - Temporale  ,temporale e schiarite ,19 °C ,29 °C ,37 °C ,Bolzano
+2020,8,2,Pioggia - Temporale  ,poco nuvoloso ,20 °C ,25 °C ,29 °C ,Bolzano
+2020,8,3,Pioggia  ,pioggia e schiarite ,17 °C ,21 °C ,26 °C ,Bolzano
+2020,8,4,Pioggia  ,nubi sparse ,15 °C ,20 °C ,24 °C ,Bolzano
+2020,8,5,Nessuno ,poco nuvoloso ,11 °C ,23 °C ,30 °C ,Bolzano
+2020,8,6,Pioggia - Temporale  ,temporale e schiarite ,15 °C ,25 °C ,32 °C ,Bolzano
+2020,8,7,Nessuno ,poco nuvoloso ,17 °C ,27 °C ,33 °C ,Bolzano
+2020,8,8,Nessuno ,poco nuvoloso ,17 °C ,27 °C ,34 °C ,Bolzano
+2020,8,9,Nessuno ,poco nuvoloso ,18 °C ,28 °C ,34 °C ,Bolzano
+2020,8,10,Pioggia  ,pioggia e schiarite ,19 °C ,28 °C ,34 °C ,Bolzano
+2020,8,11,Nessuno ,poco nuvoloso ,19 °C ,28 °C ,34 °C ,Bolzano
+2020,8,12,Pioggia - Temporale  ,poco nuvoloso ,20 °C ,28 °C ,33 °C ,Bolzano
+2020,8,13,Pioggia - Temporale  ,temporale e schiarite ,20 °C ,27 °C ,32 °C ,Bolzano
+2020,8,14,Pioggia - Temporale  ,temporale e schiarite ,17 °C ,21 °C ,27 °C ,Bolzano
+2020,8,15,Nessuno ,poco nuvoloso ,15 °C ,25 °C ,31 °C ,Bolzano
+2020,8,16,Pioggia - Temporale  ,temporale e schiarite ,18 °C ,25 °C ,30 °C ,Bolzano
+2020,8,17,Pioggia - Temporale  ,poco nuvoloso ,18 °C ,22 °C ,27 °C ,Bolzano
+2020,8,18,Nessuno ,poco nuvoloso ,16 °C ,23 °C ,30 °C ,Bolzano
+2020,8,19,Nessuno ,poco nuvoloso ,15 °C ,25 °C ,30 °C ,Bolzano
+2020,8,20,Nessuno ,sole e caldo ,19 °C ,27 °C ,32 °C ,Bolzano
+2020,8,21,Nessuno ,poco nuvoloso ,20 °C ,28 °C ,35 °C ,Bolzano
+2020,8,22,Pioggia - Temporale  ,temporale e schiarite ,18 °C ,24 °C ,34 °C ,Bolzano
+2020,8,23,Pioggia  ,poco nuvoloso ,16 °C ,22 °C ,29 °C ,Bolzano
+2020,8,24,Pioggia - Temporale  ,poco nuvoloso ,14 °C ,22 °C ,28 °C ,Bolzano
+2020,8,25,Nessuno ,poco nuvoloso ,13 °C ,23 °C ,29 °C ,Bolzano
+2020,8,26,Nessuno ,poco nuvoloso ,16 °C ,23 °C ,28 °C ,Bolzano
+2020,8,27,Nessuno ,poco nuvoloso ,15 °C ,25 °C ,31 °C ,Bolzano
+2020,8,28,Pioggia - Temporale  ,temporale e schiarite ,20 °C ,23 °C ,27 °C ,Bolzano
+2020,8,29,Pioggia - Temporale  ,temporale e schiarite ,17 °C ,19 °C ,23 °C ,Bolzano
+2020,8,30,Pioggia - Temporale  ,temporale e schiarite ,16 °C ,19 °C ,24 °C ,Bolzano
+2020,8,31,Pioggia  ,nubi sparse ,13 °C ,17 °C ,20 °C ,Bolzano
+2020,9,1,Nessuno ,poco nuvoloso ,13 °C ,20 °C ,26 °C ,Bolzano
+2020,9,2,Nessuno ,poco nuvoloso ,14 °C ,18 °C ,22 °C ,Bolzano
+2020,9,3,Nessuno ,poco nuvoloso ,11 °C ,19 °C ,28 °C ,Bolzano
+2020,9,4,Nessuno ,sereno ,11 °C ,21 °C ,28 °C ,Bolzano
+2020,9,5,Nessuno ,sole e caldo ,14 °C ,23 °C ,30 °C ,Bolzano
+2020,9,6,Pioggia - Temporale  ,poco nuvoloso ,16 °C ,21 °C ,25 °C ,Bolzano
+2020,9,7,Pioggia  ,nubi sparse ,15 °C ,18 °C ,21 °C ,Bolzano
+2020,9,8,Nessuno ,poco nuvoloso ,13 °C ,22 °C ,28 °C ,Bolzano
+2020,9,9,Nessuno ,poco nuvoloso ,14 °C ,23 °C ,29 °C ,Bolzano
+2020,9,10,Nessuno ,poco nuvoloso ,15 °C ,22 °C ,26 °C ,Bolzano
+2020,9,11,Nessuno ,poco nuvoloso ,18 °C ,24 °C ,30 °C ,Bolzano
+2020,9,12,Nessuno ,poco nuvoloso ,18 °C ,25 °C ,30 °C ,Bolzano
+2020,9,13,Nessuno ,sole e caldo ,17 °C ,25 °C ,30 °C ,Bolzano
+2020,9,14,Nessuno ,sole e caldo ,18 °C ,24 °C ,31 °C ,Bolzano
+2020,9,15,Nessuno ,poco nuvoloso ,17 °C ,24 °C ,30 °C ,Bolzano
+2020,9,16,Pioggia - Temporale  ,temporale e schiarite ,17 °C ,24 °C ,30 °C ,Bolzano
+2020,9,17,Nessuno ,poco nuvoloso ,14 °C ,22 °C ,29 °C ,Bolzano
+2020,9,18,Nessuno ,sereno ,14 °C ,22 °C ,29 °C ,Bolzano
+2020,9,19,Nessuno ,poco nuvoloso ,15 °C ,22 °C ,28 °C ,Bolzano
+2020,9,20,Nessuno ,poco nuvoloso ,17 °C ,22 °C ,28 °C ,Bolzano
+2020,9,21,Nessuno ,poco nuvoloso ,15 °C ,21 °C ,26 °C ,Bolzano
+2020,9,22,Pioggia  ,pioggia e schiarite ,16 °C ,20 °C ,24 °C ,Bolzano
+2020,9,23,Pioggia  ,pioggia e schiarite ,16 °C ,20 °C ,24 °C ,Bolzano
+2020,9,24,Pioggia - Temporale  ,pioggia e schiarite ,17 °C ,19 °C ,23 °C ,Bolzano
+2020,9,25,Pioggia - Temporale  ,temporale e schiarite ,9 °C ,14 °C ,17 °C ,Bolzano
+2020,9,26,Nessuno ,poco nuvoloso ,8 °C ,13 °C ,18 °C ,Bolzano
+2020,9,27,Nessuno ,poco nuvoloso ,4 °C ,12 °C ,17 °C ,Bolzano
+2020,9,28,Nessuno ,nubi sparse ,9 °C ,14 °C ,19 °C ,Bolzano
+2020,9,29,Nessuno ,poco nuvoloso ,5 °C ,14 °C ,21 °C ,Bolzano
+2020,9,30,Nessuno ,poco nuvoloso ,7 °C ,15 °C ,22 °C ,Bolzano
+2020,10,1,Nessuno ,poco nuvoloso ,12 °C ,17 °C ,22 °C ,Bolzano
+2020,10,2,Pioggia  ,pioggia e schiarite ,13 °C ,15 °C ,16 °C ,Bolzano
+2020,10,3,Pioggia  ,pioggia e schiarite ,10 °C ,15 °C ,19 °C ,Bolzano
+2020,10,4,Pioggia  ,pioggia e schiarite ,9 °C ,13 °C ,17 °C ,Bolzano
+2020,10,5,Pioggia  ,poco nuvoloso ,10 °C ,12 °C ,15 °C ,Bolzano
+2020,10,6,Nessuno ,nubi sparse ,9 °C ,14 °C ,17 °C ,Bolzano
+2020,10,7,Nessuno ,poco nuvoloso ,10 °C ,16 °C ,22 °C ,Bolzano
+2020,10,8,Nessuno ,sereno ,5 °C ,14 °C ,20 °C ,Bolzano
+2020,10,9,Nessuno ,sereno ,6 °C ,13 °C ,19 °C ,Bolzano
+2020,10,10,Pioggia - Nebbia  ,poco nuvoloso ,6 °C ,14 °C ,20 °C ,Bolzano
+2020,10,11,Pioggia  ,pioggia e schiarite ,9 °C ,11 °C ,13 °C ,Bolzano
+2020,10,12,Nessuno ,poco nuvoloso ,5 °C ,11 °C ,16 °C ,Bolzano
+2020,10,13,Nessuno ,poco nuvoloso ,1 °C ,10 °C ,17 °C ,Bolzano
+2020,10,14,Nessuno ,sereno ,1 °C ,8 °C ,16 °C ,Bolzano
+2020,10,15,Pioggia  ,pioggia ,6 °C ,8 °C ,10 °C ,Bolzano
+2020,10,16,Nessuno ,nubi sparse ,7 °C ,11 °C ,17 °C ,Bolzano
+2020,10,17,Nessuno ,poco nuvoloso ,3 °C ,11 °C ,16 °C ,Bolzano
+2020,10,18,Nessuno ,poco nuvoloso ,6 °C ,12 °C ,18 °C ,Bolzano
+2020,10,19,Nessuno ,poco nuvoloso ,7 °C ,11 °C ,16 °C ,Bolzano
+2020,10,20,Nessuno ,poco nuvoloso ,8 °C ,12 °C ,16 °C ,Bolzano
+2020,10,21,Nessuno ,poco nuvoloso ,9 °C ,13 °C ,18 °C ,Bolzano
+2020,10,22,Nessuno ,poco nuvoloso ,8 °C ,13 °C ,17 °C ,Bolzano
+2020,10,23,Pioggia  ,pioggia e schiarite ,11 °C ,12 °C ,13 °C ,Bolzano
+2020,10,24,Pioggia  ,poco nuvoloso ,10 °C ,15 °C ,20 °C ,Bolzano
+2020,10,25,Nessuno ,nubi sparse ,6 °C ,13 °C ,16 °C ,Bolzano
+2020,10,26,Pioggia  ,pioggia ,10 °C ,12 °C ,13 °C ,Bolzano
+2020,10,27,Pioggia  ,pioggia e schiarite ,6 °C ,9 °C ,13 °C ,Bolzano
+2020,10,28,Nessuno ,sereno ,5 °C ,9 °C ,15 °C ,Bolzano
+2020,10,29,Nessuno ,poco nuvoloso ,4 °C ,9 °C ,15 °C ,Bolzano
+2020,10,30,Nessuno ,poco nuvoloso ,3 °C ,11 °C ,18 °C ,Bolzano
+2020,10,31,Nessuno ,sereno ,3 °C ,11 °C ,19 °C ,Bolzano
+2020,11,1,Nessuno ,poco nuvoloso ,4 °C ,9 °C ,14 °C ,Bolzano
+2020,11,2,Nessuno ,poco nuvoloso ,5 °C ,11 °C ,17 °C ,Bolzano
+2020,11,3,Nessuno ,poco nuvoloso ,7 °C ,12 °C ,16 °C ,Bolzano
+2020,11,4,Nessuno ,poco nuvoloso ,11 °C ,14 °C ,18 °C ,Bolzano
+2020,11,5,Nessuno ,poco nuvoloso ,8 °C ,13 °C ,19 °C ,Bolzano
+2020,11,6,Nessuno ,poco nuvoloso ,6 °C ,12 °C ,19 °C ,Bolzano
+2020,11,7,Nessuno ,sereno ,4 °C ,10 °C ,16 °C ,Bolzano
+2020,11,8,Nessuno ,sereno ,3 °C ,8 °C ,14 °C ,Bolzano
+2020,11,9,Nessuno ,sereno ,2 °C ,8 °C ,15 °C ,Bolzano
+2020,11,10,Nessuno ,sereno ,2 °C ,8 °C ,15 °C ,Bolzano
+2020,11,11,Nessuno ,sereno ,1 °C ,7 °C ,15 °C ,Bolzano
+2020,11,12,Nessuno ,poco nuvoloso ,2 °C ,6 °C ,12 °C ,Bolzano
+2020,11,13,Nessuno ,sereno ,-1 °C ,6 °C ,13 °C ,Bolzano
+2020,11,14,Nessuno ,sereno ,0 °C ,5 °C ,13 °C ,Bolzano
+2020,11,15,Nessuno ,poco nuvoloso ,-1 °C ,6 °C ,12 °C ,Bolzano
+2020,11,16,Pioggia  ,pioggia e schiarite ,4 °C ,8 °C ,13 °C ,Bolzano
+2020,11,17,Nessuno ,sereno ,2 °C ,8 °C ,15 °C ,Bolzano
+2020,11,18,Nessuno ,sereno ,0 °C ,7 °C ,13 °C ,Bolzano
+2020,11,19,Pioggia  ,poco nuvoloso ,-1 °C ,8 °C ,14 °C ,Bolzano
+2020,11,20,Nessuno ,poco nuvoloso ,8 °C ,12 °C ,15 °C ,Bolzano
+2020,11,21,Nessuno ,sereno ,-2 °C ,4 °C ,10 °C ,Bolzano
+2020,11,22,Nessuno ,sereno ,-4 °C ,2 °C ,8 °C ,Bolzano
+2020,11,23,Nessuno ,poco nuvoloso ,-3 °C ,3 °C ,7 °C ,Bolzano
+2020,11,24,Nessuno ,sereno ,-3 °C ,3 °C ,9 °C ,Bolzano
+2020,11,25,Nessuno ,sereno ,-4 °C ,3 °C ,10 °C ,Bolzano
+2020,11,26,Nessuno ,sereno ,-4 °C ,3 °C ,10 °C ,Bolzano
+2020,11,27,Nessuno ,sereno ,-5 °C ,2 °C ,9 °C ,Bolzano
+2020,11,28,Nessuno ,sereno ,-4 °C ,2 °C ,9 °C ,Bolzano
+2020,11,29,Nessuno ,sereno ,-4 °C ,2 °C ,9 °C ,Bolzano
+2020,11,30,Nessuno ,sereno ,-6 °C ,0 °C ,8 °C ,Bolzano
+2020,12,1,Nessuno ,poco nuvoloso ,-6 °C ,0 °C ,3 °C ,Bolzano
+2020,12,2,Nessuno ,nubi sparse ,-1 °C ,1 °C ,4 °C ,Bolzano
+2020,12,3,Nessuno ,poco nuvoloso ,0 °C ,3 °C ,5 °C ,Bolzano
+2020,12,4,Pioggia - Neve  ,pioggia mista a neve e schiarite ,0 °C ,1 °C ,3 °C ,Bolzano
+2020,12,5,Pioggia - Neve  ,pioggia mista a neve ,0 °C ,1 °C ,1 °C ,Bolzano
+2020,12,6,Pioggia  ,pioggia debole ,1 °C ,2 °C ,2 °C ,Bolzano
+2020,12,7,Pioggia - Nebbia  ,pioggia e schiarite ,1 °C ,2 °C ,5 °C ,Bolzano
+2020,12,8,Pioggia - Nebbia  ,pioggia e schiarite ,1 °C ,3 °C ,4 °C ,Bolzano
+2020,12,9,Pioggia  ,pioggia e schiarite ,2 °C ,3 °C ,5 °C ,Bolzano
+2020,12,10,Nebbia  ,nebbia al mattino ,-2 °C ,3 °C ,5 °C ,Bolzano
+2020,12,11,Nessuno ,coperto ,2 °C ,3 °C ,4 °C ,Bolzano
+2020,12,12,Nessuno ,poco nuvoloso ,-1 °C ,2 °C ,5 °C ,Bolzano
+2020,12,13,Nessuno ,poco nuvoloso ,-3 °C ,1 °C ,8 °C ,Bolzano
+2020,12,14,Nessuno ,sereno ,-3 °C ,2 °C ,7 °C ,Bolzano
+2020,12,15,Nessuno ,poco nuvoloso ,0 °C ,5 °C ,8 °C ,Bolzano
+2020,12,16,Nessuno ,poco nuvoloso ,0 °C ,5 °C ,10 °C ,Bolzano
+2020,12,17,Nessuno ,poco nuvoloso ,-2 °C ,3 °C ,9 °C ,Bolzano
+2020,12,18,Nessuno ,sereno ,-3 °C ,1 °C ,8 °C ,Bolzano
+2020,12,19,Nessuno ,nubi sparse ,-3 °C ,2 °C ,6 °C ,Bolzano
+2020,12,20,Nessuno ,nubi sparse ,-4 °C ,3 °C ,5 °C ,Bolzano
+2020,12,21,Nessuno ,nubi sparse ,3 °C ,5 °C ,8 °C ,Bolzano
+2020,12,22,Nessuno ,poco nuvoloso ,0 °C ,4 °C ,8 °C ,Bolzano
+2020,12,23,Nebbia  ,nubi sparse ,-2 °C ,3 °C ,6 °C ,Bolzano
+2020,12,24,Pioggia  ,pioggia e schiarite ,4 °C ,5 °C ,5 °C ,Bolzano
+2020,12,25,Nessuno ,nubi sparse ,3 °C ,7 °C ,10 °C ,Bolzano
+2020,12,26,Nessuno ,sereno ,-1 °C ,4 °C ,9 °C ,Bolzano
+2020,12,27,Nessuno ,sereno ,-5 °C ,-2 °C ,3 °C ,Bolzano
+2020,12,28,Neve  ,neve e schiarite ,-3 °C ,-2 °C ,-2 °C ,Bolzano
+2020,12,29,Neve  ,neve ,-4 °C ,-1 °C ,1 °C ,Bolzano
+2020,12,30,Nebbia  ,nebbia al mattino ,-4 °C ,-1 °C ,2 °C ,Bolzano
+2020,12,31,Nessuno ,sereno ,-11 °C ,-5 °C ,1 °C ,Bolzano
+2021,1,1,Neve  ,neve e schiarite ,-3 °C ,-1 °C ,1 °C ,Bolzano
+2021,1,2,Pioggia - Neve  ,pioggia mista a neve ,-2 °C ,0 °C ,1 °C ,Bolzano
+2021,1,3,Pioggia - Neve - Nebbia  ,pioggia e schiarite ,0 °C ,2 °C ,4 °C ,Bolzano
+2021,1,4,Nebbia  ,nebbia al mattino ,-3 °C ,1 °C ,4 °C ,Bolzano
+2021,1,5,Nessuno ,poco nuvoloso ,-3 °C ,0 °C ,2 °C ,Bolzano
+2021,1,6,Neve  ,neve e schiarite ,-4 °C ,0 °C ,3 °C ,Bolzano
+2021,1,7,Nessuno ,poco nuvoloso ,-8 °C ,-2 °C ,2 °C ,Bolzano
+2021,1,8,Nessuno ,sereno ,-8 °C ,-3 °C ,2 °C ,Bolzano
+2021,1,9,Nessuno ,sereno ,-9 °C ,-5 °C ,-1 °C ,Bolzano
+2021,1,10,Nessuno ,sereno ,-9 °C ,-4 °C ,1 °C ,Bolzano
+2021,1,11,Nessuno ,sereno ,-12 °C ,-6 °C ,0 °C ,Bolzano
+2021,1,12,Nessuno ,poco nuvoloso ,-10 °C ,-6 °C ,-2 °C ,Bolzano
+2021,1,13,Nessuno ,poco nuvoloso ,-10 °C ,-1 °C ,5 °C ,Bolzano
+2021,1,15,Neve  ,neve e schiarite ,-3 °C ,1 °C ,5 °C ,Bolzano
+2021,1,16,Nessuno ,sereno ,-8 °C ,-3 °C ,4 °C ,Bolzano
+2021,1,17,Nessuno ,poco nuvoloso ,-7 °C ,-2 °C ,2 °C ,Bolzano
+2021,1,18,Nessuno ,poco nuvoloso ,-8 °C ,-2 °C ,4 °C ,Bolzano
+2021,1,19,Nessuno ,sereno ,-8 °C ,-2 °C ,4 °C ,Bolzano
+2021,1,20,Nessuno ,nubi sparse ,-3 °C ,1 °C ,4 °C ,Bolzano
+2021,1,21,Pioggia - Neve  ,neve e schiarite ,0 °C ,1 °C ,2 °C ,Bolzano
+2021,1,22,Pioggia - Nebbia  ,pioggia debole ,0 °C ,1 °C ,3 °C ,Bolzano
+2021,1,23,Pioggia  ,pioggia e schiarite ,1 °C ,4 °C ,8 °C ,Bolzano
+2021,1,24,Nessuno ,poco nuvoloso ,-3 °C ,1 °C ,6 °C ,Bolzano
+2021,1,25,Nessuno ,poco nuvoloso ,-4 °C ,-1 °C ,2 °C ,Bolzano
+2021,1,26,Nessuno ,sereno ,-6 °C ,0 °C ,6 °C ,Bolzano
+2021,1,27,Nessuno ,poco nuvoloso ,-6 °C ,-2 °C ,1 °C ,Bolzano
+2021,1,28,Nessuno ,poco nuvoloso ,-4 °C ,0 °C ,4 °C ,Bolzano
+2021,1,29,Nebbia  ,poco nuvoloso ,-3 °C ,0 °C ,5 °C ,Bolzano
+2021,1,30,Pioggia  ,poco nuvoloso ,-4 °C ,2 °C ,7 °C ,Bolzano
+2021,1,31,Nessuno ,poco nuvoloso ,-1 °C ,3 °C ,7 °C ,Bolzano
+2021,2,1,Nessuno ,nubi sparse ,0 °C ,3 °C ,6 °C ,Bolzano
+2021,2,2,Nessuno ,poco nuvoloso ,-3 °C ,2 °C ,7 °C ,Bolzano
+2021,2,3,Nessuno ,nubi sparse ,2 °C ,3 °C ,4 °C ,Bolzano
+2021,2,4,Nessuno ,poco nuvoloso ,2 °C ,6 °C ,11 °C ,Bolzano
+2021,2,5,Pioggia  ,poco nuvoloso ,3 °C ,6 °C ,10 °C ,Bolzano
+2021,2,6,Nessuno ,poco nuvoloso ,3 °C ,5 °C ,8 °C ,Bolzano
+2021,2,7,Pioggia - Nebbia  ,pioggia e schiarite ,3 °C ,4 °C ,5 °C ,Bolzano
+2021,2,8,Nessuno ,poco nuvoloso ,3 °C ,7 °C ,11 °C ,Bolzano
+2021,2,9,Nessuno ,nubi sparse ,3 °C ,6 °C ,9 °C ,Bolzano
+2021,2,10,Pioggia  ,pioggia e schiarite ,0 °C ,4 °C ,6 °C ,Bolzano
+2021,2,11,Nessuno ,poco nuvoloso ,-2 °C ,5 °C ,9 °C ,Bolzano
+2021,2,12,Nessuno ,nubi sparse ,-3 °C ,0 °C ,3 °C ,Bolzano
+2021,2,13,Nessuno ,poco nuvoloso ,0 °C ,2 °C ,5 °C ,Bolzano
+2021,2,14,Nessuno ,sereno ,-7 °C ,-2 °C ,4 °C ,Bolzano
+2021,2,15,Nessuno ,sereno ,-7 °C ,0 °C ,5 °C ,Bolzano
+2021,2,16,Nessuno ,sereno ,-6 °C ,3 °C ,9 °C ,Bolzano
+2021,2,17,Nessuno ,sereno ,-2 °C ,5 °C ,13 °C ,Bolzano
+2021,2,18,Nessuno ,sereno ,-3 °C ,5 °C ,11 °C ,Bolzano
+2021,2,19,Nessuno ,poco nuvoloso ,2 °C ,7 °C ,14 °C ,Bolzano
+2021,2,20,Nessuno ,poco nuvoloso ,3 °C ,8 °C ,15 °C ,Bolzano
+2021,2,21,Nessuno ,poco nuvoloso ,3 °C ,8 °C ,14 °C ,Bolzano
+2021,2,22,Nessuno ,poco nuvoloso ,4 °C ,9 °C ,16 °C ,Bolzano
+2021,2,23,Nessuno ,sereno ,2 °C ,9 °C ,17 °C ,Bolzano
+2021,2,24,Nessuno ,sereno ,1 °C ,10 °C ,18 °C ,Bolzano
+2021,2,25,Nessuno ,sereno ,2 °C ,10 °C ,18 °C ,Bolzano
+2021,2,26,Nessuno ,sereno ,1 °C ,10 °C ,18 °C ,Bolzano
+2021,2,27,Nessuno ,poco nuvoloso ,2 °C ,13 °C ,20 °C ,Bolzano
+2021,2,28,Nessuno ,sereno ,0 °C ,9 °C ,16 °C ,Bolzano
+2021,3,1,Nessuno ,sereno ,-2 °C ,9 °C ,17 °C ,Bolzano
+2021,3,2,Nessuno ,sereno ,-1 °C ,9 °C ,17 °C ,Bolzano
+2021,3,3,Nessuno ,sereno ,0 °C ,9 °C ,14 °C ,Bolzano
+2021,3,4,Nessuno ,poco nuvoloso ,0 °C ,9 °C ,14 °C ,Bolzano
+2021,3,5,Nessuno ,poco nuvoloso ,0 °C ,11 °C ,15 °C ,Bolzano
+2021,3,6,Nessuno ,sereno ,3 °C ,9 °C ,15 °C ,Bolzano
+2021,3,7,Nessuno ,sereno ,0 °C ,8 °C ,14 °C ,Bolzano
+2021,3,8,Nessuno ,poco nuvoloso ,-2 °C ,9 °C ,15 °C ,Bolzano
+2021,3,9,Nessuno ,poco nuvoloso ,0 °C ,9 °C ,15 °C ,Bolzano
+2021,3,10,Nessuno ,poco nuvoloso ,-2 °C ,9 °C ,15 °C ,Bolzano
+2021,3,11,Nessuno ,nubi sparse ,2 °C ,9 °C ,12 °C ,Bolzano
+2021,3,12,Nessuno ,poco nuvoloso ,6 °C ,10 °C ,17 °C ,Bolzano
+2021,3,13,Nessuno ,poco nuvoloso ,1 °C ,11 °C ,18 °C ,Bolzano
+2021,3,14,Pioggia  ,poco nuvoloso ,7 °C ,9 °C ,13 °C ,Bolzano
+2021,3,15,Nessuno ,poco nuvoloso ,-1 °C ,10 °C ,14 °C ,Bolzano
+2021,3,16,Nessuno ,poco nuvoloso ,2 °C ,9 °C ,13 °C ,Bolzano
+2021,3,17,Nessuno ,poco nuvoloso ,-1 °C ,9 °C ,13 °C ,Bolzano
+2021,3,18,Nessuno ,poco nuvoloso ,2 °C ,8 °C ,11 °C ,Bolzano
+2021,3,19,Nessuno ,poco nuvoloso ,-2 °C ,7 °C ,11 °C ,Bolzano
+2021,3,20,Nessuno ,poco nuvoloso ,-2 °C ,6 °C ,10 °C ,Bolzano
+2021,3,21,Nessuno ,poco nuvoloso ,-2 °C ,8 °C ,13 °C ,Bolzano
+2021,3,22,Nessuno ,poco nuvoloso ,9 °C ,11 °C ,14 °C ,Bolzano
+2021,3,23,Nessuno ,sereno ,1 °C ,10 °C ,17 °C ,Bolzano
+2021,3,24,Nessuno ,sereno ,-1 °C ,12 °C ,21 °C ,Bolzano
+2021,3,25,Nessuno ,sereno ,2 °C ,14 °C ,22 °C ,Bolzano
+2021,3,26,Nessuno ,sereno ,3 °C ,14 °C ,21 °C ,Bolzano
+2021,3,27,Nessuno ,poco nuvoloso ,8 °C ,14 °C ,19 °C ,Bolzano
+2021,3,28,Nessuno ,poco nuvoloso ,7 °C ,15 °C ,20 °C ,Bolzano
+2021,3,29,Nessuno ,sereno ,7 °C ,16 °C ,23 °C ,Bolzano
+2021,3,30,Nessuno ,sereno ,5 °C ,18 °C ,26 °C ,Bolzano
+2021,3,31,Nessuno ,sereno ,7 °C ,18 °C ,26 °C ,Bolzano
+2021,4,1,Nessuno ,poco nuvoloso ,9 °C ,21 °C ,28 °C ,Bolzano
+2021,4,2,Nessuno ,poco nuvoloso ,8 °C ,20 °C ,27 °C ,Bolzano
+2021,4,3,Nessuno ,sereno ,12 °C ,16 °C ,19 °C ,Bolzano
+2021,4,4,Nessuno ,sereno ,4 °C ,13 °C ,19 °C ,Bolzano
+2021,4,5,Nessuno ,sereno ,2 °C ,12 °C ,16 °C ,Bolzano
+2021,4,6,Nessuno ,poco nuvoloso ,6 °C ,9 °C ,11 °C ,Bolzano
+2021,4,7,Nessuno ,poco nuvoloso ,-1 °C ,5 °C ,9 °C ,Bolzano
+2021,4,8,Nessuno ,sereno ,-1 °C ,9 °C ,16 °C ,Bolzano
+2021,4,9,Nessuno ,poco nuvoloso ,0 °C ,11 °C ,17 °C ,Bolzano
+2021,4,10,Nessuno ,nubi sparse ,9 °C ,12 °C ,15 °C ,Bolzano
+2021,4,11,Pioggia  ,pioggia e schiarite ,8 °C ,10 °C ,12 °C ,Bolzano
+2021,4,12,Pioggia  ,pioggia e schiarite ,6 °C ,10 °C ,13 °C ,Bolzano
+2021,4,13,Nessuno ,poco nuvoloso ,7 °C ,10 °C ,13 °C ,Bolzano
+2021,4,14,Nessuno ,poco nuvoloso ,0 °C ,9 °C ,15 °C ,Bolzano
+2021,4,15,Pioggia  ,poco nuvoloso ,3 °C ,8 °C ,12 °C ,Bolzano
+2021,4,16,Nessuno ,poco nuvoloso ,0 °C ,10 °C ,16 °C ,Bolzano
+2021,4,17,Nessuno ,poco nuvoloso ,1 °C ,12 °C ,18 °C ,Bolzano
+2021,4,18,Nessuno ,poco nuvoloso ,6 °C ,13 °C ,17 °C ,Bolzano
+2021,4,19,Nessuno ,poco nuvoloso ,3 °C ,13 °C ,17 °C ,Bolzano
+2021,4,20,Nessuno ,poco nuvoloso ,3 °C ,15 °C ,21 °C ,Bolzano
+2021,4,21,Pioggia  ,poco nuvoloso ,5 °C ,14 °C ,20 °C ,Bolzano
+2021,4,22,Nessuno ,poco nuvoloso ,7 °C ,17 °C ,22 °C ,Bolzano
+2021,4,23,Nessuno ,poco nuvoloso ,5 °C ,18 °C ,24 °C ,Bolzano
+2021,4,24,Nessuno ,sereno ,5 °C ,18 °C ,24 °C ,Bolzano
+2021,4,25,Nessuno ,poco nuvoloso ,8 °C ,18 °C ,26 °C ,Bolzano
+2021,4,26,Pioggia  ,pioggia e schiarite ,12 °C ,13 °C ,14 °C ,Bolzano
+2021,4,27,Nessuno ,nubi sparse ,11 °C ,15 °C ,20 °C ,Bolzano
+2021,4,28,Nessuno ,poco nuvoloso ,8 °C ,17 °C ,22 °C ,Bolzano
+2021,4,29,Pioggia  ,nubi sparse ,12 °C ,16 °C ,20 °C ,Bolzano
+2021,4,30,Pioggia  ,pioggia e schiarite ,13 °C ,18 °C ,22 °C ,Bolzano
+2021,5,1,Pioggia  ,pioggia e schiarite ,13 °C ,17 °C ,22 °C ,Bolzano
+2021,5,2,Pioggia  ,nubi sparse ,11 °C ,16 °C ,20 °C ,Bolzano
+2021,5,3,Nessuno ,poco nuvoloso ,6 °C ,16 °C ,21 °C ,Bolzano
+2021,5,4,Nessuno ,poco nuvoloso ,9 °C ,17 °C ,22 °C ,Bolzano
+2021,5,5,Nessuno ,poco nuvoloso ,7 °C ,15 °C ,21 °C ,Bolzano
+2021,5,6,Nessuno ,poco nuvoloso ,6 °C ,16 °C ,22 °C ,Bolzano
+2021,5,7,Pioggia - Temporale  ,temporale e schiarite ,13 °C ,18 °C ,22 °C ,Bolzano
+2021,5,8,Nessuno ,sereno ,4 °C ,17 °C ,23 °C ,Bolzano
+2021,5,9,Nessuno ,poco nuvoloso ,7 °C ,20 °C ,26 °C ,Bolzano
+2021,5,10,Nessuno ,poco nuvoloso ,12 °C ,21 °C ,27 °C ,Bolzano
+2021,5,11,Pioggia  ,pioggia e schiarite ,13 °C ,14 °C ,16 °C ,Bolzano
+2021,5,12,Nessuno ,nubi sparse ,11 °C ,16 °C ,21 °C ,Bolzano
+2021,5,13,Nessuno ,poco nuvoloso ,9 °C ,17 °C ,23 °C ,Bolzano
+2021,5,14,Pioggia  ,pioggia e schiarite ,12 °C ,16 °C ,22 °C ,Bolzano
+2021,5,15,Pioggia  ,pioggia e schiarite ,11 °C ,16 °C ,19 °C ,Bolzano
+2021,5,16,Nessuno ,poco nuvoloso ,8 °C ,18 °C ,23 °C ,Bolzano
+2021,5,17,Nessuno ,poco nuvoloso ,11 °C ,19 °C ,23 °C ,Bolzano
+2021,5,18,Nessuno ,poco nuvoloso ,7 °C ,18 °C ,24 °C ,Bolzano
+2021,5,19,Pioggia  ,poco nuvoloso ,9 °C ,17 °C ,22 °C ,Bolzano
+2021,5,20,Nessuno ,poco nuvoloso ,7 °C ,18 °C ,23 °C ,Bolzano
+2021,5,21,Nessuno ,poco nuvoloso ,9 °C ,18 °C ,23 °C ,Bolzano
+2021,5,22,Pioggia  ,pioggia e schiarite ,11 °C ,16 °C ,21 °C ,Bolzano
+2021,5,23,Pioggia  ,pioggia e schiarite ,13 °C ,16 °C ,21 °C ,Bolzano
+2021,5,24,Pioggia  ,pioggia e schiarite ,10 °C ,12 °C ,13 °C ,Bolzano
+2021,5,25,Pioggia - Temporale  ,pioggia e schiarite ,10 °C ,16 °C ,21 °C ,Bolzano
+2021,5,26,Nessuno ,poco nuvoloso ,6 °C ,18 °C ,23 °C ,Bolzano
+2021,5,27,Pioggia - Temporale  ,temporale e schiarite ,10 °C ,18 °C ,23 °C ,Bolzano
+2021,5,28,Nessuno ,poco nuvoloso ,8 °C ,20 °C ,26 °C ,Bolzano
+2021,5,29,Pioggia  ,poco nuvoloso ,16 °C ,20 °C ,23 °C ,Bolzano
+2021,5,30,Nessuno ,poco nuvoloso ,8 °C ,21 °C ,26 °C ,Bolzano
+2021,5,31,Nessuno ,poco nuvoloso ,13 °C ,20 °C ,25 °C ,Bolzano
+2021,6,1,Nessuno ,poco nuvoloso ,13 °C ,22 °C ,27 °C ,Bolzano
+2021,6,2,Nessuno ,poco nuvoloso ,17 °C ,23 °C ,27 °C ,Bolzano
+2021,6,3,Nessuno ,poco nuvoloso ,15 °C ,24 °C ,28 °C ,Bolzano
+2021,6,4,Pioggia - Temporale  ,poco nuvoloso ,16 °C ,24 °C ,29 °C ,Bolzano
+2021,6,5,Pioggia - Temporale  ,temporale e schiarite ,16 °C ,22 °C ,31 °C ,Bolzano
+2021,6,6,Nessuno ,poco nuvoloso ,15 °C ,22 °C ,27 °C ,Bolzano
+2021,6,7,Pioggia  ,pioggia e schiarite ,17 °C ,20 °C ,24 °C ,Bolzano
+2021,6,8,Pioggia - Temporale  ,pioggia e schiarite ,17 °C ,21 °C ,28 °C ,Bolzano
+2021,6,9,Pioggia - Temporale  ,temporale e schiarite ,15 °C ,22 °C ,29 °C ,Bolzano
+2021,6,10,Nessuno ,poco nuvoloso ,17 °C ,25 °C ,30 °C ,Bolzano
+2021,6,11,Nessuno ,poco nuvoloso ,17 °C ,24 °C ,29 °C ,Bolzano
+2021,6,12,Nessuno ,poco nuvoloso ,14 °C ,26 °C ,32 °C ,Bolzano
+2021,6,13,Nessuno ,poco nuvoloso ,20 °C ,29 °C ,34 °C ,Bolzano
+2021,6,14,Nessuno ,sole e caldo ,15 °C ,26 °C ,33 °C ,Bolzano
+2021,6,15,Nessuno ,poco nuvoloso ,21 °C ,27 °C ,31 °C ,Bolzano
+2021,6,16,Nessuno ,poco nuvoloso ,18 °C ,27 °C ,31 °C ,Bolzano
+2021,6,17,Nessuno ,poco nuvoloso ,19 °C ,28 °C ,33 °C ,Bolzano
+2021,6,18,Pioggia - Temporale  ,temporale e schiarite ,21 °C ,28 °C ,33 °C ,Bolzano
+2021,6,19,Nessuno ,poco nuvoloso ,22 °C ,29 °C ,34 °C ,Bolzano
+2021,6,20,Nessuno ,poco nuvoloso ,20 °C ,28 °C ,33 °C ,Bolzano
+2021,6,21,Nessuno ,poco nuvoloso ,22 °C ,29 °C ,34 °C ,Bolzano
+2021,6,22,Nessuno ,poco nuvoloso ,19 °C ,28 °C ,33 °C ,Bolzano
+2021,6,23,Pioggia - Temporale  ,temporale e schiarite ,17 °C ,25 °C ,34 °C ,Bolzano
+2021,6,24,Nessuno ,poco nuvoloso ,16 °C ,26 °C ,32 °C ,Bolzano
+2021,6,25,Pioggia - Temporale  ,temporale e schiarite ,16 °C ,25 °C ,31 °C ,Bolzano
+2021,6,26,Pioggia - Temporale  ,temporale e schiarite ,13 °C ,25 °C ,31 °C ,Bolzano
+2021,6,27,Nessuno ,poco nuvoloso ,15 °C ,25 °C ,32 °C ,Bolzano
+2021,6,28,Nessuno ,poco nuvoloso ,19 °C ,29 °C ,35 °C ,Bolzano
+2021,6,29,Pioggia - Temporale  ,poco nuvoloso ,18 °C ,27 °C ,33 °C ,Bolzano
+2021,6,30,Pioggia - Temporale  ,temporale e schiarite ,15 °C ,22 °C ,29 °C ,Bolzano
+2021,7,1,Nessuno ,poco nuvoloso ,14 °C ,23 °C ,29 °C ,Bolzano
+2021,7,2,Nessuno ,poco nuvoloso ,14 °C ,26 °C ,30 °C ,Bolzano
+2021,7,3,Pioggia  ,pioggia e schiarite ,17 °C ,25 °C ,31 °C ,Bolzano
+2021,7,4,Pioggia  ,pioggia e schiarite ,18 °C ,22 °C ,28 °C ,Bolzano
+2021,7,5,Nessuno ,poco nuvoloso ,13 °C ,24 °C ,30 °C ,Bolzano
+2021,7,6,Nessuno ,poco nuvoloso ,16 °C ,27 °C ,33 °C ,Bolzano
+2021,7,7,Pioggia - Temporale  ,temporale e schiarite ,19 °C ,28 °C ,34 °C ,Bolzano
+2021,7,8,Pioggia - Temporale  ,temporale e schiarite ,19 °C ,23 °C ,29 °C ,Bolzano
+2021,7,9,Nessuno ,poco nuvoloso ,16 °C ,25 °C ,31 °C ,Bolzano
+2021,7,10,Nessuno ,poco nuvoloso ,15 °C ,27 °C ,32 °C ,Bolzano
+2021,7,11,Pioggia  ,pioggia e schiarite ,17 °C ,24 °C ,31 °C ,Bolzano
+2021,7,12,Nessuno ,poco nuvoloso ,16 °C ,27 °C ,33 °C ,Bolzano
+2021,7,13,Pioggia - Temporale  ,temporale e schiarite ,16 °C ,20 °C ,27 °C ,Bolzano
+2021,7,14,Pioggia - Temporale  ,temporale e schiarite ,14 °C ,18 °C ,23 °C ,Bolzano
+2021,7,15,Pioggia  ,pioggia e schiarite ,14 °C ,19 °C ,25 °C ,Bolzano
+2021,7,16,Pioggia  ,pioggia e schiarite ,14 °C ,21 °C ,25 °C ,Bolzano
+2021,7,17,Nessuno ,poco nuvoloso ,15 °C ,23 °C ,29 °C ,Bolzano
+2021,7,18,Nessuno ,poco nuvoloso ,19 °C ,27 °C ,32 °C ,Bolzano
+2021,7,19,Nessuno ,poco nuvoloso ,17 °C ,28 °C ,35 °C ,Bolzano
+2021,7,20,Nessuno ,poco nuvoloso ,16 °C ,27 °C ,33 °C ,Bolzano
+2021,7,21,Nessuno ,poco nuvoloso ,18 °C ,28 °C ,34 °C ,Bolzano
+2021,7,22,Pioggia - Temporale  ,temporale e schiarite ,19 °C ,24 °C ,29 °C ,Bolzano
+2021,7,23,Nessuno ,poco nuvoloso ,15 °C ,25 °C ,31 °C ,Bolzano
+2021,7,24,Pioggia - Temporale  ,poco nuvoloso ,22 °C ,27 °C ,32 °C ,Bolzano
+2021,7,25,Pioggia - Temporale  ,temporale e schiarite ,19 °C ,24 °C ,30 °C ,Bolzano
+2021,7,26,Pioggia - Temporale  ,temporale e schiarite ,16 °C ,21 °C ,24 °C ,Bolzano
+2021,7,27,Pioggia - Temporale  ,temporale e schiarite ,17 °C ,22 °C ,27 °C ,Bolzano
+2021,7,28,Nessuno ,poco nuvoloso ,18 °C ,24 °C ,28 °C ,Bolzano
+2021,7,29,Nessuno ,poco nuvoloso ,17 °C ,27 °C ,32 °C ,Bolzano
+2021,7,30,Pioggia - Temporale  ,poco nuvoloso ,18 °C ,27 °C ,32 °C ,Bolzano
+2021,7,31,Pioggia - Temporale  ,temporale e schiarite ,18 °C ,24 °C ,31 °C ,Bolzano
+2021,8,1,Pioggia - Temporale  ,temporale e schiarite ,16 °C ,19 °C ,21 °C ,Bolzano
+2021,8,2,Pioggia  ,poco nuvoloso ,12 °C ,20 °C ,24 °C ,Bolzano
+2021,8,3,Pioggia  ,pioggia e schiarite ,16 °C ,19 °C ,22 °C ,Bolzano
+2021,8,4,Pioggia  ,pioggia e schiarite ,16 °C ,19 °C ,21 °C ,Bolzano
+2021,8,5,Nessuno ,poco nuvoloso ,14 °C ,22 °C ,29 °C ,Bolzano
+2021,8,6,Nessuno ,poco nuvoloso ,15 °C ,24 °C ,30 °C ,Bolzano
+2021,8,7,Pioggia  ,poco nuvoloso ,18 °C ,24 °C ,29 °C ,Bolzano
+2021,8,8,Nessuno ,poco nuvoloso ,19 °C ,25 °C ,29 °C ,Bolzano
+2021,8,9,Nessuno ,poco nuvoloso ,16 °C ,24 °C ,31 °C ,Bolzano
+2021,8,10,Nessuno ,sole e caldo ,15 °C ,25 °C ,31 °C ,Bolzano
+2021,8,11,Nessuno ,poco nuvoloso ,17 °C ,27 °C ,33 °C ,Bolzano
+2021,8,12,Nessuno ,sole e caldo ,18 °C ,28 °C ,35 °C ,Bolzano
+2021,8,13,Nessuno ,poco nuvoloso ,19 °C ,28 °C ,34 °C ,Bolzano
+2021,8,14,Nessuno ,sole e caldo ,18 °C ,28 °C ,35 °C ,Bolzano
+2021,8,15,Nessuno ,poco nuvoloso ,20 °C ,29 °C ,35 °C ,Bolzano
+2021,8,16,Pioggia - Temporale  ,temporale e schiarite ,17 °C ,22 °C ,28 °C ,Bolzano
+2021,8,17,Nessuno ,poco nuvoloso ,13 °C ,23 °C ,29 °C ,Bolzano
+2021,8,18,Nessuno ,poco nuvoloso ,16 °C ,24 °C ,30 °C ,Bolzano
+2021,8,19,Nessuno ,poco nuvoloso ,17 °C ,24 °C ,30 °C ,Bolzano
+2021,8,20,Nessuno ,poco nuvoloso ,18 °C ,25 °C ,30 °C ,Bolzano
+2021,8,21,Nessuno ,poco nuvoloso ,16 °C ,25 °C ,31 °C ,Bolzano
+2021,8,22,Pioggia - Temporale  ,temporale e schiarite ,18 °C ,24 °C ,27 °C ,Bolzano
+2021,8,23,Nessuno ,poco nuvoloso ,18 °C ,24 °C ,30 °C ,Bolzano
+2021,8,24,Nessuno ,poco nuvoloso ,13 °C ,23 °C ,30 °C ,Bolzano
+2021,8,25,Nessuno ,poco nuvoloso ,16 °C ,23 °C ,28 °C ,Bolzano
+2021,8,26,Nessuno ,poco nuvoloso ,16 °C ,23 °C ,28 °C ,Bolzano
+2021,8,27,Pioggia  ,poco nuvoloso ,17 °C ,22 °C ,28 °C ,Bolzano
+2021,8,28,Nessuno ,poco nuvoloso ,13 °C ,19 °C ,25 °C ,Bolzano
+2021,8,29,Pioggia  ,pioggia e schiarite ,10 °C ,19 °C ,24 °C ,Bolzano
+2021,8,30,Pioggia  ,pioggia e schiarite ,11 °C ,18 °C ,22 °C ,Bolzano
+2021,8,31,Pioggia  ,poco nuvoloso ,11 °C ,21 °C ,27 °C ,Bolzano
+2021,9,1,Nessuno ,sereno ,13 °C ,22 °C ,29 °C ,Bolzano
+2021,9,2,Nessuno ,poco nuvoloso ,16 °C ,23 °C ,28 °C ,Bolzano
+2021,9,3,Nessuno ,poco nuvoloso ,13 °C ,22 °C ,28 °C ,Bolzano
+2021,9,4,Nessuno ,poco nuvoloso ,13 °C ,23 °C ,28 °C ,Bolzano
+2021,9,5,Nessuno ,poco nuvoloso ,14 °C ,22 °C ,29 °C ,Bolzano
+2021,9,6,Nessuno ,poco nuvoloso ,14 °C ,23 °C ,29 °C ,Bolzano
+2021,9,7,Nessuno ,poco nuvoloso ,15 °C ,23 °C ,28 °C ,Bolzano
+2021,9,8,Nessuno ,poco nuvoloso ,15 °C ,23 °C ,29 °C ,Bolzano
+2021,9,9,Nessuno ,poco nuvoloso ,12 °C ,22 °C ,29 °C ,Bolzano
+2021,9,10,Nessuno ,sereno ,12 °C ,22 °C ,29 °C ,Bolzano
+2021,9,11,Nessuno ,poco nuvoloso ,14 °C ,23 °C ,29 °C ,Bolzano
+2021,9,12,Nessuno ,sereno ,14 °C ,22 °C ,29 °C ,Bolzano
+2021,9,13,Nessuno ,sereno ,14 °C ,22 °C ,29 °C ,Bolzano
+2021,9,14,Nessuno ,sole e caldo ,14 °C ,24 °C ,30 °C ,Bolzano
+2021,9,15,Nessuno ,poco nuvoloso ,14 °C ,22 °C ,25 °C ,Bolzano
+2021,9,16,Pioggia  ,pioggia e schiarite ,18 °C ,20 °C ,22 °C ,Bolzano
+2021,9,17,Nessuno ,poco nuvoloso ,18 °C ,23 °C ,28 °C ,Bolzano
+2021,9,18,Nessuno ,poco nuvoloso ,18 °C ,23 °C ,27 °C ,Bolzano
+2021,9,19,Pioggia - Temporale  ,temporale e schiarite ,15 °C ,18 °C ,20 °C ,Bolzano
+2021,9,20,Pioggia  ,poco nuvoloso ,11 °C ,19 °C ,25 °C ,Bolzano
+2021,9,21,Nessuno ,poco nuvoloso ,12 °C ,19 °C ,25 °C ,Bolzano
+2021,9,22,Nessuno ,sereno ,11 °C ,17 °C ,22 °C ,Bolzano
+2021,9,23,Nessuno ,poco nuvoloso ,11 °C ,18 °C ,23 °C ,Bolzano
+2021,9,24,Nessuno ,sereno ,9 °C ,19 °C ,25 °C ,Bolzano
+2021,9,25,Nessuno ,poco nuvoloso ,12 °C ,20 °C ,25 °C ,Bolzano
+2021,9,26,Nessuno ,poco nuvoloso ,15 °C ,20 °C ,22 °C ,Bolzano
+2021,9,27,Nessuno ,poco nuvoloso ,17 °C ,21 °C ,26 °C ,Bolzano
+2021,9,28,Nessuno ,poco nuvoloso ,12 °C ,20 °C ,26 °C ,Bolzano
+2021,9,29,Pioggia  ,pioggia e schiarite ,15 °C ,19 °C ,24 °C ,Bolzano
+2021,9,30,Nessuno ,poco nuvoloso ,12 °C ,18 °C ,24 °C ,Bolzano
+2021,10,1,Nessuno ,poco nuvoloso ,15 °C ,20 °C ,24 °C ,Bolzano
+2021,10,2,Nessuno ,poco nuvoloso ,11 °C ,18 °C ,24 °C ,Bolzano
+2021,10,3,Nessuno ,nubi sparse ,13 °C ,17 °C ,19 °C ,Bolzano
+2021,10,4,Pioggia  ,poco nuvoloso ,14 °C ,20 °C ,24 °C ,Bolzano
+2021,10,5,Pioggia  ,pioggia e schiarite ,15 °C ,17 °C ,20 °C ,Bolzano
+2021,10,6,Pioggia  ,pioggia e schiarite ,12 °C ,15 °C ,17 °C ,Bolzano
+2021,10,7,Nessuno ,poco nuvoloso ,12 °C ,18 °C ,20 °C ,Bolzano
+2021,10,8,Nessuno ,poco nuvoloso ,11 °C ,17 °C ,22 °C ,Bolzano
+2021,10,9,Nessuno ,sereno ,6 °C ,14 °C ,20 °C ,Bolzano
+2021,10,10,Nessuno ,sereno ,4 °C ,14 °C ,19 °C ,Bolzano
+2021,10,11,Nessuno ,sereno ,5 °C ,14 °C ,21 °C ,Bolzano
+2021,10,12,Nessuno ,poco nuvoloso ,4 °C ,10 °C ,15 °C ,Bolzano
+2021,10,13,Nessuno ,poco nuvoloso ,5 °C ,13 °C ,19 °C ,Bolzano
+2021,10,14,Nessuno ,sereno ,1 °C ,10 °C ,18 °C ,Bolzano
+2021,10,15,Nessuno ,sereno ,1 °C ,10 °C ,17 °C ,Bolzano
+2021,10,16,Nessuno ,sereno ,2 °C ,11 °C ,19 °C ,Bolzano
+2021,10,17,Nessuno ,sereno ,2 °C ,11 °C ,18 °C ,Bolzano
+2021,10,18,Nessuno ,sereno ,4 °C ,11 °C ,18 °C ,Bolzano
+2021,10,19,Nessuno ,poco nuvoloso ,5 °C ,11 °C ,15 °C ,Bolzano
+2021,10,20,Nessuno ,poco nuvoloso ,4 °C ,14 °C ,18 °C ,Bolzano
+2021,10,21,Nessuno ,nubi sparse ,12 °C ,15 °C ,17 °C ,Bolzano
+2021,10,22,Nessuno ,poco nuvoloso ,11 °C ,14 °C ,20 °C ,Bolzano
+2021,10,23,Nessuno ,sereno ,4 °C ,10 °C ,18 °C ,Bolzano
+2021,10,24,Nessuno ,sereno ,2 °C ,8 °C ,17 °C ,Bolzano
+2021,10,25,Nessuno ,sereno ,3 °C ,8 °C ,13 °C ,Bolzano
+2021,10,26,Nessuno ,poco nuvoloso ,3 °C ,9 °C ,17 °C ,Bolzano
+2021,10,27,Nessuno ,sereno ,2 °C ,10 °C ,17 °C ,Bolzano
+2021,10,28,Nessuno ,sereno ,1 °C ,9 °C ,17 °C ,Bolzano
+2021,10,29,Nessuno ,sereno ,0 °C ,9 °C ,16 °C ,Bolzano
+2021,10,30,Nessuno ,poco nuvoloso ,-1 °C ,9 °C ,14 °C ,Bolzano
+2021,10,31,Nessuno ,poco nuvoloso ,6 °C ,10 °C ,14 °C ,Bolzano
+2021,11,1,Pioggia  ,pioggia e schiarite ,8 °C ,9 °C ,10 °C ,Bolzano
+2021,11,2,Nebbia  ,nebbia al mattino ,3 °C ,9 °C ,14 °C ,Bolzano
+2021,11,3,Pioggia  ,pioggia e schiarite ,6 °C ,8 °C ,9 °C ,Bolzano
+2021,11,4,Pioggia  ,pioggia e schiarite ,4 °C ,6 °C ,8 °C ,Bolzano
+2021,11,5,Nessuno ,sereno ,2 °C ,6 °C ,13 °C ,Bolzano
+2021,11,6,Nessuno ,sereno ,-1 °C ,5 °C ,12 °C ,Bolzano
+2021,11,7,Nessuno ,sereno ,-2 °C ,5 °C ,12 °C ,Bolzano
+2021,11,8,Nessuno ,sereno ,0 °C ,6 °C ,12 °C ,Bolzano
+2021,11,9,Nessuno ,poco nuvoloso ,1 °C ,6 °C ,12 °C ,Bolzano
+2021,11,10,Nessuno ,poco nuvoloso ,4 °C ,9 °C ,14 °C ,Bolzano
+2021,11,11,Nessuno ,poco nuvoloso ,2 °C ,9 °C ,16 °C ,Bolzano
+2021,11,12,Nessuno ,sereno ,3 °C ,10 °C ,16 °C ,Bolzano
+2021,11,13,Pioggia  ,pioggia e schiarite ,7 °C ,9 °C ,10 °C ,Bolzano
+2021,11,14,Pioggia  ,pioggia e schiarite ,8 °C ,9 °C ,10 °C ,Bolzano
+2021,11,15,Nebbia  ,nebbia al mattino ,7 °C ,9 °C ,12 °C ,Bolzano
+2021,11,16,Pioggia  ,pioggia e schiarite ,4 °C ,9 °C ,12 °C ,Bolzano
+2021,11,17,Nessuno ,poco nuvoloso ,6 °C ,10 °C ,13 °C ,Bolzano
+2021,11,18,Nessuno ,poco nuvoloso ,4 °C ,9 °C ,14 °C ,Bolzano
+2021,11,19,Nessuno ,sereno ,2 °C ,8 °C ,14 °C ,Bolzano
+2021,11,20,Nessuno ,sereno ,1 °C ,7 °C ,15 °C ,Bolzano
+2021,11,21,Nessuno ,poco nuvoloso ,2 °C ,8 °C ,12 °C ,Bolzano
+2021,11,22,Nessuno ,nubi sparse ,6 °C ,9 °C ,11 °C ,Bolzano
+2021,11,23,Nessuno ,poco nuvoloso ,4 °C ,9 °C ,14 °C ,Bolzano
+2021,11,24,Nessuno ,sereno ,0 °C ,5 °C ,9 °C ,Bolzano
+2021,11,25,Nessuno ,poco nuvoloso ,-1 °C ,4 °C ,5 °C ,Bolzano
+2021,11,26,Pioggia  ,pioggia e schiarite ,3 °C ,5 °C ,7 °C ,Bolzano
+2021,11,27,Pioggia  ,pioggia e schiarite ,5 °C ,7 °C ,10 °C ,Bolzano
+2021,11,28,Pioggia  ,pioggia e schiarite ,2 °C ,4 °C ,6 °C ,Bolzano
+2021,11,29,Nessuno ,poco nuvoloso ,3 °C ,5 °C ,9 °C ,Bolzano
+2021,11,30,Nessuno ,sereno ,-3 °C ,2 °C ,6 °C ,Bolzano
+2021,12,1,Nessuno ,poco nuvoloso ,-3 °C ,4 °C ,15 °C ,Bolzano
+2021,12,2,Pioggia  ,poco nuvoloso ,2 °C ,4 °C ,7 °C ,Bolzano
+2021,12,3,Nessuno ,sereno ,-1 °C ,5 °C ,10 °C ,Bolzano
+2021,12,4,Nessuno ,poco nuvoloso ,-2 °C ,2 °C ,8 °C ,Bolzano
+2021,12,5,Pioggia - Neve  ,nubi sparse ,1 °C ,3 °C ,5 °C ,Bolzano
+2021,12,6,Nessuno ,sereno ,-2 °C ,3 °C ,7 °C ,Bolzano
+2021,12,7,Nessuno ,sereno ,-3 °C ,1 °C ,6 °C ,Bolzano
+2021,12,8,Neve  ,neve e schiarite ,-2 °C ,-1 °C ,0 °C ,Bolzano
+2021,12,9,Nessuno ,nubi sparse ,-2 °C ,0 °C ,3 °C ,Bolzano
+2021,12,10,Nessuno ,poco nuvoloso ,-9 °C ,-3 °C ,0 °C ,Bolzano
+2021,12,11,Nessuno ,poco nuvoloso ,-8 °C ,3 °C ,7 °C ,Bolzano
+2021,12,12,Nessuno ,sereno ,0 °C ,4 °C ,12 °C ,Bolzano
+2021,12,13,Nessuno ,sereno ,-2 °C ,2 °C ,9 °C ,Bolzano
+2021,12,14,Nessuno ,sereno ,-2 °C ,2 °C ,5 °C ,Bolzano
+2021,12,15,Nessuno ,sereno ,-2 °C ,3 °C ,8 °C ,Bolzano
+2021,12,16,Nessuno ,sereno ,-3 °C ,3 °C ,8 °C ,Bolzano
+2021,12,17,Nessuno ,sereno ,-2 °C ,4 °C ,10 °C ,Bolzano
+2021,12,18,Nessuno ,sereno ,-3 °C ,1 °C ,8 °C ,Bolzano
+2021,12,19,Nessuno ,sereno ,-3 °C ,1 °C ,9 °C ,Bolzano
+2021,12,20,Nessuno ,sereno ,-3 °C ,3 °C ,8 °C ,Bolzano
+2021,12,21,Nessuno ,poco nuvoloso ,-5 °C ,-1 °C ,3 °C ,Bolzano
+2021,12,22,Nessuno ,sereno ,-8 °C ,-1 °C ,4 °C ,Bolzano
+2021,12,23,Nessuno ,sereno ,-5 °C ,-2 °C ,1 °C ,Bolzano
+2021,12,24,Nessuno ,poco nuvoloso ,-3 °C ,0 °C ,2 °C ,Bolzano
+2021,12,25,Nessuno ,nubi sparse ,1 °C ,3 °C ,6 °C ,Bolzano
+2021,12,26,Nessuno ,poco nuvoloso ,-2 °C ,3 °C ,8 °C ,Bolzano
+2021,12,27,Pioggia  ,nubi sparse ,2 °C ,5 °C ,7 °C ,Bolzano
+2021,12,28,Nessuno ,poco nuvoloso ,2 °C ,5 °C ,7 °C ,Bolzano
+2021,12,29,Pioggia  ,pioggia e schiarite ,1 °C ,6 °C ,9 °C ,Bolzano
+2021,12,30,Nebbia  ,sereno ,2 °C ,5 °C ,10 °C ,Bolzano
+2021,12,31,Nessuno ,sereno ,0 °C ,5 °C ,12 °C ,Bolzano
+2022,1,1,Nessuno ,sereno ,1 °C ,6 °C ,13 °C ,Bolzano
+2022,1,2,Nessuno ,sereno ,0 °C ,5 °C ,10 °C ,Bolzano
+2022,1,3,Nessuno ,poco nuvoloso ,-2 °C ,2 °C ,6 °C ,Bolzano
+2022,1,4,Nessuno ,coperto ,-3 °C ,3 °C ,4 °C ,Bolzano
+2022,1,5,Pioggia  ,pioggia e schiarite ,3 °C ,5 °C ,9 °C ,Bolzano
+2022,1,6,Nessuno ,sereno ,1 °C ,7 °C ,11 °C ,Bolzano
+2022,1,7,Nessuno ,sereno ,-2 °C ,1 °C ,4 °C ,Bolzano
+2022,1,8,Nessuno ,poco nuvoloso ,-4 °C ,0 °C ,5 °C ,Bolzano
+2022,1,9,Nessuno ,poco nuvoloso ,-4 °C ,1 °C ,5 °C ,Bolzano
+2022,1,10,Nessuno ,sereno ,-2 °C ,5 °C ,10 °C ,Bolzano
+2022,1,11,Nessuno ,sereno ,-1 °C ,4 °C ,11 °C ,Bolzano
+2022,1,12,Nessuno ,sereno ,-3 °C ,2 °C ,8 °C ,Bolzano
+2022,1,13,Nessuno ,sereno ,-7 °C ,0 °C ,7 °C ,Bolzano
+2022,1,14,Nessuno ,sereno ,-4 °C ,3 °C ,10 °C ,Bolzano
+2022,1,15,Nessuno ,sereno ,-1 °C ,5 °C ,12 °C ,Bolzano
+2022,1,16,Nessuno ,sereno ,-3 °C ,3 °C ,10 °C ,Bolzano
+2022,1,17,Nessuno ,sereno ,-1 °C ,9 °C ,14 °C ,Bolzano
+2022,1,18,Nessuno ,sereno ,0 °C ,5 °C ,13 °C ,Bolzano
+2022,1,19,Nessuno ,sereno ,-5 °C ,2 °C ,9 °C ,Bolzano
+2022,1,20,Nessuno ,sereno ,-4 °C ,5 °C ,9 °C ,Bolzano
+2022,1,21,Nessuno ,sereno ,5 °C ,7 °C ,10 °C ,Bolzano
+2022,1,22,Nessuno ,poco nuvoloso ,-3 °C ,6 °C ,14 °C ,Bolzano
+2022,1,23,Nessuno ,sereno ,-2 °C ,3 °C ,11 °C ,Bolzano
+2022,1,24,Nessuno ,sereno ,-4 °C ,3 °C ,10 °C ,Bolzano
+2022,1,25,Nessuno ,poco nuvoloso ,-4 °C ,2 °C ,8 °C ,Bolzano
+2022,1,26,Nessuno ,sereno ,-4 °C ,4 °C ,11 °C ,Bolzano
+2022,1,27,Nessuno ,poco nuvoloso ,-4 °C ,1 °C ,7 °C ,Bolzano
+2022,1,28,Nessuno ,sereno ,-5 °C ,7 °C ,14 °C ,Bolzano
+2022,1,29,Nessuno ,sereno ,-4 °C ,3 °C ,10 °C ,Bolzano
+2022,1,30,Nessuno ,sereno ,-6 °C ,8 °C ,20 °C ,Bolzano
+2022,1,31,Nessuno ,poco nuvoloso ,-2 °C ,7 °C ,12 °C ,Bolzano
+2022,2,1,Nessuno ,poco nuvoloso ,3 °C ,9 °C ,12 °C ,Bolzano
+2022,2,2,Nessuno ,poco nuvoloso ,1 °C ,6 °C ,10 °C ,Bolzano
+2022,2,3,Nessuno ,sereno ,0 °C ,7 °C ,14 °C ,Bolzano
+2022,2,4,Nessuno ,sereno ,-2 °C ,5 °C ,12 °C ,Bolzano
+2022,2,5,Nessuno ,sereno ,-2 °C ,5 °C ,13 °C ,Bolzano
+2022,2,6,Nessuno ,poco nuvoloso ,-3 °C ,3 °C ,9 °C ,Bolzano
+2022,2,7,Pioggia  ,poco nuvoloso ,2 °C ,7 °C ,11 °C ,Bolzano
+2022,2,8,Nessuno ,sereno ,0 °C ,6 °C ,14 °C ,Bolzano
+2022,2,9,Nessuno ,sereno ,-2 °C ,6 °C ,15 °C ,Bolzano
+2022,2,10,Nessuno ,sereno ,-4 °C ,5 °C ,12 °C ,Bolzano
+2022,2,11,Nessuno ,poco nuvoloso ,3 °C ,8 °C ,13 °C ,Bolzano
+2022,2,12,Nessuno ,sereno ,-2 °C ,3 °C ,11 °C ,Bolzano
+2022,2,13,Nessuno ,sereno ,-4 °C ,2 °C ,9 °C ,Bolzano
+2022,2,14,Nessuno ,poco nuvoloso ,-5 °C ,4 °C ,9 °C ,Bolzano
+2022,2,15,Pioggia - Neve  ,pioggia mista a neve e schiarite ,0 °C ,1 °C ,3 °C ,Bolzano
+2022,2,16,Nessuno ,sereno ,-3 °C ,3 °C ,9 °C ,Bolzano
+2022,2,17,Nessuno ,sereno ,-2 °C ,5 °C ,12 °C ,Bolzano
+2022,2,18,Nessuno ,poco nuvoloso ,-2 °C ,7 °C ,13 °C ,Bolzano
+2022,2,19,Nessuno ,poco nuvoloso ,4 °C ,9 °C ,13 °C ,Bolzano
+2022,2,20,Nessuno ,poco nuvoloso ,0 °C ,8 °C ,16 °C ,Bolzano
+2022,2,21,Pioggia  ,poco nuvoloso ,3 °C ,8 °C ,14 °C ,Bolzano
+2022,2,22,Nessuno ,poco nuvoloso ,2 °C ,11 °C ,16 °C ,Bolzano
+2022,2,23,Nessuno ,sereno ,-2 °C ,9 °C ,18 °C ,Bolzano
+2022,2,24,Nessuno ,sereno ,0 °C ,8 °C ,13 °C ,Bolzano
+2022,2,25,Nessuno ,poco nuvoloso ,0 °C ,9 °C ,15 °C ,Bolzano
+2022,2,26,Nessuno ,sereno ,0 °C ,9 °C ,13 °C ,Bolzano
+2022,2,27,Nessuno ,sereno ,-2 °C ,6 °C ,13 °C ,Bolzano
+2022,2,28,Nessuno ,sereno ,-4 °C ,8 °C ,16 °C ,Bolzano
+2022,3,1,Nessuno ,sereno ,-2 °C ,5 °C ,12 °C ,Bolzano
+2022,3,2,Nessuno ,sereno ,-3 °C ,7 °C ,13 °C ,Bolzano
+2022,3,3,Nessuno ,poco nuvoloso ,0 °C ,10 °C ,16 °C ,Bolzano
+2022,3,4,Nessuno ,poco nuvoloso ,-1 °C ,8 °C ,15 °C ,Bolzano
+2022,3,5,Nessuno ,sereno ,-3 °C ,7 °C ,12 °C ,Bolzano
+2022,3,6,Nessuno ,sereno ,-2 °C ,6 °C ,12 °C ,Bolzano
+2022,3,7,Nessuno ,sereno ,-5 °C ,6 °C ,12 °C ,Bolzano
+2022,3,8,Nessuno ,poco nuvoloso ,2 °C ,7 °C ,11 °C ,Bolzano
+2022,3,9,Nessuno ,sereno ,-3 °C ,7 °C ,15 °C ,Bolzano
+2022,3,10,Nessuno ,sereno ,-1 °C ,10 °C ,18 °C ,Bolzano
+2022,3,11,Nessuno ,poco nuvoloso ,-1 °C ,8 °C ,13 °C ,Bolzano
+2022,3,12,Nessuno ,poco nuvoloso ,3 °C ,8 °C ,13 °C ,Bolzano
+2022,3,13,Nessuno ,sereno ,-2 °C ,8 °C ,15 °C ,Bolzano
+2022,3,14,Nessuno ,sereno ,0 °C ,10 °C ,16 °C ,Bolzano
+2022,3,15,Nessuno ,poco nuvoloso ,5 °C ,8 °C ,10 °C ,Bolzano
+2022,3,16,Nessuno ,sereno ,1 °C ,11 °C ,16 °C ,Bolzano
+2022,3,17,Nessuno ,sereno ,4 °C ,11 °C ,15 °C ,Bolzano
+2022,3,18,Nessuno ,poco nuvoloso ,7 °C ,14 °C ,19 °C ,Bolzano
+2022,3,19,Nessuno ,poco nuvoloso ,1 °C ,11 °C ,17 °C ,Bolzano
+2022,3,20,Nessuno ,sereno ,1 °C ,11 °C ,16 °C ,Bolzano
